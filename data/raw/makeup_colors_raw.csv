@@ -1,0 +1,5330 @@
+product_id,color_name,hex_value
+1048,BFF Pencil,#B28378
+1048,951 Pencil,#A36B5E
+1048,Beeper Pencil,#966A60
+1048,Oh Snap Pencil,#8F5954
+1048,Curvii Pencil,#975348
+1048,Lumiere Pencil,#865B69
+1048,Bumble Pencil,#8E474D
+1048,BFF Pencil 3,#5F2820
+1048,Brills Pencil,#C095BC
+1048,Are N Be Pencil,#743A6A
+1048,Contempo Pencil,#965564
+1048,Heart On Pencil,#BF2C7E
+1048,Trixie Pencil,#CE435D
+1048,Chi Chi Pencil,#DA6952
+1048,Clique Pencil,#A33C37
+1048,Frenchie Pencil,#C23D3C
+1048,Bossy Pencil,#AF4051
+1048,Wild Nothing Pencil,#914B4C
+1048,Dopey Pencil,#6D414B
+1048,Toolips Pencil,#4D2D28
+1048,Mamacita Pencil,#361927
+1048,Pitch Pencil,#714B41
+1048,LBB Pencil,#762F50
+1048,Love Bug Pencil,#8C4A47
+1048,Poison Pencil,#702E2D
+1048,Bichette Pencil,#93283C
+1048,Dukes Pencil,#653E44
+1048,Leather Pencil,#5C3357
+1048,Bull Chic Pencil,#242225
+1048,Brink Pencil,#B5716A
+1048,I Heart This Pencil,#B0516F
+1048,Ellarie Pencil,#542328
+1048,Toy Pencil,#DFAC9B
+1048,BFF Pencil 2,#AB7164
+1047,Bee's Knees,#b72227
+1047,Brain Freeze,#BB656B
+1047,Drip,#8E4140
+1047,On a Stick,#A12A33
+1047,Ice Cube,#904550
+1047,Lolly,#452222
+1047,Candyfloss,#7C3F35
+1046,Fair 05,#F2DEC3
+1046,Ziggie,#793C36
+1046,Goldie,#723739
+1046,Love Life,#BF3A30
+1046,Who Run this,#94372D
+1046,Aquarius,#9E574D
+1046,Brink,#C68176
+1046,Cami,#AA6968
+1046,Sike,#E28474
+1046,Fly-Fi,#9A2B24
+1046,Goal Digger,#B97271
+1046,After Shock,#BA7378
+1046,Little Tings,#D68B99
+1046,Ink Blot,#C07D6B
+1046,Candy Paint,#A3595E
+1046,Ellarie,#5D2318
+1046,Daydream,#C17773
+1046,Oh Snap,#C08892
+1046,Faded,#BC6E6B
+1046,Bound,#CF8D98
+1046,Party Foul,#762554
+1046,Parker,#B67367
+1046,Bichette,#852528
+1046,Sauce,#B86A82
+1046,Topanga,#B75E59
+1046,Lullaby,#EA5151
+1046,Contempo,#C08586
+1046,Heart on,#B82485
+1046,I Heart this Lippie,#C5314F
+1046,Tootsi,#8F6557
+1046,Cookie,#AF7564
+1046,Persuasion,#AA4E79
+1046,Pitch,#442A26
+1046,Leather,#5C4761
+1046,Frenchie,#D12C35
+1046,"Mirror, Mirror",#AB3E61
+1046,Poison,#621F20
+1046,LBB,#623343
+1046,Grunge,#864740
+1046,Bossy,#C5282D
+1046,Chi Chi,#DC4A3C
+1046,Trust Me,#CB2931
+1046,Poppin',#AB223E
+1046,Lumiere,#A05F6A
+1046,Taurus,#763A31
+1046,Kapish,#975450
+1045,Fair 05,#F2DEC3
+1045,Fair 10,#F3DAC4
+1045,Fair 15,#F1D9C0
+1045,Fair 20,#EFD2BA
+1045,Fair 25,#F1D7B3
+1045,Fair 30,#EDD0B4
+1045,Fair 35,#D9B295
+1045,Light 45,#CAA17B
+1045,Light 50,#E8C2A4
+1045,Light 55,#E8C3A6
+1045,Light 60,#E9C2A4
+1045,Light 65,#E1B68E
+1045,Light 70,#E4C096
+1045,Light 75,#E0B492
+1045,Medium 80,#E0C1A1
+1045,Medium 85,#E4C1A9
+1045,Medium 90,#E5C6A8
+1045,Medium 95,#D3A784
+1045,Medium 100,#E2C2A1
+1045,Medium 105,#D7B297
+1045,Medium 110,#D4B194
+1045,Medium Dark 115,#DCBFA5
+1045,Medium Dark 120,#D7B59A
+1045,Medium Dark 125,#C69676
+1045,Medium Dark 130,#D9B498
+1045,Medium Dark 135,#D9B191
+1045,Medium Dark 140,#D1AA90
+1045,Medium Dark 145,#BF8E63
+1045,Dark 150,#C69B83
+1045,Dark 155,#C29879
+1045,Dark 160,#B99179
+1045,Dark 165,#C39981
+1045,Dark 170,#B99078
+1045,Dark 175,#B6927D
+1045,Dark 180,#B38A79
+1045,Deep Dark 115,#AC8875
+1045,Deep Dark 115,#A07967
+1045,Deep Dark 115,#946D5A
+1045,Deep Dark 115,#865F4D
+1045,Deep Dark 80,#896A5A
+1045,Deep Dark 80,#795F52
+1045,Deep Dark 80,#6B5148
+1044,Babs,#CB4975
+1044,Bobbie,#B6636F
+1044,Rosie,#B37072
+1044,Ellie,#C6727C
+1044,Dahlia,#AF2257
+1044,Kat,#573F53
+1044,Brie,#875672
+1044,Emmy,#BC88A5
+1044,Dusty rose,#BB8A88
+1044,Kylie,#8D5C58
+1044,Leah,#C86775
+1044,Lip Plumping Balm,#F8D7D6
+1044,Luna,#8F6065
+1044,Nova,#C79289
+1044,Ruby,#9D3F47
+1043,1.0P,#f4e5d6
+1043,1.0N,#f3e8d1
+1043,1.0NS,#f3e8d1
+1043,1.1P,#f2d7ba
+1043,1.1N,#efdbba
+1043,1.2N,#f0d5af
+1043,1.2P,#e5c5a1
+1043,1.2Y,#e6c796
+1043,1.2YG,#e6c796
+1043,2.0P,#e3be8e
+1043,2.0N,#e5cb9f
+1043,2.0YG,#dcc399
+1043,2.1P,#ddb279
+1043,2.1Y,#dcad6d
+1043,3.0R,#d59c62
+1043,3.0Y,#d19e61
+1043,3.1R,#b3754a
+1043,3.1Y,#c28651
+1043,3.2N,#916C4F
+1043,3.2R,#8E6346
+1043,3.3N,#664A37
+1042,1.0P,#f4e5d6
+1042,1.0N,#f3e8d1
+1042,1.0NS,#f3e8d1
+1042,1.1P,#f2d7ba
+1042,1.1N,#efdbba
+1042,1.2N,#f0d5af
+1042,1.2P,#e5c5a1
+1042,1.2Y,#e6c796
+1042,1.2YG,#e6c796
+1042,2.0P,#e3be8e
+1042,2.0N,#e5cb9f
+1042,2.0YG,#dcc399
+1042,2.1P,#ddb279
+1042,2.1Y,#dcad6d
+1042,3.0R,#d59c62
+1042,3.0Y,#d19e61
+1042,3.1R,#b3754a
+1042,3.1Y,#c28651
+1042,3.2N,#916C4F
+1042,3.2R,#8E6346
+1042,3.3N,#664A37
+1041,Black,#000000
+1040,Sahara,#966A54
+1040,Evrest,#6B7475
+1040,Casablanca,#444446
+1039,Translucent,#E8E6E7
+1038,B smudged,#485376
+1037,Every Blonde's Pink,#BF5D7F
+1037,Primrose,#D84945
+1037,Soft Kiss,#E1A2A0
+1037,Ruby's Red,#B82F42
+1037,Copper Penny,#BE5F37
+1037,Sweet Plum,#8F4636
+1036,Pink Parfait,#E1BFC0
+1036,Papaya,#D7A7A3
+1036,Acai Berry,#E6C3CB
+1035,Pink Parfait,#E1BFC0
+1035,Papaya,#D7A7A3
+1035,Acai Berry,#E6C3CB
+1034,White Diamond,#F7F8F3
+1034,Tropical Sunset,#E8B49B
+1034,Moonless Night,#292627
+1034,Mocha Latte,#A17E69
+1034,Iris,#8C666E
+1034,Brazillian Brown,#615349
+1034,Beach Bum,#F7DEC4
+1033,Coconut Cream,#FBE9CD
+1033,Dune,#E6B588
+1033,Glow,#EBC8A0
+1033,Nude,#F8E3D5
+1033,Radiance,#D8B39B
+1033,Sand,#E7CDBA
+1033,Sea Shell,#F1C4A8
+1033,Taffy,#D1B594
+1033,Bahama Mama,#9C7248
+1033,St Tropez,#DDA983
+1032,Caribbean,#A37948
+1031,St Tropez,#DDA983
+1031,Bahama Mama,#9C7248
+1030,Black Cherry,#2F1513
+1030,Fiery Red,#4F1314
+1030,Pearl Pink,#6F2633
+1030,Pink Shimmer,#B05665
+1030,Sunset Bronze,#783F30
+1030,Sweet Cherry,#511617
+1030,Tropical Fuschia,#8E2432
+1029,27 Kisses,#7C524F
+1029,Amalia,#884955
+1029,Bitter Sweet,#9F3D2A
+1029,Dirty Diana,#542A26
+1029,Dreamtime,#793D48
+1029,Fairy Tale,#BB6E60
+1029,Halo,#BA8285
+1029,Just Like Jade,#71474E
+1029,Naked,#AF8475
+1029,Precious,#D65572
+1029,Revenge,#8F1A23
+1029,Ruby Rose,#8B383D
+1029,Survivor,#C83752
+1029,Viva,#784F5F
+1029,Zo Zo,#672F57
+1028,Ivory,#F8DBC3
+1028,Natural Beige,#ECBFA3
+1028,Sunny Beige,#FAE3C9
+1028,Warm Tan,#F3D2B7
+1028,Tan,#E7C09D
+1028,Honey,#F4D3B8
+1028,Caramel,#D4AD8C
+1028,Chocolate,#D8AD91
+1028,Deep Golden,#C29F90
+1027,Blanc,#FDFAF9
+1027,A la mode,#F9F5F2
+1027,Soiree,#C5BEBA
+1027,Oro,#DFC99C
+1027,Cafe,#635152
+1027,Emerald,#DADFBF
+1027,Foret,#A2AA93
+1027,Tres Beau,#8E6771
+1027,C'est Bon,#9886A3
+1027,Lune,#5B739C
+1027,Minuit,#464342
+1027,Mon Amour,#CBDDE3
+1027,Fleur,#E2CED1
+1026,Blushing Apple,#C97D66
+1026,Desert Rose,#DF9A84
+1025,Black,#000000
+1024,Bisque,#D1A390
+1024,Rose,#E4C2C4
+1024,Jade,#CBD0D0
+1024,K aki,#9F9686
+1024,Emerald,#92A281
+1024,Oam,#C57F70
+1024,Chocolate,#8D6255
+1024,Riz Violet,#AB9A9E
+1024,Aubergine,#808193
+1024,Oro,#F8DDAE
+1024,Argent,#B0A9AC
+1024,Mauve,#8B5966
+1024,Noir,#47404A
+1023,Evelyn,#9D5E4F
+1023,Rosie,#B03B3E
+1023,Giselle,#9A1C24
+1023,Ava,#B4556E
+1022,Posh,#D5A291
+1022,Flair,#D5A3A1
+1022,Tickled,#E89EA2
+1022,Envy,#8B5B5F
+1022,Lush,#99696C
+1022,Pure,#F1B8BE
+1022,Babe,#D37B92
+1022,Wild,#CA5774
+1021,Black,#000000
+1020,Black,#000000
+1020,Brown,#393230
+1020,Smoke,#353234
+1019,Charcoal Brown,#5B4439
+1019,Black,#000000
+1019,Cocoa,#5E3C30
+1019,Dark Gray,#4D4D4B
+1019,Hazel Brown,#6E4E2A
+1018,Black,#000000
+1017,Plum,#C7766F
+1017,Apricot,#DF925C
+1017,Rose,#E89B7C
+1016,Color 1,#FDF5EB
+1016,Color 2,#F5CFBC
+1016,Color 3,#B57F57
+1016,Color 4,#A39796
+1015,Color 1,#F4DACA
+1015,Color 2,#C89281
+1015,Color 3,#4F7386
+1015,Color 4,#9D9484
+1014,Color 1,#7F946E
+1014,Color 2,#C8B38A
+1014,Color 3,#668D9F
+1014,Color 4,#36312C
+1013,Color 1,#EBBC9D
+1013,Color 2,#EFB1B0
+1013,Color 3,#5E3A31
+1013,Color 4,#72504A
+1012,Color 1,#E7CBB7
+1012,Color 2,#BE9794
+1012,Color 3,#B5816B
+1012,Color 4,#9E6D64
+1011,Black,#000000
+1010,Raspberry,#822A42
+1010,Conch,#8D394F
+1010,Crushed Rose,#9F4353
+1010,Tender Toffee,#A15F55
+1010,Deja Vu,#F09178
+1010,Sun Dial,#B83037
+1010,Terra Gold,#AD4C46
+1010,Cowry,#A96B67
+1010,Tender,#B73849
+1010,Nautilus,#D06C89
+1010,Extremely Nude,#C49082
+1010,Ginger Snap,#B78592
+1010,Coral Shell,#DD786A
+1010,Twilight,#E5A4BF
+1010,Sand Dollar,#954D44
+1009,Rise,#DF585A
+1009,Opulence,#E4CFCE
+1009,Bliss,#D6474B
+1008,Black,#000000
+1007,Fresh,#B89093
+1007,True,#CB7579
+1007,Fierce,#EB5D92
+1007,Vivid,#E74857
+1007,Brave,#CC5257
+1007,Courage,#65373E
+1006,Fearless,#B8A89A
+1005,Pale Almond,#B8A89A
+1004,Deep,#96644A
+1004,Rich,#4F3425
+1004,Dark,#BC8E5A
+1004,Medium,#E5BE93
+1004,Light,#F1DBC3
+1003,Dusk,#C78B7C
+1003,Puff,#F3D1E0
+1003,Beam,#F1BB9E
+1003,Haze,#B65F79
+1002,Light/Medium,#EABC98
+1002,Dark/Deep,#9B674E
+1002,Rich,#714831
+1001,Topaz,#D19668
+1001,Quartz,#FBE9E1
+1001,Moonstone,#F0EDEB
+1000,Light,#F1DBC3
+1000,Medium,#E5BE93
+1000,Rich,#4F3425
+1000,Dark,#BC8E5A
+1000,Deep,#96644A
+999,Cake,#F4E1D7
+999,Like,#E5C2CF
+999,Crush,#CB6382
+999,Jam,#974A72
+999,Leo,#A46C58
+999,Zip,#DE6262
+993,Waterproof - Black,#141414
+990,Le Frou Frou,#131315
+990,Pin-Up Tease,#232323
+990,Provocateur,#0D0D0D
+990,Faux Lashes,#141414
+990,Le Chick Flick,#151515
+990,La Amoureux,#2B2B2B
+990,Za Za Zu,#121212
+989,Purple,#FFFAFF
+989,Blue,#FBFCFF
+989,Brown,#FFF9F3
+989,Perfect Pear,#FEFBF6
+989,Coral Reef,#FBFAF6
+989,Mint Julep,#F4FAF6
+989,Forget Me Not,#F7F5F8
+989,Pink Petals,#F5F3F4
+988,XXL,#252525
+988,Badunkadunk,#0E0E0E
+988,Voluptuous,gray7
+988,Full Figured,#373737
+988,Curvaceous,#191919
+988,More To Love,#101010
+987,Medium,#8B6534
+987,Deep,#4D2712
+984,Blonde,#B78F69
+984,Auburn,#99663A
+984,Chocolate Brown,#56382D
+984,Charcoal,#403028
+984,Brunette,#765948
+984,Soft Brown,#8A6554
+982,Blonde,#7B5C3F
+982,Taupe,#5E4C3E
+982,Soft Brown,#4C392B
+982,Auburn,#4F2F22
+982,Brunette,#151419
+982,Espresso,#0C160E
+982,Ash Brown,#0B0D0A
+982,Black,gray3
+981,Blonde,#FAFBF6
+981,Taupe,#FFFEFD
+981,Auburn,#FCFFFF
+981,Brunette,#FFFEFB
+981,Espresso,#FFFEFF
+981,Ash Brown,#FFFFFD
+981,Black,white
+979,Blonde,#FFF0E2
+979,Taupe,#F7EFE4
+979,Soft Brown,#F5EBE2
+979,Caramel,#FBEFE3
+979,Auburn,#FBEBDB
+979,Brunette,#F6EDE4
+979,Espresso,#F6EBE5
+979,Ash Brown,#F7EDE4
+979,Black,#E1E1E1
+978,Blonde,#C6B7B0
+978,Taupe,#C2B4A9
+978,Soft Brown,#BDB5AA
+978,Ash Brown,#BBAEA5
+978,Espresso,#A09488
+978,Black,#8D8988
+978,Charcoal,#A79B9D
+978,Auburn,#D5A8AB
+977,Blonde/Ivory,#FFF6E3
+977,Taupe/Vanilla,#FFF8E6
+977,Soft Brown/Rose,#FFF3E9
+977,Auburn/Soft Pink,#FFF5E8
+977,Brunette/Cream,#FFF2DF
+977,Espresso/Light Beige,#FFF5E2
+977,Ash Brown/Medium Beige,#FEF1DE
+977,Black/Golden Peach,#FFF1E7
+975,Black/ Grey,#1C150F
+975,Dark Brown/ Brown,#29170B
+975,Taupe / Ash,#412D15
+975,Auburn / Red,#471C09
+975,Brunette,#442914
+975,Blonde,#3C260F
+974,Blonde,#D4B8A0
+974,Chocolate,#A88774
+974,Brunette,#AF937E
+974,Espresso,#7C665B
+974,Black,#64574F
+973,Light Brown,#B8957F
+973,Auburn,#B3907C
+973,Medium Brown,#9E8370
+973,Brown,#8D725F
+973,Dark Brown,#826A5E
+973,Taupe,#AD9382
+973,Charcoal,#909090
+973,Black,#3A3A3A
+972,Blonde,#BD9E81
+972,Chocolate,#805741
+972,Brunette,#755B44
+972,Espresso,#5E3F2B
+972,Black,#2E251C
+971,Blonde,#9E8469
+971,Chocolate,#855F4C
+971,Brunette,#7F634E
+971,Espresso,#5B4337
+971,Black,#403730
+970,Taupe,#AD927F
+970,Blonde,#BCA28B
+970,Auburn,#A1856D
+970,Chocolate,#8C7160
+970,Ash Brown,#827262
+970,Brunette,#756158
+970,Espresso,#584B42
+970,Black,#2C2C2C
+969,Palisade Paradise,#E29F8C
+969,Killing It,#6CB5AA
+969,Cotton Candy,#D4AAC0
+969,Frost,#DDD5D3
+969,Crystal Vault,#A3ABB6
+966,Interstellar,#D64262
+966,Supernatural,#06ADE4
+966,Infinite Star,#262B51
+965,Emma,#E8E7E3
+965,Betty,#444444
+965,Charlotte,#725C47
+965,Danielle,#03C7B9
+965,Samantha,#496CBE
+965,Scarlette,#512F16
+965,Annie,#583668
+964,Copper,#B15A47
+964,Silver,#99949A
+964,Rose Gold,#B69A8F
+964,Gold,#B88B47
+964,Gunmetal,#2F2F2F
+964,Black Metal,#2D2D2D
+963,Pitch Black,#191919
+963,Brown,#43281D
+962,Seashell,#FFE0E3
+962,Linen,#FFE3D8
+962,Vanilla,#FCF4CF
+962,Honeydew,#F0F4D9
+962,Mint Cream,#E3F1E4
+962,Baby Powder,#D8EBFC
+962,Lavender Blush,#F9E1EE
+962,White Smoke,#E7E3FE
+961,Oxblood,#A06362
+961,Burnt Sienna,#975873
+961,Black Olive,#7D7C60
+961,Onyx,#3C665C
+961,Midnight,#3C7296
+961,Obsidian,#3B608C
+961,Blackberry,#956E83
+961,Black Hole,#766B8B
+960,Glossy Black Liner,#363636
+960,Matte Black Liner,#161616
+960,Satin Finish Black Liner,#2F2F2F
+960,Kohl Kajal Black Liner,#F2F2F2
+960,Powdery Black Liner,#4D4D4D
+960,Powdery Brown Liner,#FFFFFD
+959,Green Shimmer,#9BC98B
+959,Moss,#BBC89D
+959,Emerald City,#477E6B
+959,Seafoam Green,#ADCEC7
+959,Teal,#7ED8B2
+959,Aqua Shimmer,#7BDBDA
+959,Baby Blue,#B1E0EA
+959,Sky Shimmer,#9ED6E7
+959,Electric Blue,#48B3E1
+959,Satin Blue,#8DBDE5
+959,Sapphire,#5C88AF
+959,Purple,#C094D3
+959,Lavender Shimmer,#BFB2E7
+959,Bronze Shimmer,#C69D7F
+959,Cafe,#AB7B64
+959,Auburn,#AB8369
+959,Light Brown,#A78C71
+959,Medium Brown,#8B7462
+959,Brown,#8E7356
+959,Dark Brown,#866D59
+959,Taupe,#BB9B86
+959,Gold Shimmer,#E8BE82
+959,Velvet,#DCC3AF
+959,White,#F9FAF5
+959,White Pearl,#F7F6F2
+959,Silver,#CDCDCD
+959,Gray,#909090
+959,Charcoal,#7F7F7F
+959,Black Brown,#76685D
+959,Black Shimmer,#545454
+959,Black,#575757
+958,Golden Olive,#776F26
+958,Aqua Green,#159C9F
+958,Gypsy Blue,#045F71
+958,Deep Blue,#0A466A
+958,Purple,#4A4480
+958,Deep Purple,#442F5A
+958,Brown,#3D2316
+958,Bronze,#5C3C23
+958,Gold,#CA8F33
+958,White,#F4F5F0
+958,Silver,#C1C1C1
+958,Gray,#525252
+958,Black,#1C1C1C
+957,Jewel,#A88089
+957,Esmeralda,#51A66D
+957,Tropical Green,#519181
+957,Azure,#43CCD6
+957,Sunrise Blue,#4E99C3
+957,Pretty Violet,#A886C2
+957,Purple Blaze,#9A7EB8
+957,Glitzy Gold,#D6B185
+957,Golden Olive,#A78A62
+957,Golden Bronze,#B07D62
+957,Brown Perfection,#907761
+957,Pure White,#F9FAF5
+957,Platinum,#D5D9D8
+957,Gun Metal,#83847F
+957,Black Sparkle,#707271
+957,Jet Black,#626262
+956,Strawberry Milk,#FFACC1
+956,Rust,#C95254
+956,Cucumber,#9CBF00
+956,Lime,#C3D17A
+956,Horseradish,#8DDF95
+956,Rocky Mountain Green,#04A057
+956,Sparkle Green,#1B9775
+956,Baby Blue,#3ACFED
+956,Electric Blue,#05A9CE
+956,Peacock,#0096B7
+956,Cobalt,#2C86B8
+956,Oyster,#EBB4EE
+956,Lavender,#EFC2ED
+956,Pacific,#8F9AD0
+956,Purple Velvet,#834C8D
+956,Purple,#634988
+956,Cashmere,#FCCAA7
+956,Yogurt,#F2A49A
+956,Sparkle Nude,#F5B695
+956,Pure Gold,#F7AF65
+956,Gold,#F59E57
+956,Sparkle Leopard,#CA8B62
+956,Bronze,#D67552
+956,French Fries,#A96E50
+956,Iced Mocha,#E1A686
+956,Cottage Cheese,#E2E1DD
+956,Milk,#F5F6F1
+956,Pots & Pans,#BBC4C3
+956,Slate,#5C6063
+956,Knight,#645C59
+956,Dark Brown,#613E28
+956,Black Bean,#2D2D2D
+954,Anchor,#2B3043
+954,Dauntless,#424146
+954,Crone,#443844
+954,Visceral,#32486D
+954,Alliance,#593E35
+954,Hazy,#792B29
+954,Extra,#493966
+954,Savvy,#31443E
+953,Glossy Brown Liner,#3B2C25
+953,Matte Brown Liner,#27160F
+953,Satin Finish Brown Liner,#36251B
+953,Kohl Kajal Brown Liner,#E7E7DF
+953,Skinny Brown Liner,#281409
+953,Liquid Brown Liner,#442B24
+950,Extreme Black,#131313
+950,Dark Brown,#49201A
+950,Jet Black,#202020
+948,Teal,#003D37
+948,Royal Blue,#052363
+948,Cobalt Blue,#0B5489
+948,White,#F9F9F9
+948,Grey,#363636
+948,Chocolate Brown,#4E2D1C
+946,Put A Wing On It,#303030
+946,Super Edgy,#2D2D2D
+946,A Bit Edgy,#171717
+946,Quite The Bender,#575757
+946,On The Dot,#232323
+946,Super Sketchy,#0E0E0E
+946,Hella Fine,#FFFFFF
+944,Extreme Pink,#EDB3B2
+944,Extreme Green,#52A749
+944,Extreme Sky Blue,#61A9CF
+944,Extreme Sapphire,#1078AF
+944,Extreme Blue,#1F5BBD
+944,Extreme Purple,#6953A8
+944,Extreme Plum Purple,#693C8F
+944,Extreme Coffee,#75401E
+944,Extreme Gold,#D2982C
+944,Extreme Silver,#AAAAAA
+944,Extreme Smokey Gray,#4A4A4A
+944,Extreme Black,#2A2A2A
+942,Glam Azure,#03A6C7
+942,Glam Lagoon,#088C90
+942,Glam Purple,#8F73B0
+942,Glam 24 Karat,#DEB21B
+942,Glam Black,#1F1F1F
+942,Glam Pink,#EFBDC6
+942,Glam Nude,#D2BEA6
+942,Glam Golden,#886514
+942,Glam Platinum,#BBBBBB
+940,Vivid Petal,#F9FDFE
+940,Vivid Fire,#FEFEFF
+940,Vivid Delight,#FEFFFF
+940,Vivid Halo,#FBFFFB
+940,Vivid Envy,#FFF8FF
+940,Vivid Sapphire,#FFF9FB
+940,Vivid Violet,#FFFEFF
+940,Vivid Blossom,#F6FFF5
+938,Mermazing,#DDE9F5
+938,Magical,#E3AA8F
+937,Deep,#B27959
+937,Light,#F9DDC9
+937,Medium/Dark,#E4B881
+937,Light/Medium,#F3C6B1
+936,Alabaster,#F1D3B9
+936,Porcelain,#ECC8A8
+936,Ivory,#EFC8AB
+936,Light,#F0C4A7
+936,Light Beige,#EBC09E
+936,Beige,#E6B897
+936,Medium Olive,#E1B693
+936,Honey Beige,#E1B18B
+936,Caramel Beige,#E5B090
+936,Classic Tan,#E3A984
+936,Golden,#DEA57A
+936,Sand,#D99D7B
+936,Deep Golden,#CF8B68
+936,Mahogany,#B4816C
+936,Cocoa,#AA7D68
+935,Banana,#FFE8BD
+935,Lavender,#EEDDEF
+935,Green,#EAE9D5
+934,Translucent,#F6F6F6
+934,Banana,#F8E7C9
+934,Mint Green,#E1EDDF
+933,Hot Pink,#D73469
+933,Hot Red,#B40D17
+933,Hot Orange,#DA4F32
+933,Hot Yellow,#F4D65C
+933,Hot Green,#369D41
+933,Hot Blue,#3D5DB0
+933,Hot Fuchsia,#BA4A9C
+933,Hot Black,#1B1B1B
+932,Brighten,#D0C3BB
+932,Sunkissed,#F9B2AC
+931,Light/Medium,#FFE5C7
+931,Medium/Dark,#E6B896
+930,Translucent,#F6F6F6
+930,Banana,#F8E7C9
+930,Mint Green,#E1EDDF
+928,Confessions Of Tanaholic,#D1AE8E
+928,Bronze Ensemble,#AB7C62
+928,When Leopard Gets A Tan,#D59DA8
+928,Tan Enthusiasm,#D6988D
+928,Tribal Odyssey,#A97D64
+927,Narcissistic,#DDA284
+927,Chaotic,#E99D8F
+927,Magnetic,#E5A083
+927,Ritualistic,#E7CAB8
+927,Enigmatic,#DD9E95
+926,Light,#C58965
+926,Deep,#AC7D63
+926,Medium,#BB805E
+926,Dark Tan,#B27759
+926,Deep Tan,#B17752
+923,Perfect Match,#8F4D3D
+923,Two To Tango,#A45340
+923,Ginger & Pepper,#6D3D3B
+923,Wine & Dine,#6B4530
+923,Cheek On Cheek,#7A4C32
+922,Pastel Chic,#FACFD0
+922,Soft Spoken,#F4A38D
+922,Baby Doll,#F38D9B
+922,Hamptons,#F5948E
+922,Intuition,#E58581
+922,Electro,#F34395
+922,Amber,#F58F83
+922,Bronzed,#D6826B
+922,Mauve N' Out,#E68B84
+922,Deep Plum,#CB7A79
+922,Bitten,#DC7675
+922,Crimson,#EA3034
+922,Tuscan,#E34A57
+922,Summer,#EB6C63
+922,Double Dare,#FA694B
+922,Coraline,#F49178
+922,Pink The Town,#F99282
+922,Rose Gold,#E28F81
+922,Down To Earth,#F49877
+922,Bright Lights,#F08F75
+922,Nude'Tude,#D5967B
+922,Glow,#CC8774
+922,Beach Babe,#CB896E
+922,Taupe,#BC9178
+921,Lavender Lust,#E6C2C6
+921,Chardonnay Shimmer,#F4D0B8
+921,Pearl Pink Lace,#FBC4AF
+921,Pinkie Dust,#F8BAA3
+921,Coralicious,#FD876D
+921,Rose Petal Pop,#FD7373
+921,Brick Red Blaze,#C03731
+921,Sun Kissed Crush,#EFB381
+921,Bermuda Bronze,#E9A47A
+921,Maui Suntan,#DD9861
+921,Sandy Glow,#CE8A5B
+921,Topaz Tan,#C38451
+920,Boho Chic,#E4878F
+920,Natural,#F08E8B
+920,Rose Petal,#D27772
+920,Glow,#D36A6F
+920,Hot Pink,#FF3986
+920,Red Cheeks,#FF1850
+920,Orange,#EB6B50
+920,Tickled,#EC6E71
+920,Tea Rose,#CA7769
+919,Highlighter,#B7AB9F
+919,Peachy,#B07C6E
+919,Silk,#EDB698
+919,Rosey,#FFC4C0
+919,Spice,#C2928E
+919,Paradise,#FECEC0
+919,Love,#FF7D5F
+919,Truth,#CBA984
+919,Dare,#E6908F
+918,Full-On Femme,#F9D1D1
+918,Ladylike,#FAD1CD
+918,Journey,#F4D5D2
+918,Spanish Rose,#FAD1CF
+918,Foreplay,#F4C6B9
+918,Pink Fetish,#F2BDC7
+918,Statement Red,#F8B7BD
+918,Chiffon,#E2C2B7
+918,Wanderlust,#F0CBC3
+918,Sugar Mama,#F9D9C4
+918,Solstice,#E8C7B6
+918,Ignite,#E5C0A6
+917,Bora Bora,#CC846C
+917,Marbella,#F5A493
+917,Phi Phi Island,#F19E96
+916,Pastel Chic,#FACFD0
+916,Soft Spoken,#F4A38D
+916,Baby Doll,#F38D9B
+916,Hamptons,#F5948E
+916,Intuition,#E58581
+916,Electro,#F34395
+916,Amber,#F58F83
+916,Bronzed,#D6826B
+916,Mauve N' Out,#E68B84
+916,Deep Plum,#CB7A79
+916,Bitten,#DC7675
+916,Crimson,#EA3034
+916,Tuscan,#E34A57
+916,Summer,#EB6C63
+916,Double Dare,#FA694B
+916,Coraline,#F49178
+916,Pink The Town,#F99282
+916,Rose Gold,#E28F81
+916,Down To Earth,#F49877
+916,Bright Lights,#F08F75
+916,Nude'Tude,#D5967B
+916,Glow,#CC8774
+916,Beach Babe,#CB896E
+916,Taupe,#BC9178
+915,Sweet Spring,#FA7586
+915,Insta Flame,#F15B67
+915,Code breaker,#EC6BBD
+915,Mauve Me,#C5867F
+915,Feel The Heat,#F26746
+915,Soft Flush,#F56958
+915,Strictly Chic,#E18866
+915,Nude To Me,#C0764F
+914,Magnolia,#CF0E61
+914,Pink Lotus,#DE056E
+914,Tulip,#DA1D71
+914,Pink Poppy,#D81758
+914,Tea Rose,#8B161E
+914,Orchid,#B70543
+914,Hibiscus,#7A1E13
+914,Water Lily,#7C2617
+913,Rose Garden,#DD7F97
+913,Pinky,#BA356C
+913,Pinched,#E07F88
+913,Red,#AB0A33
+913,Angel,#D19E9D
+913,Terra Cotta,#C27B67
+912,Alabaster,#F8DFC0
+912,Light Ivory,#F3D0B2
+912,Ivory,#EFCBB1
+912,Light,#EDC7A2
+912,Nude Beige,#DDB997
+912,Medium Olive,#DCBA97
+912,Honey Beige,#DBB795
+912,Caramel Beige,#DDB174
+912,Classic Tan,#D7A568
+912,Golden,#D1A278
+912,Sand,#CB9A6F
+912,Deep Golden,#B9884D
+912,Mahogany,#AA5E2A
+912,Cappuccino,#804F31
+912,Cocoa,#7B5236
+912,Deep Rich,#69442A
+912,Espresso,#673C2B
+912,Deep Espresso,#653A29
+912,Beige,#F4D1B3
+911,Light,#FFFEFC
+911,Medium,#FDF9F6
+911,Deep,#F1F2F4
+910,Light,#E5C19F
+910,Medium,#C49D7E
+910,Deep,#AF8F76
+909,Fair,#ECAA87
+909,Light,#EA9B70
+909,Medium,#E5895A
+909,Deep,#A96540
+908,Alabaster,#E9CFB6
+908,Ivory,#E7C7AE
+908,Soft Ivory,#E0C2AA
+908,Light,#D6B79B
+908,Natural,#E0C1A5
+908,Beige,#DCB18F
+908,Medium,#D1A77D
+908,Medium Olive,#CFA984
+908,Fresh Beige,#D5AB81
+908,Golden,#C9A37E
+908,Tan,#B99774
+908,Sand,#BB906D
+908,Deep Honey,#B08767
+908,Deep,#957151
+908,Cappuccino,#A47C59
+908,Deep Caramel,#997551
+908,Mocha,#937052
+908,Ebony,#715138
+908,Cocoa,#72573C
+908,Espresso,#5E4433
+906,Alabaster,#FCDAB5
+906,Porcelain,#FCCAA5
+906,Fair,#FCCEAD
+906,Light,#EFB590
+906,Nude Beige,#DAA677
+906,Beige,#D9A073
+906,Sand Beige,#CDA170
+906,Medium,#CB885E
+906,Glow,#DB9A74
+906,Fresh Beige,#CC9D69
+906,Golden,#D0925F
+906,Caramel,#BC8B50
+906,Tan,#BB7B4B
+906,Deep Golden,#B9743D
+906,Nutmeg,#A76938
+906,Cappuccino,#B1703A
+906,Cocoa,#A76C40
+906,Deep Rich,#885333
+906,Espresso,#805332
+906,Deep Espresso,#71482C
+906,Yellow,#F8D383
+906,Lavender,#D5BCE6
+906,Green,#BDE0C0
+906,Orange,#FB772F
+905,Alabaster,#EBC7A3
+905,Porcelain,#ECC3A5
+905,Fair,#EABF9D
+905,Light,#E6B897
+905,Nude Beige,#DEB391
+905,Beige,#DAB08A
+905,Sand Beige,#D2A67F
+905,Medium,#D5A080
+905,Glow,#D49F7D
+905,Fresh Beige,#CD9E74
+905,Golden,#CE9872
+905,Caramel,#C5966A
+905,Tan,#BE895F
+905,Deep Golden,#BB8255
+905,Nutmeg,#B2794C
+905,Cappuccino,#945D3F
+905,Cocoa,#93633F
+905,Deep Rich,#83573E
+905,Espresso,#7C4F38
+905,Deep Espresso,#6B3E27
+905,Yellow,#F2CC8E
+905,Lavender,#BFB3C9
+905,Green,#A0C8AD
+904,Almond,#9D4527
+904,Tan,#B96849
+904,Warm Beige,#BA7B59
+904,Natural Beige,#CC805B
+904,Soft Beige,#C49261
+904,Buff,#E5A990
+904,Nude,#CEA26D
+903,Light,#CBAD95
+903,Golden,#CEAB86
+903,Beige,#CEAA81
+903,Deep,#B18461
+903,Fair,#DBC0A2
+903,Sand,#CAA687
+902,Nude,#E4CFBA
+902,Natural,#E5C6AA
+902,Golden,#DEBFA0
+901,Ivory,#F2C59B
+901,Fair,#EFBF97
+901,Porcelain,#EEB991
+901,Light,#E8AF84
+901,Light Medium,#DBA67C
+901,Medium,#CF9A72
+901,Medium Beige,#CF9468
+901,Golden Beige,#CF8F63
+901,Cool Tan,#CC8C5E
+901,Honey Beige,#C58557
+901,Warm Tan,#C3865A
+901,Tan,#BE8558
+901,Caramel,#B77A4E
+901,Chestnut,#A16438
+901,Cocoa,#753F1B
+901,Alabaster,#FAD0A6
+901,Nude Beige,#D1A278
+901,Warm Nude,#D59B69
+901,Deep,#653C1E
+901,Espresso,#513118
+900,Fair,#ECCAB1
+900,Porcelain,#E9C6A8
+900,Light,#E7BA99
+900,Light Medium,#D9AF85
+900,Medium Beige,#D3A97F
+900,Golden Beige,#D3A776
+900,Cool Tan,#CF9A6E
+900,Warm Tan,#CF9B6B
+900,Caramel,#C38F5F
+900,Deep Honey,#BB8757
+900,Warm Almond,#AB814F
+900,Cool Chestnut,#A6754C
+900,Rich,#9D6C43
+900,Espresso,#8E643E
+900,Cocoa,#815838
+899,Ivory,#EDCBA6
+899,Alabaster,#EAC6A2
+899,Porcelain,#E1B696
+899,Creamy Natural,#E1AF8C
+899,Light Beige,#E3B896
+899,Soft Beige,#D2A07F
+899,Nude Beige,#D3A886
+899,Nude,#CBA076
+899,Natural,#D8A27C
+899,Warm,#DAAC8B
+899,Medium,#D8A787
+899,Soft Sand,#C39876
+899,Warm Beige,#CD986C
+899,Fresh Beige,#C6996F
+899,Medium Beige,#C59974
+899,Golden Beige,#CA936A
+899,Tan,#C6946F
+899,Olive,#BA8F6C
+899,Caramel,#B78968
+899,Beige,#B78D67
+899,Sienna,#B28564
+899,Tawny,#9E7150
+899,Cinnamon Spice,#B9835F
+899,Nutmeg,#A97C5B
+899,Deep Golden,#AA754B
+899,Chestnut,#A07356
+899,Deep Olive,#8E5D3D
+899,Deep Rich,#895A3E
+899,Cocoa,#784B36
+899,Deep Dark,#6C4838
+898,Ivory,#F1D1BA
+898,Alabaster,#F4D8C2
+898,Porcelain,#EFC6B0
+898,Creamy Natural,#EFCAB7
+898,Light Beige,#F5D0B5
+898,Soft Beige,#F0C2A1
+898,Nude Beige,#EECAAA
+898,Nude,#EECAB0
+898,Natural,#F3CDB6
+898,Warm,#E7B89A
+898,Medium,#E9B39B
+898,Soft Sand,#F0BE9D
+898,Warm Beige,#F1BB97
+898,Fresh Beige,#E9AF7D
+898,Medium Beige,#ECBB9B
+898,Golden Beige,#F0BA98
+898,Tan,#EDB38E
+898,Olive,#D6A57D
+898,Caramel,#E9AD88
+898,Beige,#D19E73
+898,Sienna,#F0AC7D
+898,Tawny,#E8A475
+898,Cinnamon Spice,#D7986D
+898,Nutmeg,#CF8B64
+898,Deep Golden,#C18B5C
+898,Chestnut,#D6956D
+898,Deep Olive,#C88B5C
+898,Deep Rich,#BA855D
+898,Cocoa,#BA7B5A
+898,Deep Dark,#A56A48
+897,Nude,#E9AF8A
+897,Warm Ivory,#DEB48E
+897,Soft Beige,#D8956B
+897,Vanilla,#D8A786
+897,Natural,#D08B62
+897,Sand Beige,#D0A37A
+897,True Beige,#D99F77
+897,Warm Beige,#D5A16F
+897,Medium,#CA976A
+897,Natural Beige,#C28769
+897,Warm Sand,#B8795A
+897,Golden Honey,#CA935D
+897,Caramel,#BF8756
+897,California Tan,#A16448
+897,Soft Mocha,#AE7548
+897,Maple,#A56C41
+897,Cappuccino,#975C3E
+897,Chestnut,#865B3B
+897,Cocoa,#6F452F
+897,Deep Espresso,#553528
+896,Porcelain,#F3D5BB
+896,Natural,#ECC8A4
+896,Beige,#F5C8A7
+896,Medium Beige,#F3C1A0
+896,Buff Beige,#EEC3A3
+896,Tan,#EDB697
+896,Soft Tan,#E9B897
+896,Golden Beige,#E6B887
+896,Golden,#EDB38B
+896,Warm Beige,#EBB996
+896,Fawn,#F2AD84
+896,Amber,#EBAC81
+896,Deep Honey,#DEA675
+896,Honey,#EAAD7E
+896,Caramel,#E19865
+896,Sable,#C98860
+896,Nutmeg,#C88165
+896,Cocoa,#B6846B
+896,Deep Espresso,#AB725F
+896,Ivory,#E8CCB1
+895,White,#FBFBFD
+895,Opalescent,#FBF4EA
+895,Luminous,#F1CFB6
+895,Warmth,#B7683F
+895,Olive,#B58867
+895,Deep,#6B4F3A
+894,Pale,#F5DBC0
+894,Alabaster,#EBCCB0
+894,Porcelain,#E2C2A9
+894,Light Ivory,#EEC5A9
+894,Light,#E7BDA7
+894,Vanilla,#E6C1A4
+894,Nude,#C7A987
+894,Natural,#DEB08C
+894,Soft Beige,#C69A7D
+894,True Beige,#DCB083
+894,Medium Olive,#D1A683
+894,Buff,#CBA07D
+894,Beige,#C89F73
+894,Classic Tan,#C6956A
+894,Camel,#BB8E71
+894,Golden,#C59263
+894,Golden Honey,#BD8856
+894,Caramel,#BE8D55
+894,Cinnamon,#B28566
+894,Mahogany,#B17B4D
+894,Nutmeg,#A37A5A
+894,Cappuccino,#A97647
+894,Sienna,#9C7151
+894,Deep Sable,#9D6E40
+894,Mocha,#96663E
+894,Deep Rich,#935F38
+894,Cocoa,#895837
+894,Deep Cool,#915732
+894,Chestnut,#7F4D2C
+894,Deep Espresso,#6F4326
+893,Sunlit,#E1B44E
+893,Gem,#D28F69
+893,Hex,#AC5F28
+893,Heatwave,#8F1C11
+893,Taboo,#5D2E94
+893,Kinetic,#7388AD
+893,Magnetic,#A5A8B0
+893,Enchanted,#6B8F78
+893,Python,#B19E5D
+893,Cherished,#C38181
+892,Timid,#F5AFB1
+892,Rosey Sunset,#EC687D
+892,Sweet Pink,#E9688F
+892,Disco Rage,#E05B90
+892,Fluorescent,#E06291
+892,Cheeky,#BF727A
+892,Bedrose,#BF807B
+892,Alluring,#B67772
+892,High Standards,#BD6D70
+892,Knock Em Red,#C74454
+892,Red Tape,#C24155
+892,Brick House,#8B4543
+892,Dark Soul,#714947
+892,Pink Canteloupe,#F6B1A2
+892,Crushed,#E1787F
+892,Summer Tease,#E06263
+892,Revolution,#1F725E
+892,Live In Pastel,#B0A2D5
+892,Brazen,#954C91
+892,Revamp,#6E446C
+892,Nebula,#674651
+892,Staged,#E9A59C
+892,Nude Suede Shoes,#BA857D
+892,Sugar Glass,#B48979
+892,Beyond Nude,#AD796C
+892,Need Me,#AB7D70
+892,Intimidate,#A37568
+892,Urban Café,#745038
+891,Pinky Beige,#E17F7C
+891,Soft Pink,#D86B7E
+891,Peony,#E67D84
+891,Pretty In Pink,#D45F65
+891,Nectar,#C4686B
+891,Nude Pink,#BE595F
+891,Jewel,#AC4A4B
+891,Hot Pink,#C1386C
+891,Plum,#77182E
+891,Dark Red,#7E101D
+891,Sienna,#964436
+891,Red,#A81F27
+891,Ruby,#D11E21
+891,Vanilla Sky,#A96D51
+891,Natural,#A16644
+891,Nude,#A36348
+891,Sand Beige,#90583D
+891,Cocoa,#713E2B
+891,Black Lips,gray14
+890,Tea & Cookies,#C66B70
+890,Cannes,#A54F52
+890,Whipped Cavier,#A15056
+890,Life's A Beach,#F3665C
+890,Sao Paulo,#BD5065
+890,Milan,#C2586E
+890,Pink Lust,#DA4076
+890,Aria,#8F2762
+890,Prune,#761D39
+890,Cherry Skies,#8D1E2F
+890,Copenhagen,#6D132C
+890,Alabama,#842D24
+890,Kitten Heels,#AB1F12
+890,Orange County,#EE5F37
+890,Foiled Again,#FF6C4A
+890,Little Denim Dress,#0098CD
+890,Jet Set,#00347F
+890,Foul Mouth,#3A4758
+890,Respect The Pink,#D36997
+890,Sway,#8B5AB5
+890,Run The World,#8E2D8C
+890,Amethyst,#553394
+890,Subversive Socialite,#6B1B4E
+890,"Oh, Put It On",#392A4B
+890,Stockholm,#B5654A
+890,London,#BC7B53
+890,Sandstorm,#A56B57
+890,Soft-Spoken,#A05D4D
+890,Los Angeles,#895150
+890,Vintage,#822D32
+890,Downtown Beauty,#6D4A2E
+890,Maison,#6E3C33
+890,Club Hopper,#5A342B
+890,Brooklyn Thorn,#62473C
+890,Stone Fox,#3C3C3C
+890,Alien,#2E2E2E
+889,Flower,#E89FB0
+889,Dolly Pink,#D26987
+889,Rose,#D87079
+889,Hot Pink,#F04B76
+889,Citrine,#CB5E5B
+889,Sand Pink,#D87683
+889,Pinky,#CF476B
+889,Edge Pink,#CA315D
+889,Fuchsia,#C03E6A
+889,Bloom,#A9305B
+889,Purple Rain,#9F366E
+889,Pale Pink,#CC7C7D
+889,Mauve,#8E4745
+889,Ever,#A3432D
+889,Plum,#8F1C29
+889,Deep Purple,#790C2B
+889,Prune,#792139
+889,Currant,#781833
+889,Mahogany,#873B3B
+889,Never,#77393A
+889,Y2K,#40281E
+889,Deep Red,#922F10
+889,Cabaret,#932027
+889,Auburn,#8B262A
+889,Burgundy,#902630
+889,Plush Red,#C13C4D
+889,Hot Red,#D11C23
+889,Pumpkin,#C9532F
+889,Orange,#D6551E
+889,Tangerine,#DC744D
+889,Beige,#BC6F55
+889,Nude Pink,#D07876
+889,Peekaboo Neutral,#C47266
+889,Natural,#C57B5E
+889,Soft Brown,#C17456
+889,Coffee,#96463F
+889,Nude Beige,#99624E
+889,Nude Truffle,#8C5340
+889,Nutmeg,#874934
+889,Brown Cafe,#745237
+889,Brown,#7F4925
+889,Toast,#85532E
+889,Cappuccino,#67452C
+889,Cocoa,#7B412B
+889,Chestnut,#5E3F23
+889,Hot Cocoa,#663320
+889,Espresso,#553327
+889,Dark Brown,#523C25
+889,Black Brown,#331C16
+889,Black Berry,#1C110D
+888,Fearless,#8C6989
+888,Passionate,#773950
+888,Extraordinary,#963673
+888,Brave,#543A61
+888,Brilliant,#9A5953
+888,Confident,#C87F76
+886,Flushed,#FA7B84
+886,Primrose,#F86F9D
+886,First Base,#EA7F9B
+886,French Kiss,#F94E9A
+886,XOXO,#F45863
+886,Enchanted,#FE8483
+885,Maraschino,#D43748
+885,Candy Apple,#E62E50
+885,Russian Roulette,#F2626C
+885,Seduction,#FE5A50
+885,Leading Lady,#D33556
+885,Knock Out,#C4605E
+884,Fairest,#EBA38B
+884,Peaches,#FAA893
+884,Disrobed,#ED9B8F
+884,Sable,#C16E5E
+884,Exposed,#DE9079
+884,Honey,#EAA88E
+883,Rose,#F695BE
+883,Orange Blossom,#FE9846
+883,Citron,#FDBD3F
+883,Key Lime,#78D877
+883,Pistachio,#53CEBC
+883,Blue Velvet,#14A8E6
+883,Earl Grey,#76A9D8
+883,Lavender,#A89DD9
+883,Violet,#B778D1
+883,Black Sesame,#BFB8B2
+883,Chambord,#181818
+883,Coconut,#EDEDED
+882,Metallic Gold,#835546
+882,Glossy Deep Berry,#7D2C35
+882,Metallic Bronze,#604238
+881,Pink Cloud,#FF8D97
+881,Plush,#FE979B
+881,Pink Lace,#FD4899
+881,Dark Cloud,#B8135F
+881,Berry Tea,#E56270
+881,Molten Love,#EC131E
+881,Coral-Sicle,#FF9474
+881,Cocoa Bean,#E18F77
+880,Power,#895762
+880,Wrath,#714119
+880,Mischievous,#D0AD53
+880,Trickery,#494623
+880,Risque,#118A77
+880,Scandalous,#11AFAE
+880,Envy,#0035B8
+880,Sinful,#073895
+880,Immortal,#6934B8
+880,Betrayal,#390C67
+880,Cold Hearted,#515151
+880,Stone Cold,#DEDEDE
+879,Bewitching,#863C4D
+879,Temptress,#49142E
+879,She Devil,#451D35
+879,Aphrodisiac,#4F212B
+879,Covet,#771C21
+879,Enamored,#412227
+878,Metallic Violet Black,#382B35
+878,Matte Nude,#A56856
+878,Glossy Plum,#552D2D
+877,Glossy Nude,#964C41
+877,Matte Navy,#303356
+877,Metallic Brown,#543435
+876,Glossy Black,#1E1E1E
+876,Matte Red,#891B28
+876,Matte Mauve,#954743
+875,Glossy Pale Pink,#A1483A
+875,Matte Rose,#B5595C
+875,Glossy Peach,#C1573F
+874,Iris,#F6B4C2
+874,Pink Nude,#F3B8A8
+874,Irish Coffee,#FFAB87
+874,Pink Brown,#FFA68B
+874,Honey Nectar,#E47F85
+874,Chaos,#F75C7E
+874,Pecan,#CD737C
+874,Hera,#EF5E97
+874,Burgundy,#8E1B38
+874,Maroon,#91232C
+874,Deep Red,#AA1532
+874,Plush Red,#D41C36
+874,Hot Red,#C02922
+874,Iced Coffee,#D28A72
+874,Rose Brown,#E9B5A7
+873,Metallic Copper,#902E2B
+873,Glossy Wine,#57273F
+873,Matte Warm Brown,#512D2D
+872,Summer Fruits,#FD9A95
+872,Seashell,#FD9B92
+872,Pink Bikini,#FD869A
+872,Hot Nights,#FF4F83
+872,Snowcone,#FE7295
+872,Staycation,#F84656
+872,Beach BBQ,#F84563
+872,Fruit Punch,#F04B69
+872,Sweet Shock,#EA3B96
+872,Daydreaming,#B66F99
+872,Midnight Swim,#C36A8A
+872,Thunderstorm,#8E215A
+872,Moonlit Night,#66071D
+872,Block Party,#531522
+872,Ripe Berry,#A13F3C
+872,Root Beer Float,#CE6B65
+872,Afternoon Heat,#B90508
+872,Lifeguard,#AE2304
+872,Fire Brick,#D30A1A
+872,Firecracker,#EF2438
+872,Heat Wave,#F32637
+872,Scorching Sun,#F72E12
+872,Neon Lights,#FC4130
+872,Bonfire,#FF421C
+872,Shooting Star,#FF9065
+872,Easy Livin,#FE8C72
+872,West Coast,#FF9387
+872,Sandy Kiss,#FF9D84
+872,Snack Shack,#C5735D
+872,Sandcastle,#FEA07C
+872,Smormellow,#FDB494
+872,Boardwalk,#F59E83
+872,Tan Lines,#C37E61
+872,Vacation Spot,#895B41
+871,Milan,#CD787B
+871,Athena,#F3CFCF
+871,Baby Pink,#F2D0E0
+871,Sash,#F7D0C9
+871,Harmonica,#FBCDD0
+871,Marrakesh Pink,#FFC5B9
+871,Strawberry Milk,#F7C9CB
+871,Jupiter,#F9C3C1
+871,Gala,#F9CABA
+871,Narcissus,#FFBFCD
+871,Lip Du Jour,#F5C3C6
+871,Paris,#FF7C86
+871,Sky Pink,#FEBDC1
+871,Rose Bud,#FD9CA7
+871,Flower,#FD93A9
+871,Vitamin,#F9AC9C
+871,Indian Pink,#FC978D
+871,Chic,#FAA19D
+871,Stella,#FDA09B
+871,Margarita,#FD9491
+871,Paparazzi,#F1757F
+871,Pink Lyric,#FF5E8F
+871,Hot Pink,#FF4986
+871,Christie,#F7BAC1
+871,Rose Bouquet,#FD829E
+871,Gem,#D3748C
+871,Watermelon,#FDA290
+871,Blush,#E37880
+871,Fig,#E36974
+871,Tea Rose,#E07C7C
+871,Louisiana,#FF607C
+871,Spell Bound,#FB5468
+871,Gardenia,#FB7D92
+871,Haute Couture,#EA6C82
+871,Shiva,#F26198
+871,Eucalyptus,#F66493
+871,Chloe,#F8639D
+871,Fusion,#ED6FAE
+871,Peach,#DA7C7C
+871,Minimalism,#CA787A
+871,Heather,#F09292
+871,Doll,#DC6271
+871,Thalia,#C78376
+871,Perfect,#C88471
+871,B52,#D2736F
+871,Lala,#BF6E7F
+871,Power,#C3A4B6
+871,Castle,#E2AED4
+871,Pandora,#CE86B6
+871,Violet Ray,#C14E6D
+871,Medusa,#AD4B72
+871,Bruised,#4D182A
+871,Hestia,#891A0F
+871,Hero,#9D181D
+871,Black Cherry,#7B1427
+871,Hope,#DF726F
+871,Topaz,#EC8681
+871,Hebe,#F25C67
+871,Snow White,#BF1F11
+871,Electra,#D40F18
+871,Chaos,#D50326
+871,Chic Red,#E70F50
+871,Fire,#F1232D
+871,Eros,#EF1C07
+871,Rose,#FE7C84
+871,NYX,#FFA181
+871,Haute Melon,#FF5B38
+871,Femme,#FD5A49
+871,Peach Bellini,#FC927C
+871,Orange Soda,#FEAE89
+871,Pure Nude,#E89D7E
+871,Pumpkin Pie,#D49377
+871,Iris,#F9C2AE
+871,Uberchic,#F2E2C0
+871,Frosted Flakes,#F0D9BA
+871,Echo,#DEA588
+871,Circe,#E2A589
+871,Honey,#E0A789
+871,Galaxy,#D2B4AA
+871,Rea,#D39E7F
+871,Summer Love,#FDC0AD
+871,Darling,#F69D99
+871,Frappucino,#D3856F
+871,Heredes,#CE7A62
+871,Mars,#CE886F
+871,Cocoa,#CB7C6B
+870,Hippie Chic,#FFAAA1
+870,Pale Pink,#FFB1B1
+870,Audrey,#FF96A6
+870,Summer Breeze,#FF93B9
+870,Girl Crush,#FF73A3
+870,Shocking Pink,#FF7CC4
+870,Sweet Pink,#FE73AE
+870,Zen Orchid,#B97BBE
+870,Ultra Dare,#737E82
+870,Haze,#7B7B7B
+870,Up The Bass,#7E5F71
+870,Dark Era,#7D2D30
+870,Aria,#882A5E
+870,Siren,#802A35
+870,Goal Digger,#573438
+870,Honeymoon,#B67B6D
+870,Tea Rose,#F48898
+870,Natural,#ED8D99
+870,Whipped Caviar,#F497A2
+870,Euro Trash,#FDA099
+870,Sierra,#FB6E64
+870,Strawberry Daiquiri,#FF8883
+870,Crazed,#94382D
+870,Angel,#FF7D93
+870,Merlot,#E75268
+870,Alabama,#DC453A
+870,Eden,#F43847
+870,Bloody Mary,#FD4068
+870,Perfect Red,#E92A2F
+870,Pure Red,#FF3F4C
+870,Street Cred,#F78493
+870,Crave,#FF5864
+870,Indie Flick,#FF584C
+870,Nude,#FEB19F
+870,Spirit,#FFB0A6
+870,Temptress,#FFAAA3
+870,Couture,#FFB0AC
+870,Forbidden,#FDB79E
+870,Daydream,#FFA899
+870,Shy,#FBBC9D
+870,Bare With Me,#EEA690
+870,Minx,#AA8771
+870,Butter,#DCAF98
+870,Sable,#E7B092
+870,Maison,#B27A61
+869,The Nudes,#B76C4C
+869,The Pinks,#CD5C56
+869,The Reds,#C21A17
+869,The Plums,#99242C
+868,Lethal Kiss,#F84B8B
+868,Trickster,#BA5591
+868,Locked,#9D2D43
+868,Loaded,#753529
+868,Night Crawler,#6D2F46
+868,Con Artist,#87372E
+868,Up The Bass,#C1120D
+868,Sandman,#9B3C2A
+868,Firestorm,#DE3228
+868,Jolt,#EC5039
+868,Sidekick,#E89782
+868,Kiss The Dust,#BB745E
+867,Nude Beach,#D39483
+867,Dime Piece,#E5898A
+867,Air Blossom,#FF739D
+867,Azalea,#FB4C9B
+867,Fizzy Berries,#DE4A84
+867,Karma Kiss,#E62D57
+867,Sharp Femme,#D52A3D
+867,Sacred Mix,#B1223E
+867,Pastel Dust,#FE987F
+867,Foxy Love,#FF6541
+867,Coral Mist,#FE6D5C
+867,Breakup,#A9655C
+866,Effervescent,#EC737C
+866,Miami Nights,#FD227E
+866,Unicorn Fur,#DB5DA6
+866,Disorderly,#66459C
+866,Violet Voltage,#894193
+866,Midnight Muse,#272B58
+866,Volcano,#8F323D
+866,Blood Love,#C42627
+866,Beach Casual,#C69078
+866,Soft Femme,#B06C6D
+866,Charmed,#AB5C58
+866,Duchess,#9C656A
+865,French Kiss,#FEA3A0
+865,Pink Lady,#FF9B8F
+865,Beam,#FE958F
+865,Rags To Riches,#FF5555
+865,Tiara,#FE9288
+865,Sweet 16,#FF888C
+865,Privileged,#FE6695
+865,Flutter Kisses,#DB8880
+865,Playdate,#CA94C5
+865,Twisted,#A75BA5
+865,Wine & Dine,#980A30
+865,Feline,#85242B
+865,Dahlia,#3E1213
+865,Burlesque,#9F0B0B
+865,Hollywood,#CC0607
+865,Rock Star,#EE2E2B
+865,Free Spirit,#FE623A
+865,Tan-Gerine,#FFAC8E
+865,Mirage,#FFBB9E
+865,Flawless,#F1B18E
+865,Stone,#ECAC91
+865,Dirty Talk,#8A4830
+864,Darling,#D8687E
+864,Opinionated,#DF5866
+864,Dance Party,#F25491
+864,Bombshell,#D21A50
+864,Boundless,#C56A65
+864,Almost Famous,#A6595F
+864,Cocktail Hour,#A02961
+864,Fiery,#F14231
+864,Lucy,#A30305
+864,Red Haute,#930801
+864,Revolution,#6F2323
+864,Rebel Soul,#763637
+864,Smoke Me,#9F8995
+864,Wisteria,#984CA6
+864,Violet Femme,#7A3169
+864,Flashy,#743049
+864,True Vixen,#4A2F34
+864,Wild Spirit,#42306E
+864,Silk,#CC846C
+864,Sophisticated,#C0745D
+864,Corset,#BC7969
+864,Individualistic,#9C5949
+864,Savage,#6F3027
+864,Resistance,#8D4749
+863,On The DL,#DB7D64
+863,Oh So Pretty,#EB6669
+863,Obvs,#9F3E52
+863,Conform,#7E4F47
+863,Serpent,#BF2259
+863,Chain Reaction,#BF207A
+863,Snarky,#D53C3E
+863,In The Red,#BF012D
+863,Risktaker,#A21A2E
+863,Ruthless,#651F77
+863,Empowered,#934A43
+863,Dangerous,#742332
+862,Cool Intentions,#864B45
+862,Puppy Love,#D9484D
+862,Group Love,#98020D
+862,Squad Goals,#A65156
+862,Teenage Dream,#BD2266
+862,Pop Quiz,#682826
+862,Moody,#874755
+862,Best Buds,#C06465
+861,Rustic Mirage,#C2696F
+861,Antique Romance,#D1506E
+861,Liquid Plum,#A04858
+861,Euphoric,#F45D92
+861,Retro Socialite,#E62E86
+861,Love Letter,#FF383B
+861,Mystic Gypsy,#FE293D
+861,Lovetopia,#F5273E
+861,Ruby Couture,#D9544B
+861,Juicy Peach,#FF643D
+861,Violet Glass,#9F43B2
+861,Dark Magic,#593C7C
+860,Fuchsia Fusion,#F4267B
+860,Crystalized Metal,#CC7C7F
+860,Solar Energy,#FD633D
+860,Out Of This World,#03A373
+860,Extraterrestrial,#747354
+860,Electromagnetic,#029BA1
+860,Comets Tail,#0090C7
+860,Dark Nebula,#166DA3
+860,Asteroid Aura,#B145AA
+860,Ultraviolet,#894DA5
+860,Celestial Star,#3750A4
+860,Speed Of Light,#F08C72
+860,Metropolitan Night,#D29F82
+860,Celestial,#D69A76
+860,Retro Harmony,#C99379
+860,Galactic Love,#9D5D44
+860,Elite,#824F4B
+860,Galactic,#747378
+859,Poised,#C20201
+859,Blazed,#B60E0E
+859,Fresh,#8E1325
+859,Slay,#710906
+859,Wizardry,#69131C
+859,Charmer,#AF0A2C
+859,Heartbreaker,#AF0C45
+859,Obsessed,#7A1B53
+859,Victorian,#7B1B40
+859,Nightrunner,#4C091A
+859,Invasion,#572316
+859,Revolt,#E9361F
+858,Sugar Mama,#7F4531
+858,Bombshell,#733B2E
+858,Baby Doll,#603838
+858,Bad Girl,#670C13
+858,Night Walker,#512C33
+858,Rebel,#1A1929
+858,Bad Seed,#071C13
+858,Femme Fatale,#201913
+857,The New Normal,#CAA6A8
+857,Booming,#E8BBBE
+857,Spring It On,#DBACA4
+857,Cocktail Party,#E6B06A
+857,Fairplay,#EFA367
+857,Crushing It,#E0DBD5
+857,Gypsy Dream,#BE9CAD
+857,Day Club,#A8C0C2
+857,Lucid,#D3CCB9
+857,Foam Party,#A0C6B9
+856,I Woke Up Like This,#D7978E
+856,Entice,#B98180
+856,Coy,#D87884
+856,Bang Bang,#8B4B4C
+856,Baecation,#FF56A8
+856,Fatal Attraction,#B73E8D
+856,Feisty,#974AB4
+856,Lowkey,#BD6A66
+856,Fire Dancer,#921736
+856,Beyond Basic,#A1745D
+856,Red Queen,#D3212F
+856,Breezy,#FF6964
+855,Exposed,#BC7D5A
+855,Mauve Mist,#9A4F3C
+855,Bella,#9C3E3C
+855,New Era,#82412B
+855,Neat Nude,#563428
+855,Buzzkill,#A91851
+855,Acme,#9E1F26
+855,Modern Maven,#7A253A
+855,Pure Society,#761538
+855,Biker Babe,#752329
+855,Ego,#472071
+855,Go Rogue,#2F3239
+854,Tea & Cookies,#DF666F
+854,Life's A Beach,#FE5862
+854,Pink Lust,#FC3183
+854,Kitten Heels,#CD060B
+854,Cherry Skies,#962A27
+854,Foiled Again,#FD7136
+854,Orange County,#FC5221
+854,Little Denim Dress,#01A3E3
+854,Jet Set,#2F2A88
+854,Foul Mouth,#3A1C66
+854,Respect The Pink,#DE65B2
+854,Sway,#BE61B1
+854,Run The World,#A03FA0
+854,Amethyst,#6D2686
+854,Subversive Socialite,#5A2253
+854,"Oh, Put It On",#3B1153
+854,Vintage,#7B2D3B
+854,Club Hopper,#722F26
+854,Sandstorm,#AA614E
+854,Soft-Spoken,#AE5350
+854,Brooklyn Thorn,#815049
+854,Downtown Beauty,#7E5036
+854,Stone Fox,#585455
+854,Alien,#2A2829
+853,Cheekies,#F8AB8F
+853,Silk Indulgent,#E59886
+853,Baby Doll,#C48B7A
+853,Lace Detail,#C38878
+853,Push-Up,#B77E6B
+853,Bedtime Flirt,#AF7260
+853,Embellishment,#AF7079
+853,Cashmere Silk,#BF7D6F
+853,Bustier,#A9796F
+853,French Maid,#A76169
+853,Confident,#704D47
+853,Exotic,#903E33
+853,Cabaret Show,#A25A4E
+853,Seduction,#C46954
+853,Ruffle Trim,#C07764
+853,Dusk To Dawn,#E29871
+853,Satin Ribbon,#C59581
+853,Corset,#C0947B
+853,Delicate Lust,#966F60
+853,Honeymoon,#96705D
+853,Teddy,#8F624D
+853,After Hours,#8B5845
+853,Beauty Mark,#855A4A
+853,Scandalous,#715E50
+852,London,#D18B72
+852,Sydney,#F6A0BD
+852,Tokyo,#FB9BA6
+852,Istanbul,#ED9194
+852,Milan,#F17086
+852,Manila,#F34745
+852,Antwerp,#FB5062
+852,Ibiza,#F54F5B
+852,Prague,#C43F6C
+852,Sao Paulo,#D6475B
+852,Paris,#E83169
+852,Addis Ababa,#E93275
+852,Seoul,#9F3B77
+852,Moscow,#123368
+852,Havana,#622F8C
+852,Vancouver,#78293C
+852,Transylvania,#621132
+852,Copenhagen,#7B0F33
+852,Budapest,#953C42
+852,Madrid,#7C2325
+852,Monte Carlo,#9C0A2F
+852,Amsterdam,#E12836
+852,Morocco,#FE3A20
+852,San Juan,#FF5A3C
+852,Buenos Aires,#FC9B88
+852,Cairo,#F7B690
+852,Athens,#F6A385
+852,Zurich,#F0847A
+852,Stockholm,#E78779
+852,Abu Dhabi,#D58D75
+852,Cannes,#D36B5E
+852,Rome,#92433C
+852,Dubai,#7B4129
+852,Berlin,#7F3C22
+851,Dubai,#783628
+851,Manila,#F0636B
+851,Milan,#E17680
+851,Cannes,#D16966
+851,Rome,#954649
+851,Paris,#D21D54
+851,Monte Carlo,#BF1726
+851,Seoul,#9F3275
+851,Havana,#612B9A
+851,Copenhagen,#78323A
+851,Madrid,#922834
+851,Budapest,#822C35
+850,Ma'Damn - Royal Red,#B6232B
+850,Candy Venom - Electric Pink,#DC386C
+850,Up 2 No Good - Nude Peach,#E08F71
+850,Freckle Fiesta - Spiced Terracotta,#C95E3C
+850,PMS - Moody Brown,#6D271A
+850,Ya Dig?! - Periwinkle Blue,#6785B8
+850,One of the Boyz - Wild Lilac,#9B7DC1
+850,Griselda - Bold Burgundy,#631B26
+850,Spanked - Dusty Rose,#A7453C
+850,Saw-C - Exotic Tangerine,#FC8327
+850,S1ngle - Blushing Nude,#D37655
+850,Shawty - Warm Chestnut,#894134
+850,Midnight Wasabi - Wicked Green,#437954
+850,Clapback - True Navy,#072345
+849,"Later, Crater - Nude Metallic/Nude Gold Glitter",#C8896E
+849,Nepturnt - Green-Black Metallic/Smoky Emerald Glitter,#274A45
+849,Alien Bae - Blue-Black Metallic/Smoky Navy Glitter,#122835
+848,Gal On The Moon - Holographic Pink Orchid,#8E406D
+848,Spacesuit - Glittering Peach,#FE7C63
+848,Plutonic Relationshp - Holographic Hot Pink,#EB4077
+848,Astro-Naughty - Glittering Garnet,#5B1525
+847,Maple - Neutral,#C9A074
+847,Espresso - Cool,#683525
+847,Maple - Neutral,#D9A877
+847,Bamboo - Neutral,#EABC95
+847,Honey - Warm Peach,#EAB087
+847,Mocha - Cool,#C59072
+847,Suede - Warm,#C5885D
+847,Latte - Warm,#CE8E5C
+847,Caramel - Cool,#E1AA7F
+847,Wheat - Warm,#DA9F65
+847,Peach - Cool Peach,#EFAE83
+847,Linen - Cool,#F6D5B6
+847,Truffle - Neutral,#7C411F
+847,Amber - Cool Contour,#B08B72
+847,Cocoa - Cool,#CF936A
+847,Walnut - Neutral,#CB9064
+847,Almond - Cool,#DA9D6F
+847,Sand - Neutral,#E2AE83
+847,French Vanilla - Warm,#F7D2AC
+847,Porcelain - Cool,#F5DABE
+846,1 Linen,#F3D6BF
+846,2 Alabaster,#F0C9AE
+846,4 Creamwhip,#E9BC98
+846,5 Fair,#F1BF9E
+846,6 Ivory,#E6BC9F
+846,7 Cream Chamois,#DEB193
+846,8 Golden Neutral,#E2B186
+846,9 Neutral,#DCAB86
+846,11 Honey,#DAA878
+846,12 Porcelain Beige,#D7A581
+846,14 Vanilla,#D6A683
+846,15 Beige,#D09B73
+846,18 Sand,#C99B71
+846,20 Deep Neutral,#D28E55
+846,21 Cream Caramel,#C8874E
+846,23 Ginger,#BE773D
+846,24 Golden,#B4753E
+846,26 Amber,#995C27
+846,28 Clove,#8E5230
+846,29 Sienna,#834E2E
+845,Calming Vanilla,#CD8E6B
+845,Calming Neutral,#DC9C7A
+845,Calming Alabaster,#F4BB95
+845,Calming Fair,#F1B08C
+845,Calming Honey,#CF906E
+845,Calming Ivory,#E7A784
+844,01 Linen,#F3D6BF
+844,02 Alabaster,#F0C9AE
+844,04 Cream Whip,#E9BC98
+844,05 Fair,#F1BF9E
+844,06 Ivory,#E6BC9F
+844,07 Cream Chamois,#DEB193
+844,08 Golden Neutral,#E2B186
+844,09 Neutral,#DCAB86
+844,11 Honey,#DAA878
+844,14 Vanilla,#D6A683
+844,15 Beige,#D09B73
+844,19 Sand,#C99B71
+844,20 Deep Neutral,#D28E55
+844,21 Cream Caramel,#C8874E
+844,23 Ginger,#BE773D
+844,24 Golden,#B4753E
+844,25 Spice,#AD7044
+844,26 Amber,#995C27
+844,28 Clove,#8E5230
+844,29 Sienna,#834E2E
+843,Shade 01,#F7D6BF
+843,Shade 1.5,#FAD4B4
+843,Shade 02,#F2C9A9
+843,Shade 03,#F0C5AA
+843,Shade 04,#ECBBA0
+843,Shade 05,#E4BAA2
+843,Shade 06,#DAAF91
+843,Shade 07,#DBA987
+843,Shade 08,#E1A989
+843,Shade 09,#DBA57A
+843,Shade 11,#C98B5D
+843,Shade 12,#B4753E
+842,104,#FAD4B4
+842,PR 106,#F2D0B9
+842,PR 114,#F2C9A9
+842,PR 108,#F1CBAB
+842,PR 110,#EFCAB2
+842,PR 102,#F7D6BF
+842,PR 116,#ECC6A2
+842,118,#F0C5AA
+842,PR 120,#EBBF9F
+842,122,#ECBD94
+842,PR 126,#E5B78B
+842,PR 130,#E9B68F
+842,PR 134,#E3AE7B
+842,138,#E4AB7C
+842,144,#D08F62
+842,146,#BA784B
+841,28 Curviest Clove,#8E5230
+841,02 Abundant Alabaster,#F0C9AE
+841,06 Intense Ivory,#E6BC9F
+841,07 Capacious Chamois,#DEB193
+841,08 Grandest Golden Neutral,#E2B186
+841,09 ‘Normous Neutral,#DCAB86
+841,14 Voluptuous Vanilla,#D6A683
+841,15 Bountiful Beige,#D09B73
+841,24 Gargantuan Golden,#B4753E
+841,26 Ample Amber,#995c27
+840,01 Fair,#F4C3A7
+840,02 Moderately Fair,#E5B091
+840,03 Medium,#DBB29C
+840,04 Deep,#AA754E
+839,Matte Bisque,#F9DDD1
+839,Matte Ivory,#F9D3BE
+839,Matte Cream,#EDC3A5
+839,Matte Neutral,#CCA588
+839,Matte Beige,#F4CBAF
+839,Matte Medium,#EFC2A2
+839,Matte Honey,#EFC8B3
+839,Matte Tawny,#DBA57A
+838,Shade 01,#F6DCCC
+838,Shade 02,#EFCAB4
+838,Shade 08,#E0B89C
+838,Shade 10,#DBAD92
+838,Shade 12,#E3B892
+838,Shade 14,#E8C0A3
+838,Shade 18,#E2B592
+838,Shade 22,#DBA788
+838,Shade 24,#DBAC78
+838,Shade 28,#E3AF8C
+838,Shade 30,#DDB68C
+838,Shade 31,#BA9765
+838,Shade 34,#D7A274
+838,Shade 36,#D2A17A
+838,Shade 37,#CE9C6A
+838,Shade 39,#B2804C
+838,Shade 42,#C98B5D
+838,Shade 45,#BA8D65
+838,Shade 46,#B37044
+838,Shade 47,#AF7642
+838,Shade 48,#824B2B
+838,Shade 49,#AD693E
+837,0.5 Breeze,#F7C8B2
+837,0.25 Dune,#FBEACD
+837,02 Alabaster,#e4b78e
+837,04 Cream Whip,#d8ac8e
+837,06 Ivory,#C7A084
+837,07 Cream Chamois,#c79877
+837,08 Golden Neutral,#d29a71
+837,09 Neutral,#bc8d69
+837,11 Honey,#c38f6b
+837,14 Vanilla,#d29c6f
+837,15 Beige,#d1976f
+837,18 Sand,#ba8668
+837,23 Ginger,#B57956
+837,24 Golden,#a16c4e
+837,26 Amber,#CB7217
+837,28 Clove,#A45A12
+836,Fresh Fair,#e4b393
+836,Fresh Alabaster,#DDC0A8
+836,Fresh Ivory,#E4C8A7
+836,Fresh Neutral,#D8BE9F
+836,Fresh Cream Chamois,#DAAE77
+836,Fresh Porcelain Beige,#DA9767
+836,Fresh Cream Caramel,#CB9260
+836,Fresh Deep Neutral,#BF8A6E
+836,Fresh Honey,#BB8458
+836,Fresh Vanilla,#BE9272
+836,Fresh Beige,#C59F84
+836,Fresh Sand,#B38F6B
+836,Fresh Ginger,#915622
+836,Fresh Golden,#AF7642
+836,Fresh Amber,#9b5621
+836,Fresh Clove,#714019
+835,32 Breeze,#FFE6CB
+835,27 Alabaster,#FEDCBD
+835,01 Petal,#F5D4B7
+835,02 Fair,#F4D5BF
+835,33 Cream,#F4CAA2
+835,03 Ivory,#E5BFA9
+835,28 Light,#E2AD93
+835,04 Cream Chamois,#F4CBB3
+835,34 Nude Beige,#DAAD88
+835,05 Vanilla,#E1BAA3
+835,06 Linen,#B9886E
+835,35 Honeycomb,#CE9358
+835,07 Neutral,#F0AE96
+835,09 Sand,#D79370
+835,14 Wheat,#B17248
+835,15 Golden,#BB8F68
+835,17 Amber,#A65E33
+835,18 Clove,#975D44
+835,10 Warmer,#E19A7D
+835,12 Honeyed Beige,#CC8C72
+834,18 Stay Cream,#EAC6A7
+834,02 Stay Neutral,#CEA288
+834,01 Stay Buff,#D3AB93
+834,17 Stay Golden,#C8977A
+834,03 Stay Beige ,#C29275
+834,19 Stay Suede,#D09B74
+834,05 Stay Spice,#B27857
+834,10 Stay Amber,#A16F53
+834,04 Stay Honey,#B57B5F
+834,20 Stay Nutmeg,#B17A58
+834,21 Stay Sienna,#9D6B50
+834,11 Stay Brandy,#84523A
+833,01 Silk Porcelain,#FFE6CB
+833,02 Silk Shell,#F0C9AE
+833,03 Silk Bare,#E9BC98
+833,04 Silk Bisque,#F1BF9E
+833,05 Silk Ivory,#E5BFA9
+833,06 Silk Cream Chamois,#F4CBB3
+833,07 Silk Sahara,#E2B186
+833,08 Silk Canvas,#DCAB86
+833,09 Silk Bamboo,#E0B394
+833,10 Silk Honeymilk,#DAA878
+833,11 Silk Sunny Beige,#D7A581
+833,12 Silk Maple,#E0AD84
+833,13 Silk Vanilla,#E1BAA3
+833,14 Silk Suede,#D09B73
+833,15 Silk Nutmeg,#C99B71
+833,16 Silk Almond,#c8874e
+833,17 Silk Cinnamon,#BE773D
+833,18 Silk Sable,#B4753E
+833,19 Silk Brandy,#995C27
+833,20 Silk Cocoa ,#8E5230
+832,CN 08 Linen,#F3D6BF
+832,CN 10 Alabaster,#F0C9AE
+832,WN 16 Buff,#E9BD9C
+832,CN 18 Cream Whip,#E9BC98
+832,CN 20 Fair,#F1BF9E
+832,CN 28 Ivory,#E6BC9F
+832,CN 40 Cream Chamois,#DEB193
+832,CN 52 Neutral,#DCAB86
+832,WN 46 Golden Neutral,#E2B186
+832,WN 56 Cashew,#E5B68B
+832,CN 58 Honey,#DAA878
+832,CN 62 Porcelain Beige,#D7A581
+832,WN 64 Butterscotch,#E0AD84
+832,CN 70 Vanilla,#D6A683
+832,CN 74 Beige,#D09B73
+832,CN 78 Nutty,#CE9465
+832,WN 80 Tawnied Beige,#D49C70
+832,WN 82 Latte,#D29560
+832,CN 90 Sand,#C99B71
+832,WN 94 Deep Neutral,#D28E55
+832,WN 98 Cream Caramel,#C8874E
+832,WN 104 Toffee,#C58342
+832,WN 112 Ginger,#BE773D
+832,WN 114 Golden,#B4753E
+832,CN 116 Spice,#AD7044
+832,WN 118 Amber,#995C27
+832,WN 120 Pecan,#A4653F
+832,WN 122 Clove,#8E5230
+832,WN 124 Sienna,#834E2E
+832,CN 126 Espresso,#623B2C
+831,0.5 Breeze,#FFE6CB
+831,01 Linen,#F3D6BF
+831,02 Alabaster,#F0C9AE
+831,06 Ivory,#E6BC9F
+831,04 Cream Whip,#E9BC98
+831,05 Fair,#F1BF9E
+831,6.5 Buttermilk ,#F0C7AB
+831,08 Golden Neutral,#E2B186
+831,7.5 Tea,#E3A97A
+831,11 Honey,#DAA878
+831,5.75 Cork,#DBAC82
+831,5.5 Ecru,#E6AD7F
+831,6.75 Sesame,#E3B28F
+831,14 Vanilla,#D6A683
+831,15 Beige,#d28f6b
+831,8.25 Oat,#DCA27B
+831,07 Cream Chamois,#DEB193
+831,09 Neutral,#DCAB86
+831,10 Honey Wheat,#D9A373
+831,17 Nutty,#CE9465
+831,16 Toasted Wheat,#C2895D
+831,18 Sand,#C99B71
+831,21 Cream Caramel,#C8874E
+831,23 Ginger,#BE773D
+831,24 Golden,#B4753E
+831,26 Amber,#995C27
+831,28 Clove,#8E5230
+830,01 Light,#e3b59a
+830,03 Light Medium,#ddad92
+830,05 Medium,#d07e4a
+830,07 Deep,#b86530
+829,01 Fair,#EACAB1
+829,02 Neutral Fair,#E6D1BB
+829,03 Light,#DCB286
+829,04 Neutral,#DBB190
+829,05 Medium,#D5A179
+829,06 Deep,#D7AA8E
+828,BIY 105,#F7E1CD
+828,BIY 110,#F4D0B6
+828,BIY 115,#EDD2BD
+828,BIY 120,#E6C4AB
+828,BIY 125,#DCAE8A
+828,BIY 130,#D6AB8F
+828,BIY 135,#DFB28E
+828,BIY 140,#C89575
+828,BIY 145,#D0AC8C
+828,BIY 150,#CD924F
+828,BIY 155,#B2773D
+828,BIY 160,#9D6327
+828,BIY Bronze,#C28165
+827,CN 02 Breeze,#F0C5A8
+827,WN 04 Bone,#F9C096
+827,CN 10 Alabaster,#DAA781
+827,WN 12 Meringue,#E8AE76
+827,CN 20 Fair,#E5AF84
+827,WN 22 Ecru,#EDAB76
+827,CN 28 Ivory,#EFC09C
+827,WN 30 Biscuit,#D19567
+827,WN 38 Stone,#E2B284
+827,CN 40 Cream Chamois,#D7A681
+827,WN 44 Tea,#E1A980
+827,WN 48 Oat,#D49863
+827,CN 52 Neutral,#E7AF89
+827,WN 54 Honey Wheat,#D69565
+827,CN 58 Honey,#D99F6E
+827,CN 62 Porcelain Beige,#D1966D
+827,WN 68 Brulee,#CB8E57
+827,CN 70 Vanilla,#D9A783
+827,CN 74 Beige,#C3885F
+827,WN 76 Toasted Wheat,#D49D6D
+827,CN 90 Sand,#CC986E
+827,WN 92 Toasted Almond,#CB8A5A
+827,WN 94 Deep Neutral,#BD7749
+827,WN 98 Cream Caramel,#C78A4C
+827,WN 112 Ginger,#BF7426
+827,WN 114 Golden,#AF7442
+827,WN 118 Amber,#B26B35
+827,WN 122 Clove,#935732
+827,WN 124 Sienna ,#985825
+827,CN 126 Espresso,#7C431D
+826,Shade 01,#EFD1B3
+826,Shade 03,#D5AA86
+826,Shade 02,#F0C9A0
+825,Light,#D19C83
+825,Moderately Fair,#C49381
+825,Medium,#AD7D68
+825,Medium Beige,#BB9171
+825,Medium Honey,#C9916C
+825,Deep,#916148
+824,Light Neutral,#F1CFB2
+824,Light Petal,#E7BFA1
+824,Medium Petal,#E2B18C
+824,Medium Beige,#DAA16D
+824,Medium Honey,#D49167
+824,Deep Golden,#A77A55
+823,Matte Light,#CC9D82
+822,Fair,#FFBEB0
+822,NEW Illuminator,#F7B9AC
+822,NEW Fair Cream,#F7CDA1
+822,NEW Neutral Cream,#E8BE92
+822,NEW Light Honey,#E7B295
+822,Neutral Fair,#DCAC8A
+822,NEW Medium Deep,#DCB08C
+822,NEW Medium Caramel,#D1997B
+822,NEW Golden Honey,#B17439
+822,NEW Deep Caramel,#BC6A21
+822,NEW Deeper Caramel,#AE631B
+822,Medium,#F99673
+821,Creamy Glow,#DAAD88
+821,Porcelain Glow,#D9A584
+821,Natural Honey Glow,#CE9D78
+821,Ivory Glow,#E4B69D
+820,Very Fair 02,#E8B99A
+820,Very Fair 04,#E9B894
+820,Very Fair 05,#E4AD85
+820,Very Fair 06,#E3AB7F
+820,Very Fair 07,#DFAC8B
+820,Very Fair 08,#E4AD87
+820,Moderately Fair 10,#DCA68A
+820,Moderately Fair 12,#CF916B
+820,Moderately Fair 14,#D59972
+820,Medium 16,#D3936C
+820,Medium 18,#CD9571
+820,Medium 20,#C58F64
+820,Medium 22,#BF8562
+820,Medium 15,#CB8964
+820,Deep 24,#BA7F53
+820,Apricot Corrector,#E5855E
+820,Deep 26,#996454
+820,Deep 28,#8b594c
+819,Very Light,#EAB087
+819,Light,#E6A272
+819,Light Medium,#E2935C
+819,Medium Deep,#D38A56
+819,Deep,#8E5128
+819,Medium,#DC8E59
+818,Light,#e3b59a
+818,Light Medium,#ddad92
+818,Medium,#d07e4a
+818,Medium Deep,#c57542
+818,Deep,#b86530
+817,Shade 01,#EABDAD
+817,Shade 02,#CFA187
+817,Shade 03,#C99B80
+817,Shade 04,#8E5128
+816,Deep,#AA754E
+816,Medium,#E5B091
+816,Moderately Fair,#F4C3A7
+815,Nudes,"#F7E2D1,#673E2C,#DBAA95,#CDB298"
+815,Pinks,"#FDE7F2,#65415E,#C0B5BB,#E6BFD6"
+815,Greens,"#D4DAD4,#92A799,#7D7253,#5B664F"
+815,Greys,"#D9CED6,#C1C5CB,#8A788A,#4E4951"
+815,Blues,"#DDDFE4,#4C5060,#4B4A6A,#94838C"
+814,color 1,#EACFB4
+814,color 2,#D7BAA1
+814,color 3,#8F6A57
+814,color 4,#5C443A
+814,color 5,#CCC3B6
+814,color 6,#473F3E
+814,color 7,#F0DFCC
+814,color 8,#CCBAAA
+813,Very Fair,#decdaf
+813,Moderately Fair,#bc9b72
+813,Deep,#7c4e10
+812,Bit O'Honey,#e9bc97
+812,Cashew Later,#cbb1a6
+812,Cute-cumber,#8F8979
+812,Pinkgo Biloba,#A5726F
+812,Seventh Heather,#7F5B4F
+811,Canvas Light,#efd4b9
+811,Petal Shimmer,#E9BFB5
+811,Buff Lighting,#C8967D
+811,Nude Rose,#c98c7f
+811,Canvas,#b69888
+810,Grape Pop,#855371
+810,Cream Pop,#e3a595
+810,Petal Pop,#f5939a
+810,Vanilla Pop,#fed1b9
+810,Surf Pop,#20367e
+810,Aqua Pop,#008b97
+810,Willow Pop,#836a42
+810,Cocoa Pop,#68463e
+809,Sugar Cane,#f8f5f3
+809,Angel Eyes ,#f2c5da
+809,Daybreak,#e2ac83
+809,Sunset Glow,#ae6950
+809,Nude Rose,#a0746c
+809,Portobello,#5b4540
+809,Lavender Out Loud,#af849e
+809,Bubble Bath,#d699bb
+809,At Dusk,#d27948
+809,French Vanilla,#edd5c5
+809,Lemongrass,#9d9744
+809,Silver Lining,#919697
+809,Pacific Coast,#5c745f
+809,Rock Violet,#85748a
+809,Purple Pumps,#834589
+809,Lagoon,#839bc0
+809,Deep Dive,#212f68
+809,Black Jade,#34391c
+809,Foxier,#886a5a
+809,French Roast,#443022
+809,Chocolate Covered Cherry,#541c2f
+809,Black Honey,#6c352f
+809,Graphite,#4c434d
+809,Olive in My Martini,#362307
+809,Stroke of Midnight,#241607
+808,Grandest Gold,#fff9bd
+808,Bountiful Beige,#f0c6b0
+808,Fuller Fudge,#714a3a
+808,Ample Amber,#c89274
+808,Pink & Plenty,#efa9ad
+808,Whopping Willow,#776933
+808,Mighty Moss,#6b785c
+808,Biggest Blossom,#e47c6e
+808,Lavish Lilac,#a18baa
+808,Oversized Orchid,#a78b97
+808,Big Blue,#4399bc
+808,Lots o' Latte,#8c6f62
+808,Two Ton Teal,#558c7f
+808,Curvaceous Coal,#4d434c
+808,Portly Plum,#765074
+808,Massive Midnight,#2f4168
+807,Dive In,"#c5dde8,#3a4e66,#638988,#2b2f28"
+807,Galaxy,"#e4e7eb,#0d3d5c,#538b8c,#203250"
+807,Going Steady,"#fde6ee,#643d67,#c3a3ba,#473e4d"
+807,Jenna's Essentials,"#fbf8f0,#5b4b3f,#cfb6a6,#383838"
+807,Morning Java,"#f3d4ca,#784a4a,#aa753d,#553240"
+807,On Safari,"#f7f2cd,#6b765c,#978a4e,#4a4b38"
+807,Pink Chocolate,"#f2d7d7,#8d5649,#c28c90,#634a42"
+807,Smoke and Mirrors,"#d0d0d3,#5d5d65,#2d2d2e,#111111"
+807,Teddy Bear,"#fee6d3,#996a57,#ae7e65,#6b3f22"
+807,Galaxy1,#e4e7eb
+807,Galaxy2,#0d3d5c
+807,Galaxy3,#538b8c
+807,Galaxy4,#203250
+807,Dive In 1,#c5dde8
+807,Dive In 2,#3a4e66
+807,Dive In 3,#638988
+807,Dive In 4,#2b2f28
+807,Pink Chocolate 1,#f2d7d7
+807,Pink Chocolate 2,#8d5649
+807,Pink Chocolate 3,#c28c90
+807,Pink Chocolate 4,#634a42
+807,Smoke and Mirrors 1,#d0d0d3
+807,Smoke and Mirrors 2,#5d5d65
+807,Smoke and Mirrors 3,#2d2d2e
+807,Smoke and Mirrors 4,#111111
+807,Morning Java 1,#f3d4ca
+807,Morning Java 1,#784a4a
+807,Morning Java 1,#f3d4ca
+807,Morning Java 2,#784a4a
+807,Morning Java 3,#aa753d
+807,Morning Java 4,#553240
+807,On Safari 1,#f7f2cd
+807,On Safari 2,#6b765c
+807,On Safari 3,#978a4e
+807,On Safari 4,#4a4b38
+807,Going Steady 1,#fde6ee
+807,Going Steady 2,#643d67
+807,Going Steady 3,#c3a3ba
+807,Going Steady 4,#473e4d
+807,Teddy Bear 1,#fee6d3
+807,Teddy Bear 2,#996a57
+807,Teddy Bear 3,#ae7e65
+807,Teddy Bear 4,#6b3f22
+807,Jenna's Essentials 1,#fbf8f0
+807,Jenna's Essentials 2,#5b4b3f
+807,Jenna's Essentials 3,#cfb6a6
+807,Jenna's Essentials 4,#383838
+806,Twilight Mauve/Brandied Plum,"#CFB3BC,#A996A8"
+806,Cocktail Hour,"#d0b8bb,#5c2b2e"
+806,Blackberry Frost,"#a6a2c6,#5f6168"
+806,Buttered Toast,"#fcf1dc,#8f6e43"
+806,Day into Date,"#cfaf98,#7c3900"
+806,Ivory Bisque/Bronze Satin,"#e9d5ca,#896a58"
+806,Jammin',"#f2d5db,#5d245a"
+806,Like Mink,"#c09371,#753d29"
+806,Neutral Territory,"#e0c4ab,#5f574f"
+806,Sand Dunes,"#fae9de,#a66406"
+806,Nightcap,"#EAC7B7,#47575D"
+806,Seashell Pink/Fawn Satin,"#e1d9e0,#b18877"
+806,Starlight Starbright,"#d2b9ac,#977d6f"
+806,Strawberry Fudge,"#dba8ad,#a17664"
+806,Uptown Downtown,"#f7d4d9,#605561"
+806,Wave after Wave,"#c9d4d1,#718b88"
+806,Beach Plum,"#cfb691,#8a697c"
+806,color 1,#D1B1AB
+806,color 2,#60575D
+805,Willow Pop,#836A42
+805,Aqua Pop,#008B97
+805,Cream Pop,#DFA792
+805,Grape Pop,#916487
+803,Egyptian,#46372b
+803,Chocolate Lustre,#4e2f2d
+803,Black Diamond,#151e2c
+802,True Khaki,#574E24
+802,Roast Coffee,#614843
+802,Smoky Brown,#5f4d4d
+802,Slate,#535a5e
+802,New Black,#3f3b3f
+802,Dark Chocolate,#36251e
+802,Violet,#3d3142
+802,Black/Brown,#220d00
+802,Blue Grey,#59556a
+802,Grape,#492533
+802,Really Black,#0f0b09
+801,Blackened Black,#0b0004
+801,Blackened Green,#202318
+801,Blackened Honey,#401917
+800,Black Coffee,#472b2a
+800,Black Kohl,#000000
+799,Intense Clove,#523c39
+799,Intense Peridot,#604c1b
+799,Intense Chocolate,#412727
+799,Intense Ivy,#303b1d
+799,Intense Charcoal,#353434
+799,Intense Midnight,#13253b
+799,Intense Amethyst,#59394F
+799,Intense Aubergine,#3a1f34
+799,Intense Plum,#352E49
+799,Intense Peacock,#374236
+799,Intense Ebony ,#000000
+799,Intense Black,#16273a
+799,Intense Truffle,#9E8577
+799,Intense Sable,#4E2C1C
+799,Intense Cobalt,#2C425C
+798,True Black,#000000
+797,Natural Black,#242424
+797,Muted Brown,#402323
+796,Mini Moss,#51543c
+796,Slim Sable,#4F331A
+796,Demi-grape,#311d40
+796,Olive-tini,#806A3D
+796,Thin Mint,#62975c
+796,Lanky Lapis,#2E5E5D
+796,Angel Hair,#FCF9F4
+795,Black,#2d2a29
+795,Brown,#452a29
+794,,"#57462b,#ecb892"
+794,Black Brown,"#4d3729,#ecb892"
+794,Soft Blonde,"#ad8b70,#ecb89f"
+794,Soft Brown,"#71523b,#ecb89f"
+794,Deep Brown,"#5f401e,#ecb89d"
+793,Soft Blonde,#B68761
+793,Soft Brown,#71553e
+793,Black/Brown,#311b12
+793,Deep Brown,#533316
+793,Soft Auburn,#94512f
+791,Warm Brown,#88553f
+791,Honey,#aa8d77
+790,Blonde,#957E64
+790,Light Brown,#74523c
+790,Deep Brown,#533d2a
+790,Black/Brown,#3e382e
+789,Soft Brown,#b1896d
+789,Wheat,#ffbd8d
+789,Charcoaled,#896a5f
+789,Shaping Taupe,#7b5e48
+788,Hefty Highlight,#f5c5b4
+787,Curvy Contour,#995239
+785,Invisible Blend,#E1D6CC
+785,Transparency Neutral,#E9CEB9
+785,Transparency 2,#E6C8B9
+785,Transparency 3,#DBBCA4
+785,Transparency 4,#D2AC97
+785,Transparency 4 Plus,#BA927A
+785,Transparency Bronze,#BB9280
+785,Transparency 5,#AE846A
+784,Natural,#E9B180
+783,Sunswept,#C68C63
+783,Sunblushed,#CE8963
+783,Sunkissed,#DA9475
+782,Nude Glow,#f1bfa0
+782,Golden Glow,#e29c74
+782,Bronze Glow,#bb6f4a
+781,Universal Glow,#bb7859
+780,100 Neutral,#FDE9DE
+780,150 Neutral,#F0D4BA
+780,200 Cool,#EABE9C
+780,250 Warm Peach,#E5AD7E
+780,300 Neutral,#CC9363
+780,350 Neutral,#B97948
+780,400 Warm,#A75F24
+780,450 Warm,#845031
+780,130 Warm,#F2D3B2
+780,180 Warm,#F9D5B8
+780,230 Neutral,#DFAD8A
+780,280 Warm Peach,#E6AD85
+780,330 Warm,#D39157
+780,380 Cool,#C9875A
+780,430 Neutral,#8A512A
+780,480 Neutral,#693B21
+780,110 Cool,#FDE7DA
+780,160 Warm Peach,#F5CDAA
+780,210 Neutral,#E2AD85
+780,260 Neutral,#DCA77D
+780,310 Warm,#D39059
+780,360 Neutral Olive,#BE7B46
+780,410 Cool,#9E5D2D
+780,460 Cool,#7E462D
+780,140 Warm,#FBE1C6
+780,190 Neutral,#EAC3A0
+780,240 Warm,#D9A57D
+780,290 Neutral Olive,#DCB07D
+780,340 Cool,#AC7652
+780,390 Warm,#A86B3F
+780,440 Cool,#995933
+780,490 Cool,#583218
+780,120 Neutral,#FEE3CC
+780,170 Cool,#E8BFA3
+780,220 Warm Peach,#F0BD96
+780,270 Warm,#D49C6D
+780,320 Warm Peach,#D49164
+780,370 Warm,#CB8458
+780,420 Neutral,#AC6A3A
+780,470 Neutral,#6B391E
+778,Defining Nectars,"#f5cdc4,#f4b6a6,#ef8c85"
+778,Defining Berries,"#fbd5db,#c57c82,#925058"
+778,Defining Roses,"#f5cdd0,#f58589,#9a5f62"
+778,Defining Nudes,"#facebe,#e3a99f,#bf6f5c"
+778,Defining Sugars,"#e5e1cd,#d6b7c3,#a8b2d5"
+778,Defining Pinks,"#fce5e7,#deb5bd,#d36686"
+777,Cupid,#f18f94
+777,Aglow,#c0705d
+777,Sunset Glow,#e98c86
+777,Smoldering Plum,#da8b92
+777,Iced Lotus,#f397a4
+777,Precious Posy,#f59494
+777,Berry Delight,#d78281
+777,Spiced Wine,#b05762
+776,Peach Pop,#cf5d5d
+776,Black Honey Pop ,#aa514a
+776,Pink Honey,#e79da4
+776,Plum Pop,#cd698d
+776,Nude Pop,#db8669
+776,Pink Pop,#de7a7b
+776,Rosy Pop,#c75c69
+776,Heather Pop,#ab6266
+776,Melon Pop,#f29686
+776,Fig Pop,#b55241
+776,Berry Pop,#b54d70
+776,Pansy Pop,#a06b89
+776,Ginger Pop,#ad5753
+776,Cola Pop,#641009
+775,Clinique + Jonathan Adler: Cheek Pop in Peach Pop,#cf5e5e
+775,Clinique + Jonathan Adler: Cheek Pop in Plum Pop,#cd698d
+774,Honey Blush,#cc897d
+774,Pink Blush,#ca8c8c
+774,New Clover,#b97b81
+774,Chestnut Blush,#bb8376
+774,Mocha Pink,#b6847a
+774,Plum Gorgeous,#ac7f79
+774,Fig,#b1706a
+774,Totally Tawny,#b08176
+773,Robust Rhubarb,#f87467
+773,Amp'd Up Apple,#cf5d5d
+773,Roly Poly Rosy,#d55f5f
+773,Plumped Up Peony,#b46368
+772,,#BC2F28
+771,Pink in Motion,#C82062
+770,Pink & Plenty,#ee8fa8
+770,Normous Nude,#b37366
+770,Portly Peach,#e76f5f
+770,Jumbo Jem,#e28f96
+770,Powerhouse Punch,#cb1b56
+770,Goliath Grape,#973566
+770,Va Va Va Violet,#a54a6d
+770,Super Scarlet,#bf133f
+769,Lipblush,#7e4542
+769,Neutrally,#9b4f46
+769,Honeystick,#98483a
+769,Bamboo,#934252
+769,Cocoa Rose,#7f343b
+769,Baby Buff,#b7706b
+769,Crushed Berry,#a9405c
+769,Soft Rose,#c76378
+769,Velvet Rose,#831441
+769,Cocoa Peach,#ca5245
+769,Tawny Tulip,#7b0705
+769,Sky Violet,#b05087
+769,Plummy,#562a41
+769,Chocolate Chip,#490c05
+769,Bon Bon,#733A40
+769,Chili,#5d0810
+768,Intense Hibiscus,#e76393
+768,Intense Punch,#c12b73
+768,Intense Jam,#b51869
+768,Intense Cosmo,#941E58
+768,Intense Cranberry,#99122b
+768,Intense Passion,#ca1238
+768,Intense Blush,#ad5e51
+768,Intense Cayenne,#bb4f40
+768,Intense Sassafras,#b36d5c
+768,Intense Cafe,#924737
+768,Intense Licorice,#4f1115
+768,Intense Cola,#4f1919
+767,Pink Honey,#d15969
+767,Black Honey,#4e1d16
+766,Delovely,#BB7267
+766,Adore U,#D87A73
+766,Pink-a-boo,#E56D75
+766,Pink Beach,#CE6B67
+766,Berry Blush,#D06A7A
+766,Baby Baby,#DD777F
+766,Raspberry Rush,#BA4A60
+766,Pink Goddess,#C0415A
+766,Waterviolet,#CA7783
+766,Apple Brandy,#B62841
+766,Fresh Watermelon,#CB224E
+766,Cranberry Cream,#B80036
+766,Ambrosia,#EE4F49
+765,Peach Pop,#aa443b
+765,Extreme Pink ,#b1455a
+765,Go Fig,#913b35
+765,Nude Beach,#D17C76
+765,Nearly Violet,#DC7A75
+765,Honey Blush,#E17770
+765,Very Currant,#E87785
+765,Toasted Rose,#D96A6D
+765,Rose Spectrum,#B3505D
+765,Sassy Spice,#C02C29
+765,Cider Berry,#853439
+765,Pure Posh,#CD5247
+765,Rosette,#a9434b
+765,After Party,#CC5268
+765,Red-y To Wear,#af2033
+764,Roundest Raspberry,#792d39
+764,Curviest Caramel,#a95c61
+764,Chunkiest Chili,#ab383f
+764,Mightiest Maraschino,#b5003d
+764,Heftiest Hibiscus,#bd3637
+764,Plushest Punch,#a51743
+764,Roomiest Rose,#831344
+764,Broadest Berry,#76303e
+764,Grandest Grape,#771835
+763,Matte Beauty,#cd5a64
+763,Matte Plum,#ad276a
+763,Matte Crimson,#cc0631
+762,Will You?,#F85856
+762,I Do!,#BF4559
+762,Silvery Moon,#d97a96
+762,Honeymoon,#C96E5A
+762,Violet Berry,#ba4a58
+762,Watermelon,#cc486a
+762,Ginger Flower,#c9253e
+762,Runway Coral,#e64e51
+762,Twilight Nude,#af5965
+762,Creamy Nude,#af675d
+762,Baby Kiss,#a75155
+762,Berry Freeze,#ad3836
+762,Rose Shimmer,#A8005B
+762,Beauty,#b35060
+762,All Heart,#a44242
+762,Red Red Red,#b32127
+762,Golden Brandy,#be453e
+762,Pink Spice                         ,#a75258
+762,Black Violet,#6c2a2d
+762,Blushing Nude,#a95554
+762,Sugared Maple,#a95c5b
+762,Merlot,#8f212e
+762,Bamboo Pink,#a96361
+762,Heather Moon,#874f58
+762,Dubonnet,#a52b25
+762,Pink Chocolate,#a7413d
+761,Petal Pop,#e86ba5
+761,Boom Pop,#841544
+761,Cake Pop,#da7d7e
+761,Flame Pop,#c8093a
+761,Ripe Pop,#ef3232
+761,Sweetheart Pop,#9e1b56
+761,Candied Apple Pop,#790126
+761,Black Licorice Pop,#5e072f
+760,Budding Blossom,#ff8fb2
+760,Coming Up Rosy,#e35773
+760,Poppin' Poppy,#f26a6f
+760,Flowering Freesia,#783e5b
+759,Love Pop,#AD384A
+759,Palm Beach Pop,#EA2C51
+759,Cola Pop,#7b3636
+759,Melon Pop,#f45a3b
+759,Beige Pop,#CC756C
+759,Capri Pop ,#E51E4F
+759,Fab Pop,#FB8187
+759,Bare Pop,#C86464
+759,Cherry Pop,#cd1859
+759,Poppy Pop,#F83A3C
+759,Santorini Pop,#AE266B
+758,A Different Grape,#8c3050
+758,Sugared Grapefruit,#e26872
+758,Think Bronze,#b96565
+758,Guava Stain,#B76E74
+758,Sweet Honey,#DC555E
+758,Plum Brandy,#9f3245
+758,Surprise,#8f4a4e
+758,Shy,#a44155
+758,Angel Red,#9c0b2d
+758,Raspberry Glace,#ab455e
+758,Ripe Raisin,#CC364C
+758,Spiced Apple,#A3555D
+758,Tenderheart,#984a37
+758,Glazed Berry,#dd587c
+758,Bronze Leaf,#AD665D
+757,Nude Pop,#d88282
+757,Lava Pop,#d7142e
+757,Sugar Pop,#cc6674
+757,Cocoa Pop,#a65957
+757,Sweetie Pop,#ff1e5a
+757,Peace Pop,#6a1144
+757,Wink Pop,#ec878d
+757,Go-Go Pop,#ef005f
+757,Love Pop,#924257
+757,Happy Pop,#ff3d3c
+756,Bubblegum Pop,#f276a2
+756,Sugar Plum Pop,#c05c67
+756,Sprinkle Pop,#cc376a
+756,Fireball Pop,#c12838
+756,Melon Drop Pop,#f45c5f
+756,Licorice Pop,#731e3b
+755,Super Strawberry,#b1515d
+755,Heaping Hazelnut,#b76f69
+755,Graped-Up,#954b57
+755,Whole Lotta Honey,#af6262
+755,Fuller Fig,#9b4344
+755,Richer Raisin,#853f36
+755,Two Ton Tomato,#ce1f1d
+755,Mega Melon,#c45a5b
+755,Oversized Orange,#f66366
+755,Chunky Cherry,#c04156
+755,Pudgy Peony,#b11f60
+755,Woppin' Watermelon,#e17587
+755,Bountiful Blush,#984d50
+755,Curvy Candy,#e76477
+755,Mighty Mimosa,#e3727c
+755,Voluptuous Violet,#8f3851
+755,Plumped Up Pink,#f7659e
+755,Supreme Sorbet,#f09495
+755,Jumbo Jasmine,#a7354b
+754,Bold Pop,#4a1323
+754,Ruby Pop,#a8100b
+754,Rose Pop,#961741
+754,Pow Pop,#7f2d55
+754,Graffiti Pop,#cc0d49
+754,Clove Pop,#592a26
+754,Peppermint Pop,#a80028
+754,Cute Pop,#a54b60
+754,Shock Pop,#af1a58
+754,Coral Pop,#d3313f
+754,Mod Pop,#de387d
+754,Icon Pop,#900925
+754,Peony Pop,#dc7587
+754,Blushing Pop,#9f5859
+754,Avant Garde Pop,#301018
+754,Beach Pop,#8e4546
+753,Nude Pop,#d3796e
+753,Fab Pop,#f37e91
+753,Beige Pop,#e08e7f
+753,Melon Pop,#f47b74
+753,Bare Pop,#b75c54
+753,Sweet Pop,#eb6b8a
+753,Wow Pop,#ef5498
+753,Grape Pop,#974b6a
+753,Poppy Pop,#eb4944
+753,Plum Pop,#b45865
+753,Punch Pop,#cb254c
+753,Cherry Pop,#b90e26
+753,Love Pop,#8d3949
+753,Passion Pop,#750d15
+753,Berry Pop,#641126
+753,Cola Pop,#5a1e1b
+752,Blossom Pop,#BB5974
+752,Dune Pop,#9F6469
+752,Fuchsia Pop,#C91C67
+752,Fiesta Pop,#A82F5B
+752,Crimson Pop,#C02840
+752,Bright Pop,#C6243C
+752,Brown Sugar Pop,#83403C
+752,Fun Pop,#713547
+740,108 Muguet,#FCD9CB
+740,445 Coral Crush,#EA4D54
+740,155 Tra-la-la,#F9C8C8
+740,268 Ruban,#F7B6B6
+740,785 Cosmopolite,#B63853
+740,338 Mirage,#952D73
+740,306 Trianon,#A3948B
+740,403 Palais Royal,#977D7B
+740,413 Grège,#D2A896
+740,494 Junon,#617686
+740,537 Riviera,#E73326
+740,551 Aventure,#E61E32
+740,575 Wonderland,#E83B53
+740,659 Lucky,#E40040
+740,661 Bonheur,#E40B6E
+740,669 Fizz Pink,#DB1057
+740,754 Pandore,#C90206
+740,769 Front Row,#C60F54
+740,853 Massaï,#780C18
+740,970 Nuit 1947,#340000
+740,999 Rouge 999,#A10705
+730,162 Miss Satin,#F39994
+730,614 Jungle Matte,#C78377
+730,979 Poison Metal,#6D1724
+730,999 Matte,#A50809
+729,162 Miss Satin,#F39994
+729,614 Jungle Matte,#C78377
+729,979 Poison Metal,#6D1724
+729,999 Matte,#A50809
+728,162 Miss Satin,#F39994
+728,614 Jungle Matte,#C78377
+728,979 Poison Metal,#6D1724
+728,999 Matte,#A50809
+727,162 Miss Satin,#F39994
+727,614 Jungle Matte,#C78377
+727,979 Poison Metal,#6D1724
+727,999 Matte,#A50809
+726,201 Mineral,#C0CAB7
+725,550 Tease,#ED7C90
+725,684 Diabolo,#EA508D
+725,924 Sauvage,#481B2A
+724,550 Tease,#ED7C90
+724,684 Diabolo,#EA508D
+724,924 Sauvage,#481B2A
+723,550 Tease,#ED7C90
+723,684 Diabolo,#EA508D
+723,924 Sauvage,#481B2A
+722,001 Precious Rocks,#CAAB54
+721,673 Ruby,#BC2D48
+721,745 Grenat,#970530
+721,809 Emerald,#006D66
+721,998 Amethyst,#511B38
+720,673 Ruby,#BC2D48
+720,745 Grenat,#970530
+720,809 Emerald,#006D66
+720,998 Amethyst,#511B38
+719,673 Ruby,#BC2D48
+719,745 Grenat,#970530
+719,809 Emerald,#006D66
+719,998 Amethyst,#511B38
+718,673 Ruby,#BC2D48
+718,745 Grenat,#970530
+718,809 Emerald,#006D66
+718,998 Amethyst,#511B38
+717,001 Brown,#786557
+716,093 Black,#37342C
+716,433 Ash Blonde,#8A6B55
+716,453 Soft Brown,#583D2F
+716,593 Brown,#68403E
+716,653 Blonde,#A0795F
+716,693 Dark Brown,#614D42
+715,001 Universal Brown,#685656
+715,002 Universal Dark Brown,#6D5B42
+715,003 Auburn,#683E28
+715,021 Chestnut,#92673F
+714,004 Gold,#D2AF75
+713,002 Dark,#6F5246
+713,011 Light,#A07B66
+713,021 Medium,#8C5F3D
+712,095 Catwalk Black,gray6
+711,098 Black,black
+711,798 Brown,#7E5F5C
+710,099 It-Black,gray8
+709,594 Intense Brown,#533638
+709,094 Trinidad Black,gray9
+709,254 Captivating Blue,#456C89
+708,099 Black Khôl,#282828
+708,009 White Khôl,#F2F3EF
+708,529 Beige Khôl,#F8D9BF
+707,062 Pro Grege,#7A6B64
+707,042 PRO GREY,gray50
+707,082 Pro Anthracite,#3D474A
+707,092 PRO BLACK,#2F2F34
+707,182 PRO PURPLE,#534862
+707,272 PRO BLUE,#354862
+707,282 Pro Navy,#323B57
+707,472 PRO KHAKI,#60683D
+707,582 PRO BROWN,#5A4545
+707,772 Pro Mahogany,#55343D
+706,090 Black,#0A0C0D
+706,268 Navy,#4D6895
+706,698 Chestnut,#5A413D
+705,090 Over Black,gray2
+705,264 Over Blue,#20214E
+705,694 Over Brown,#43332B
+704,092 It-Black,black
+703,090 New Look Black,#0A0C0D
+703,264 New Look Blue,#00011F
+703,694 New Look Brown,#301800
+702,099 Kohl Black,#0A0C0D
+701,088 Pro Anthracite,#3D474A
+701,090 PRO BLACK,#020202
+701,168 PRO PURPLE,#45306F
+701,258 PRO BLUE,#071641
+701,288 Pro Navy,#323B57
+701,698 PRO BROWN,#402A14
+701,778 Pro Mahogany,#55343D
+701,868 Pro Magenta,#6E3650
+700,090 Black Pump,black
+697,000,#C48A80
+696,000,#A18783
+695,001,#A48473
+694,008 SMOKY DESIGN,#C1C0BF
+694,208 NAVY DESIGN,#C5C5CC
+694,308 KHAKI DESIGN,#CDC8BD
+694,508 NUDE PINK DESIGN,#D4C3BD
+694,708 AMBER DESIGN,#D2C2B4
+694,718 TAUPE DESIGN,#CDBFB9
+693,347 Emerald,#D7D8CC
+693,857 Ruby,#DCC1BF
+692,157 Magnify,#D9CED4
+692,277 Defy,#C5C9D1
+692,357 Electrify,#CFD1D1
+692,537 Touch,#E6D8D1
+692,567 Adore,#DACFC9
+692,647 Undress,#DCCBC3
+692,657 Expose,#D8C9BC
+692,757 Dream,#D9CDCE
+692,767 Inflame,#E2CCC7
+692,777 Exalt,#E0CBC8
+692,797 Feel,#D1BFBA
+691,006 Infinity,#E8E5DF
+691,522,#EED8BE
+691,060,#8F7582
+691,026 Techno,#BCBABB
+691,071 Radical,#808285
+691,081 Runway,#5D6265
+691,094 Gravity,#676D81
+691,173 Evening,#7B8094
+691,184 Temptation,#8E6688
+691,240 Air,#ADB8D2
+691,296 Show,#373C66
+691,480 Nature,#B3B478
+691,516 Delicate,#EDD8C0
+691,530 Gallery,#E0B798
+691,554 Minimalism,#CAB6AB
+691,564 Fire,#CFB289
+691,573 Mineral,#CDA284
+691,583 Animal,#7D625A
+691,616 Pulse,#F3E0B0
+691,623 Feeling,#F2C9B1
+691,658 Cosmopolite,#D6AF98
+691,684 Reflection,#A77B60
+691,756 Front Row,#A58887
+691,764 Fusion,#DF8772
+691,794 Fever,#9A716C
+691,826 Backstage,#EBC3C9
+691,848 Focus,#E59EB9
+691,994 Power,#906B83
+690,091 Nocturne,#363A3E
+690,721 Songe,#E5BAA8
+689,001 Lune,#EDE9E6
+689,381 Millenium,#93867A
+689,661 Météore,#BD9171
+689,771,#BD9E9B
+689,881 Hypnotique,#826A73
+689,981,#8B4E78
+687,001 Petal,#F1C0D7
+686,864 Precious Rocks,#EF8687
+685,001 Pink Shape,#DA9A8E
+685,002 Coral Shape,#D6A086
+685,003 Beige Contour,#D3A895
+685,004 Brown Contour,#C69E8A
+684,556 Amber Show,#EA8166
+684,553 Cocktail Peach,#E17D70
+684,566 Brown Milly,#AB6F70
+684,586 Orange Riviera,#EF7A5B
+684,676 Coral Cruise,#ED7167
+684,746 Beige Nude,#E6A397
+684,756 Rose Chérie,#EB8881
+684,829 Miss Pink,#F09BA1
+684,849 Mimi Bronze,#C17E6A
+684,861 Rose Darling,#EB81A5
+684,876 Happy Cherry,#EF7B88
+684,889 New Red,#EB5E6D
+684,896 Redissimo,#EB5C54
+684,939 Rose Libertine,#D88D8C
+683,001 Golden Honey,#CD9163
+683,002 Amber,#CD9068
+683,003 Cinnamon,#D8996C
+683,035 Matte Cinnamon,#B17252
+682,001 Fresh Tan,#D59A72
+682,002 Fresh Light,#D69D7B
+682,004 Warm Light,#DB9781
+681,010 Ivory,#FEE6CF
+681,012 Pink,#FCDEDD
+681,020 Light Beige,#EFCEB0
+681,030 Medium Beige,#E8BA92
+680,020 Light Beige,#E7BEA0
+680,030 Medium Beige,#DDAD84
+679,001 Precious Rocks,#F3D7B2
+678,001,#E7D6CA
+677,100 Blue,#D1D4E3
+677,200 Apricot,#EEC8B9
+677,300 Yellow,#EBDBB9
+677,400 Green,#CEDFC6
+676,010 Ivory,#E3CAB3
+676,011 Creme,#E8D1B7
+676,020 Light Beige,#DCBDA1
+676,021 Linen,#E8CBAC
+676,022 Cameo,#E4C5B1
+676,030 Medium Beige,#D5B292
+676,031 Sand,#E7C4A1
+676,033 Apricot Beige,#DFB693
+676,040 Honey Beige,#D0A783
+676,050 Dark Beige,#C99364
+676,060 Light Mocha,#B27854
+675,001 Light,#F0D9C6
+675,002 Medium,#F0D4C2
+675,003 Dark,#E4C4AD
+675,025 Medium Beige,#DEBEA3
+674,500 Pearly Vanilla,#EAC4A6
+674,800 Pearly Pink,#FACBBD
+673,001 Pink,#FADCDC
+673,003 Sparkling,#F4C4C8
+672,004 Tiara,#E0E4EA
+672,013 Mise en Dior,#E7CDB2
+672,211,#D9B6AB
+672,267 So Real,#F4A9A9
+672,363 Nude,#F4A2A3
+672,453 Sideral,#EF9EB1
+672,465 Shock,#EDA5B9
+672,553 Princess,#F0889D
+672,629 Mirrored,#B87569
+672,643 Everdior,#E14148
+672,649 Nova,#EF7472
+672,653 Sequins,#EC7A86
+672,656 Cosmic,#F07B83
+672,662 Diorling,#DF445B
+672,664 New Wave,#EA5071
+672,669,#DA5E6D
+672,673,#E84280
+672,676 Cruise,#FE54A9
+672,683 Chromic,#E15F7B
+672,686 Fancy,#D04971
+672,765 Ultradior,#DB2B5D
+672,785 Diorama,#AD6164
+671,001,#E1000F
+670,005 Charm,#AA6565
+670,006 Glory,#910924
+669,341 Pure Topaz,#E17D79
+669,671 Vibrant Tourmaline,#C95B86
+669,741 Deep Ruby,#864640
+669,751 Intense Garnet,#CD2E3A
+669,991 Bold Amethyst,#604751
+668,005 Glory,#B55758
+668,008 Mitzah,#C56C72
+668,009 Award,#E1857A
+668,013 Ange Bleu,#D00040
+668,014 Dolce Vita,#E30F25
+668,015 Broadway,#A27977
+668,021 Icône,#CE3C2F
+668,023 Diorella,#D55B74
+668,024 Liz,#CE6063
+668,025 Diorissimo,#E87379
+667,423 Minimal,#DC8E74
+667,853 Hype,#E2122D
+667,875 Beverly Pink,#DC2144
+667,955 Excessive,#410000
+667,465 Cruise,#EF768F
+666,885 Artsy,#E32A67
+666,951 Too Much,#C0011F
+666,967 Gotha,#7A2335
+666,974 Rebellious,#CB0428
+666,138 Purity,#F49E90
+666,260 Bright,#D48A86
+666,266 Delight,#F28F9B
+666,334 Happy,#EF7775
+666,343 Spring Ball,#DB7F72
+666,441 Frimousse,#F07C6E
+666,451 Tribale,#EF7771
+666,532 So Electric,#EB553E
+666,535 Tailleur Bar,#C1807A
+666,536 Lucky,#DD2B47
+666,553 Smile,#E98693
+666,554 It Pink,#E8485D
+666,561 Wonderful,#F18592
+666,578 Diorkiss,#DC485F
+666,579 Must-Have,#DF525F
+666,612 City Lights,#8F534E
+666,623 Not Shy,#9F4F4D
+666,639 Riviera,#EA4A44
+666,655 Mutine,#E64B55
+666,680 After Party,#BC425F
+666,685 Oversize,#E9437C
+666,686 Fantasy,#E15F86
+666,722 True,#AA5D57
+666,745 New Look,#D30C19
+666,750 Rock'n Roll,#D50F38
+666,871 Power,#E83144
+666,881 Fashion Night,#961D4B
+666,976 Be Dior,#C01552
+666,983 Insoumise,#AC2B56
+666,987 Black Tie,#3E0013
+666,435 Dreamy,#F295A2
+665,344 Rolling,#F19183
+665,420 Underground,#A15C61
+665,457 Palm Beach,#EB636B
+665,487 Bubble,#EB5C97
+665,550 Tease,#E47082
+665,554 West Coast,#EA5344
+665,570 LA Pink,#9E3F48
+665,577 Lazy,#C86378
+665,620 Poisonous,#8C3D3C
+665,674 K-Kiss,#D5305F
+665,684 Diabolo,#E60760
+665,740 Club,#902215
+665,744 Party Red,#E51E1A
+665,757 American Girl,#C20516
+665,857 Hollywood Red,#A01314
+665,877 Turn Me Dior,#C4032B
+665,882 Sassy,#BB0E63
+665,904 Black Coffee,#391E1C
+665,924 Sauvage,#602127
+665,984 Dark Flower,#751E41
+664,421 Natural Beige,#AD5F56
+664,451 Natural Coral,#E55461
+664,491 Natural Rosewood,#A76165
+664,761 Natural Cherry,#E13D5D
+664,771 Natural Berry,#974249
+664,881 Natural Pink,#EC6292
+663,999 Matte,#BA1B2B
+661,426 Sensual Matte,#D58F7F
+661,481 Hypnotic Matte,#B76566
+661,861 Sophisticated Matte ,#B52237
+661,999 Metallic,#A82628
+660,028 Actrice,#E83F4A
+660,047 Miss,#E40068
+660,060 Première,#D36179
+660,080 Red Smile,#D91920
+660,207 Montaigne Matte,#BBC3C2
+660,219 Rose Montaigne,#D07866
+660,277 Osée,#DB7096
+660,365 New World,#E06E6D
+660,414 Saint Germain,#CA6863
+660,434 Promenade,#AD5E56
+660,458 Paris,#C15961
+660,520 Feel Good,#E4003E
+660,602 Visionary Matte,#2E4763
+660,634 Strong Matte,#EB5959
+660,642 Ready,#EA5156
+660,643 Stand Out,#E84618
+660,644 Sydney,#B73E42
+660,652 Euphoric Matte,#ED6C7E
+660,663 Désir,#D0546B
+660,678 Culte,#CC4A6B
+660,683 Rendez-Vous,#BC5553
+660,743 Rouge Zinnia,#A41220
+660,766 Rose Harpers,#CF1D58
+660,771 Radiant Matte,#E96C81
+660,772 Classic Matte,#CB7A84
+660,775 Darling,#E1244B
+660,787 Exuberant Matte,#E6699D
+660,789 Superstitious Matte,#96518F
+660,844 Trafalgar,#E0262F
+660,872 Victoire,#AD0F1C
+660,897 Mysterious Matte,#BC4B76
+660,962 Poison Matte,#86556D
+660,964 Ambitious Matte,#A05357
+660,999,#BE030E
+660,999 Matte,#CC424D
+660,343 Panaréa,#DB6F6D
+659,288 MISS CRUSH,#F09E94
+659,510 JUNGLE BEIGE,#B48D86
+659,534 TEMPTING TANGERINE,#E97048
+659,582 SPICY SWEET,#DD7F9C
+659,992 POISON PURPLE,#925970
+659,999 MATTE METAL,#BD3C3C
+658,162 MISS SATIN,#F08885
+658,221 CHIC MATTE,#C27F75
+658,265 FURY MATTE,#DA6272
+658,334 VIBRANT METAL,#D17B67
+658,375 SPICY METAL,#CB657E
+658,427 DELICATE SATIN,#C16863
+658,442 IMPETUOUS SATIN,#E2544C
+658,515 SCANDALOUS METAL,#925738
+658,527 RECKLESS MATTE,#AA584E
+658,565 VERSATILE SATIN,#CE354A
+658,574 LIVELY MATTE,#AB5E6A
+658,601 HOLOGLAM,#D3CFD2
+658,614 JUNGLE MATTE,#AF695C
+658,625 MYSTERIOUS MATTE,#914047
+658,658 EXTREME MATTE,#E43F1E
+658,751 ROCK'N'METAL,#CC4735
+658,788 FRENETIC SATIN,#D32759
+658,797 SAVAGE MATTE,#A50C46
+658,862 HECTIC MATTE,#6F0F2B
+658,895 FAB SATIN,#652832
+658,901 OXBLOOD MATTE,#3B2427
+658,908 BLACK MATTE,#292324
+658,979 POISON METAL,#791D26
+658,999 MATTE,#C51215
+657,Sand Medium,#e5ae86
+657,Clay Medium,#ac703d
+657,Clay Medium Deep,#9e6209
+657,Earth Medium,#793f0d
+657,Earth Deep,#64300a
+656,Clay,#c47b4d
+656,Earth,#8f5628
+655,Sand Medium,#e9b88b
+655,Clay Medium,#cea176
+655,Clay Medium Deep,#a0672e
+655,Earth Medium,#9c6018
+655,Earth Deep,#784311
+654,Posh,#d55c67
+654,Peace,#ad444a
+654,Allure,#e38069
+654,Sunlit Copper,#b06037
+654,Sable,#6e3b18
+653,Sand Light,#F2B791
+653,Sand Medium,#ECAD79
+653,Clay Medium,#DD925F
+653,Clay Medium Deep,#C77E4D
+653,Earth Medium,#965831
+653,Earth Deep,#7C4B2D
+652,Intrigue,#F1C6A7
+652,Desire,#C88242
+652,Deception,#00594F
+652,Forbidden,#003865
+652,Seduction,#3F2A56
+652,Mystery,#1D252D
+647,Black Shimmer,#283434
+647,Nut Bush,#583939
+647,Jet Black,#000000
+646,NEW IMAN Nude,#d27d56
+646,NEW Baby Doll,#c26256
+646,NEW Hipster,#b5432a
+646,NEW Diva,#a43a44
+646,NEW Drama Queen,#632528
+646,NEW Rebel,#602714
+646,Sheer Gold,#c47636
+646,Citron,#a17e49
+646,Hot,#ff4814
+646,Kinky Pink,#f4436d
+646,Paprika,#b15336
+646,Iman Red,#d71d32
+646,Flirtatious,#af0061
+646,Scandalous,#a32136
+646,Sheer Ice Tea,#874e41
+646,Opal,#6a494c
+646,Taboo,#73308b
+646,Jaguar,#734942
+646,Wild Thing,#651738
+646,Black Brandy,#52182c
+645,White Gold,#ffd9ac
+645,Mixed Metal,#bc8473
+645,Mixed Metal,#e8e7e3
+645,Hot Chocolate,#6e4e40
+645,Hot Chocolate,#dbbdb4
+645,Bejeweled,#874d25
+645,Bejeweled,#de9d7c
+645,Pewter,#99978d
+645,Nutmeg,#a05d42
+645,Tiger Eye,#9a6758
+645,Bronze Goddess,#543227
+645,Bronze Goddess,#b27866
+645,Safari,#7c735b
+645,African Violet,#6b5a73
+643,ivory,#f4dac4
+643,petal,#f1d3b5
+643,champagne,#f9d9be
+643,honey,#f4d4bb
+643,beige,#ecba97
+643,toasted beige,#f9be8a
+643,amber,#fbb171
+643,hazelnut,#dc8e5a
+643,nutmeg,#cf743b
+641,,#CE9990
+636,,#DEB094
+633,01 - light,#cda885
+633,02 - light,#ab8d7c
+633,03 - medium,#967765
+633,04 - medium,#64483c
+633,05 - deep,#5c4743
+633,06 - deep,#504b49
+631,01 - light,#cda885
+631,02 - light,#ab8d7c
+631,03 - medium,#967765
+631,04 - medium,#64483c
+631,05 - deep,#5c4743
+631,06 - deep,#504b49
+630,01 - light,#cda885
+630,02 - light,#ab8d7c
+630,03 - medium,#967765
+630,04 - medium,#64483c
+630,05 - deep,#5c4743
+630,06 - deep,#504b49
+629,01 - light,#cda885
+629,02 - light,#ab8d7c
+629,03 - medium,#967765
+629,04 - medium,#64483c
+629,05 - deep,#5c4743
+629,06 - deep,#504b49
+628,01 - light,#cda885
+628,03 - medium,#967765
+628,05 - deep,#504b49
+627,light,#cda885
+627,deep,#5c4743
+627,medium,#967765
+626,light,#ab8d7c
+626,medium,#967765
+626,deep,#504b49
+625,light,#ab8d7c
+625,medium,#967765
+625,deep,#504b49
+624,juicy details,#d14146
+624,air kiss,#f3576c
+624,nice &#039;n teasy,#963a38
+624,frisky business,#712f29
+624,lip service,#d64d3e
+624,tutti-cutie,#ff5864
+624,talk flirty,#8a3850
+624,fling thing,#7d2034
+624,dare me,#b80229
+624,wing woman,#ad3b33
+622,lollibop,#fc4c88
+622,kiss you,#d0609d
+622,icebreaker,#f6f6f6
+622,fauxmance,#d55862
+622,A-lister,#fb908a
+622,poutrageous!,#ff4c4e
+608,black,#000000
+608,brown,#493023
+607,jet black,#0a070c
+607,beyond brown,#64250d
+607,beyond blue,#01336f
+605,black,#181718
+605,espresso,#54443f
+605,charcoal,#475157
+604,bikini-tini,#fcd1b8
+604,r.s.v.p.,#fdd3c8
+604,birthday suit,#e8c2b1
+604,always a bridesmaid,#aea2bb
+604,blue my mind,#dae5e7
+604,no pressure!,#b38e87
+604,my two cents,#dfa486
+604,bronze have more fun,#694a2c
+604,skinny jeans,#8f8377
+604,holy smokes!,#7f787b
+603,beyond black,#0a070c
+603,beyond purple,#5f3687
+603,beyond blue,#083b7d
+603,beyond green,#185c3f
+603,beyond brown,#6b3420
+560,WARM MATTE,#be8667
+560,DEEP MATTE,#a8765a
+556,BRONZE SHIMMER,#8d5f3f
+556,GOLD SHIMMER,#9d7449
+555,DARK BROWN,#392f27
+555,BRUNETTE,#4e392b
+555,TAUPE,#806453
+555,BLONDE,#95816e
+554,DARK BROWN,#3a3027
+554,BRUNETTE,#4d372a
+554,TAUPE,#7f6452
+554,BLONDE,#897666
+553,BRUNETTE,#674d3b
+553,TAUPE,#8b6654
+553,DARK BROWN,#443227
+553,BLONDE,#a08572
+552,TAUPE,#b09983
+552,BRUNETTE,#7b6859
+551,FAIR/LIGHT,#e2be9b
+551,LIGHT,#ecc6af
+551,LIGHT/NEUTRAL,#d7a280
+551,LIGHT/MEDIUM,#d49569
+551,MEDIUM,#c48459
+551,MEDIUM/DARK,#ab7045
+551,DARK,#95633b
+550,FAIR,#f3d6c7
+550,FAIR/LIGHT,#e9c09f
+550,LIGHT,#f8e2cc
+550,LIGHT/NEUTRAL,#d4a47f
+550,LIGHT/MEDIUM ,#e9c9b4
+550,MEDIUM,#e2b49d
+550,MEDIUM/DARK,#9e6d4e
+550,DARK  ,#b17c60
+549,1,#ecc9a9
+549,2,#e3b998
+549,3,#e9bc91
+549,4,#e1b088
+549,5,#e3b180
+549,6,#e2aa78
+549,7,#d69a6a
+549,8,#c98758
+549,9,#c48152
+549,10,#905839
+548,FAIR,#eed7ca
+548,FAIR/LIGHT,#f8e0ca
+548,LIGHT,#efd1b9
+548,LIGHT/NEUTRAL,#edcebd
+548,LIGHT/MEDIUM,#eabd97
+548,MEDIUM,#cea17f
+548,MEDIUM/DARK,#a2775f
+548,DARK,#795947
+547,1,#f8dfcf
+547,3,#efc5a9
+547,4,#ecbb9b
+547,9,#9a5838
+547,10,#794328
+546,FAIR,#F8D5C4
+546,NEW SHADE! FAIR/LIGHT,#f1c5ab
+546,LIGHT,#E9BBA4
+546,NEW SHADE! LIGHT/NEUTRAL,#e1b89f
+546,LIGHT/MEDIUM,#D9A593
+546,MEDIUM,#C08571
+546,NEW SHADE! MEDIUM/DARK,#ac7d68
+546,DARK,#B17966
+545,FAIR,#f8d5c4
+545,NEW SHADE! FAIR/LIGHT,#f1c5ab
+545,LIGHT,#e9bba4
+545,NEW SHADE! LIGHT/NEUTRAL,#e1b89f
+545,LIGHT/MEDIUM,#d9a593
+545,MEDIUM,#c08571
+545,NEW SHADE! MEDIUM/DARK,#ac7d68
+545,DARK,#b17966
+544,FAIR,#e1b294
+544,LIGHT/NEUTRAL,#d5a07a
+544,LIGHT/MEDIUM,#cf9669
+544,MEDIUM,#c08555
+544,MEDIUM/DARK,#a3704c
+544,DARK,#88563d
+544,LIGHT,#e4b796
+543,0.5,#fae6db
+543,1,#f6ded1
+543,1.1,#ebd6ca
+543,1.15,#f6d4b9
+543,1.2,#eaccb6
+543,2.1,#e1c1a8
+543,2.15,#f2c7a4
+543,2.2,#dcb79a
+543,2.25,#f2c198
+543,2.3,#d3b099
+543,2.4,#d3ac93
+543,3,#d19d7a
+543,3.1,#cea082
+543,3.15,#d8a277
+543,3.2,#af876c
+543,3.35,#b67c4e
+543,4,#b6754e
+543,4.05,#98603d
+543,4.15,#955d44
+543,4.2,#765545
+543,4.3,#643525
+543,4.4,#563224
+536,DARK BROWN,#452810
+536,DEEP BLACK,#000000
+535,JET BLACK,#000000
+535,COCOA,#3f2b20
+535,SMOKE,#565658
+533,BLACK,#000000
+533,DARK BROWN,#3a201f
+532,3D GALAXY,#3c3540
+532,3D SPARKS,#48432f
+532,3D NEPTUNE,#2d3b5b
+532,3D BILLIONAIRE,#495535
+532,3D PACIFIC,#488e76
+532,3D ORCHID,#603067
+532,3D GEMSTONE,#ab638d
+532,3D GUNMETAL,#8792a2
+531,RAVEN,#161514
+531,SUMATRA,#361712
+531,VIOLETTA,#523945
+531,FRENCH NAVY,#1c1e3e
+531,STORM,#464140
+531,CABANA,#1f6456
+531,PENNY LANE,#6b3b29
+531,BARE,#ecbca2
+530,color 1,#2E355B
+530,color 2,#ABA2AA
+530,color 3,#61495D
+530,color 4,#AB90A3
+530,color 5,#937A87
+530,color 6,#D2AEAA
+530,color 7,#312D31
+530,color 8,#E7D5C8
+530,color 9,#6D4541
+530,color 10,#EAB8A5
+530,color 11,#704B47
+530,color 12,#BA8980
+530,color 13,#754F40
+530,color 14,#EFC1AE
+528,color 1,#6F5040
+528,color 2,#B78C70
+528,color 3,#F3CEB0
+528,color 4,#6A5444
+526,color 1,#9A746A
+526,color 2,#E5C1AD
+526,color 3,#6D4E47
+526,color 4,#D4A38D
+526,color 5,#534241
+526,color 6,#98776E
+526,color 7,#746B73
+526,color 8,#CA9A94
+523,color 1,#F6DAC1
+523,color 2,#AD8977
+523,color 3,#47352B
+522,Deco,#f1d1c5
+522,Vanilla,#ecccaf
+522,Wheat,#d1a084
+522,Hang,#b18f7d
+522,Nude,#b68369
+522,Cinnamon,#a77d5d
+522,Hazelnut,#987164
+522,Cruise,#6d584e
+522,Vintage,#4d302f
+522,Blackout,#2e2e2e
+521,CORAL,#da5f5f
+521,CURRANT,#a43e5b
+521,BORDEAUX,#771c47
+520,HOLLYWOOD & HIGHLIGHT,#f7e2d4
+520,BEVERLY HILLS BLUSH,#e59395
+520,MULHOLLAND MAUVE,#d6887f
+520,SILVER LAKE SUNSET,#d37a6a
+520,LAUREL CANYON CORAL,#fa7971
+520,ECHO PARK PINK,#ff5d66
+520,FAIRFAX FUCHSIA,#f33fa8
+520,SUNSET & WINE,#942b38
+519,NUDE FAIR,#e49380
+519,NUDE LIGHT,#b47352
+519,NUDE MEDIUM,#a05745
+519,NUDE DARK,#663f38
+519,SIENNA,#ad5240
+519,ROSEBUD,#d3716e
+519,PEONY,#de7e8d
+519,FRENCHIE,#ee8aa1
+519,MELON,#f48376
+519,RUBY,#d71938
+519,CRIMSON,#a31530
+519,FIGGY,#952a3e
+519,VIOLET,#92195d
+519,SHOCKING PINK,#e53368
+519,FUCHSIA,#d21380
+517,MANDARIN (ERIN),#ed262f
+517,HONEY (SARA),#c16055
+516,DO NO WRONG,#904f50
+516,SHAVASANA,#835947
+516,MANDARIN,#c03c3b
+516,CHESTNUT,#642b24
+516,NYLON NUDE,#d99684
+516,FAIR PLAY,#bf999f
+516,OBVI,#d48d93
+516,MAGENTA,#b65689
+516,PUNCH DRUNK,#bb2f67
+516,PARIS PINK,#e5859a
+516,MULBERRY,#8b404c
+516,SHOCK ME PINK,#e75999
+516,PLUM SCENE,#53041c
+516,ELECTRIC PINK,#dd4169
+516,HONEY,#995c50
+516,LATTE,#c08a79
+516,PINK PETAL,#fa6085
+516,VIVID VIOLET,#701e4c
+516,FUCHSIA FLASH,#bb3675
+516,GRENADINE,#82183b
+516,POSY PINK,#e4838e
+516,HIDE OUT,#d3818f
+516,GETS IT,#c37588
+516,PUBLICIST,#c81c71
+516,MAUVE,#cb7988
+516,ROOKIE,#dc7a81
+516,HIRE ME,#c57483
+516,JUST HIT PLAY,#c9636d
+516,STANDING O,#b95952
+516,NUDE BEACH,#da8177
+516,FULL FRONTAL,#cf8171
+516,INSIDE ACCESS,#d69082
+516,BACK TALK,#d9786d
+516,TICKET ME,#c6745d
+516,CALL BACK,#d06c58
+516,NERVE,#a26251
+516,PRESS TOUR,#8d5247
+516,DONE DEAL,#bd7863
+516,NUDE MOOD,#a76458
+516,TAROT CARD,#8a4f52
+516,PHANTOM,#a5786d
+516,WORK IT,#a56858
+516,SAFE WORD,#8b4a45
+516,MONOGAMOUS,#b26f69
+516,CHAI,#aa5e41
+516,DIRTY,#7d3b34
+516,EASY,#a95647
+516,CLIFFHANGER,#73312c
+516,FAMOUS,#b26054
+516,BOOKED,#793c41
+516,LATER,#bb5a54
+516,OFF SCRIPT,#913c33
+516,FIRST TIME,#8a3c3f
+516,ON SET ,#8d564b
+516,JUICE IT,#af4c42
+516,WRAP PARTY,#9f4430
+516,PRIMROSE,#bd6165
+516,STYLIST,#833640
+516,COGNAC,#985349
+516,UNZIPPED,#8f122c
+516,SCREEN QUEEN,#871544
+516,AUDITION,#a15e5f
+516,FEMME FATALE,#703850
+516,HIGH,#8d4241
+516,MADE IT,#711115
+516,BAD MOOD,#8d3d45
+516,STACKED,#5e0a17
+516,MY DIGITS,#8c3b47
+516,WARRIOR POSE,#4c2c28
+516,TOP SHELF,#7d2d2f
+516,TALK TO ME,#ee3882
+516,HIGH STAKES,#733c36
+516,TOTES,#c14961
+516,HATER,#633012
+516,FIREBALL,#ee3538
+516,RIGHT ON RED,#761e1e
+516,POWER ON,#dd3c46
+516,JAM SESH,#6f1b29
+516,PINCH ME,#ba433f
+516,BLACK CHERRY,#690927
+516,BING,#a31228
+516,DEAL BREAKER,#6a0d37
+516,COFFEE RUN,#713236
+516,HOT SEAT,#c1234c
+516,Infrared,#71081e
+516,STRAIGHT UP,#6c351c
+516,JAM ON IT,#780c40
+516,SPECTACLE,#d34031
+516,VIOLET RIOT,#662b65
+516,CASITA,#cf4e39
+516,PLUM ROLE,#310020
+516,ON THE BEACH,#bc3a36
+516,TEMPT ME,#d23a32
+516,HATES PILATES,#472319
+516,GET FIRED,#df2127
+516,PUNKED,#453a3c
+516,HEADLINER,#df3743
+516,9 TO 5,#b5214a
+516,INVITE ONLY,#981925
+516,INSPIRATION,#ac1d4b
+516,ACTION,#a16695
+516,FAN MAIL,#c86ba9
+516,TABLOID,#9a4a96
+516,VALLEY,#f16583
+516,CAN'T TYPE,#ed7fa1
+516,POUT,#feb6ce
+516,PRETTY SOCIAL,#f0aec1
+516,BOMBASTIC,#ef5190
+516,PANORAMA PINK,#bc4d5e
+516,RED RAGE,#c72036
+516,L.A. SUNSET,#c42738
+516,FIG,#78243e
+516,MANIAC,#540734
+516,Legendary,#8e0e26
+516,WITCHY,#4c1920
+516,VINYL,#401e3e
+516,SKINNY JEANS,#103254
+516,DEEP,#20233b
+516,BANKROLLED ,#151516
+516,GRUNGE,#5d4e51
+515,Dream Huge,#af5561
+515,Stepping Out,#9e5c4c
+515,In Demand,#b76f60
+515,Babe Alert,#ad5851
+515,Out Loud,#a04322
+515,Driver's Seat,#9c4035
+515,Baja Bound,#c84b47
+515,Bawse,#a82024
+515,Thrill Seeker,#e74425
+515,Bang-Bang,#cc2127
+515,Blast Off,#cb2648
+515,Shockaholic,#bd2467
+515,Some Nerve,#a856a2
+515,Let's Dance,#923459
+515,Big Spender,#933c44
+515,Disorderly,#7f1917
+515,Girl Gang,#6e1243
+515,Miss Conduct,#640719
+515,True Grit,#53250d
+515,Chill Zone,#635961
+514,,#C49D88
+514,,#AA8475
+514,,#A78371
+512,medium,#9D6C45
+512,light,#B48363
+509,,#9D6855
+509,,#BA8B71
+508,,#D5838E
+507,Glowing Halo ,#B77C59
+507,On Cloud 9 ,#B98963
+506,,#A27B67
+505,Haute Gold,#B78A77
+505,Matte Gold,#BC8B72
+504,,#D7A989
+503,,#AD8C79
+502,,#CE9973
+501,,#C68F63
+500,Medium ,#B48A60
+500,Dark ,#B57F5B
+496,,#DAAB87
+496,,#C79374
+496,,#C79279
+496,,#DFB797
+494,,#906E5A
+493,Light to Medium (1134C)  ,#CFA17F
+493,Medium to Dark (1135C) ,#AF816A
+492,,#BF8970
+491,,#C09E7C
+491,,#DAB3A5
+491,,#DCBAA3
+491,,#B4907C
+489,,#A2734C
+488,Medium Bronze ,#CF9978
+487,Light to Medium (7853C) ,#e0a576
+486,,#A9745E
+485,Soleil (Medium Bronzed Tan with Gold Shimmer)  ,#AA644B
+485,,#BA8265
+484,Medium,#B38864
+484,Light,#BA9569
+481,Earth ,#FFFFFF
+480,,#B2885D
+478,color 1,#C3A785
+478,color 2,#DBBDAD
+478,color 3,#DEC8B4
+478,color 4,#BD9F87
+477,,#9B7163
+477,,#D78A89
+477,,#DBB7A9
+476,,#BF9A8B
+472,Peach ,#FFAE83
+472,Pink ,#E8A78B
+471,,#F6E4E4
+471,,#F1B2C8
+471,,#CC9085
+470,medium,#B18A77
+470,light,#B0907C
+470,Deep,#9C7667
+469,Cheeky Cherub ,#F591A6
+469,Get Me To The Alter ,#E88C90
+469,Luv Me Gently ,#EE8581
+469,Passionate Plum ,#C7797B
+469,Peaching To The Choir ,#EC8389
+464,Hibicus ,#C97E79
+464,Lotus ,#D999AA
+464,Peony ,#D68D98
+464,Rosebud ,#DB92A6
+464,Spring ,#C9888C
+463,Amber ,#D27267
+463,Beach Babe ,#C58A68
+463,Crimson ,#F0404E
+463,Double Dare ,#F66341
+463,Electro ,#E54775
+463,Hamptons ,#F27A82
+463,Intuition ,#D3766C
+463,Soft Spoken ,#F6A083
+463,Summer ,#FE836C
+463,Taupe ,#A57762
+461,Natural Red 02 ,#EB9E84
+461,Rose 03 ,#F3A5A3
+461,Soft Terracotta 04 ,#E5A78E
+460,Bali (Medium Rose Pink) ,#EB9A96
+460,Ibiza (Shimmering Hot Pink) ,#F390AC
+459,Airy - Shimmering Mauve ,#BC7070
+459,Creation - Matte Rosy-pink ,#C88481
+459,Flashy - Matte Coral ,#E4958E
+454,color 1,#DE7E73
+454,color 2,#D67088
+454,color 3,#BB5C5C
+454,color 4,#99504D
+453,Bronzilla ,#9D6542
+453,Classy Coral ,#f58f83
+453,Haute Pink ,#f27186
+453,Mauvelous ,#d47476
+453,Naughty Nude ,#c98077
+453,Oh Baby Pink ,#f5989d
+453,Wine Not ,#ad5063
+450,,#D6857A
+450,,#D3A281
+448,Coral  ,#FB9485
+448,Nude ,#E6AC96
+448,Pink ,#E99DAA
+447,Tender Rose ,#E9B899
+445,Autum (Neutral) ,#b5665f
+445,Hibiscus (Cool) ,#8b2d46
+445,Mango Ice (Warm) ,#f69476
+444,Natural (7859C) ,#e19792
+444,Rose (7860C) ,#faaab5
+441,color 1,#EA8DA4
+441,color 2,#D58A68
+441,color 3,#CC646C
+441,color 4,#E3756F
+440,Twig Blush (Neutral Tones) ,#9B593E
+440,Berry Blush (Cool Tones) ,#A25156
+440,Apricot Blush (Warm Tones) ,#AC564D
+439,Deep Coral  ,#FB8684
+439,Deep Rose ,#F27988
+439,Deep Wine ,#C94A50
+439,Light Rose ,#FFAAAF
+439,Medium Coral  ,#FC9D8F
+439,Medium Nude ,#E89890
+439,Medium Pink ,#FF93A0
+438,,#C08879
+438,,#C3A17C
+437,Bronzed Clove ,#d88a66
+437,Day Lily (Demi-Matte Burgundy) ,#b9484a
+437,Forever Summer	 (Demi-Matte Coral Pink) ,#f47892
+437,Fresh Mandarin ,#ee7f66
+437,Lush Nectarine (Demi-Matte Apricot) ,#c14c38
+437,Strawberry Field  ,#e06989
+437,Sweet Pea ,#f39f94
+437,Tender Twig ,#e07b78
+436,Coral Cove ,#FF818D
+436,Romantic Rose  ,#D06079
+436,Tea Rose ,#F4587A
+435,01-Dolce Pink (Pink Shimmer) ,#F2A5B2
+435,02-Rose D'oro (Pink & Gold Shimmer) ,#EC8079
+435,03-Berry Amore (Rose Berry with Gold Shimmer ) ,#E2918C
+435,05-Luminoso (Luminous Peach Shimmer ) ,#EEA99F
+435,08-Corallina (Coral Shimmer) ,#E17A71
+435,10-Delizioso Pink (Hot Pink Matte) ,#EC70A6
+435,11-Bella Rosa (Bright Raspberry Matte) ,#CD2254
+434,Catalina (Cotton Candy Pink) ,#ED94A0
+434,Key Largo (Tropical Punch) ,#F9283D
+434,Laguna (Tropical Melon) ,#FA5B48
+434,Mendocino (Wildflower Pink with a Gold Sheen) ,#B9746F
+434,Rome (Soft Tangerine) ,#DC7861
+433,,#F3E3D5
+433,,#E7A185
+433,,#E9BB99
+432,,#CC8666
+432,,#E5C0AA
+432,,#CC9873
+431,color 1,#C89282
+431,color 2,#876A51
+430,,#DB9066
+430,,#C26351
+430,,#E3A58E
+430,,#CE8774
+421,Baby Pink (300) ,#FFA8AC
+421,Coral Pink (301) ,#E7807F
+421,Poppy (302) ,#E1506F
+421,Anna Red (400) ,#C32F3D
+421,Super Orange (600) ,#E95E49
+421,Beige Pink (700) ,#DC6C68
+420,Boho Chic (CB11) Light Blue-Toned Pink ,#E4878D
+420,Glow (CB05) Plummy Pink ,#D4696F
+420,Natural (CB02) Soft Light Pink ,#F18F8E
+420,Orange (CB09) Soft Orange ,#EC6A4E
+420,Tea Rose (CB03) Medium Beige-Pink  ,#CA7769
+419,Soft Berry ,#F26F81
+419,Soft Pink ,#F2869D
+418,Heatherwood ,#BC6E7E
+418,Raspberry ,#D88798
+418,Coral ,#F3A0A8
+418,Pink Mademoiselle ,#D46472
+416,BO1 - Dusty Rose ,#cc7c7d
+416,BO2 - Coral ,#bf3938
+416,BO3 - Bubble Gum Pink ,#e2707a
+416,BO4 - Bronzer ,#a76b4f
+416,BO5 - Deep Plum ,#7c3545
+414,Fresh Pink ,#ecc3d5
+414,Hot Tamale ,#ee9cb1
+414,Peach Satin ,#ecbaba
+414,Plum Wine ,#c25159
+413,(300) ,#A85988
+413,(301) ,#DA5067
+413,(302) ,#D94C52
+413,(400) ,#DA3055
+413,(401) ,#6B203E
+413,(600) ,#E8544A
+411,Cherish ,#e898bc
+411,Romantic ,#d74844
+411,Honey ,#cd8083
+411,Rendezvous ,#c16576
+411,Adore ,#b45858
+411,Crush ,#a65875
+411,Smitten ,#a64877
+410,124 Lady and the Vamp ,#8E304A
+410,125 Red-dy or Not ,#DF1536
+410,127 A Stiff Pink ,#FD86BC
+410,128 Pinky Promise ,#CE5858
+410,129 Nudist Colony ,#DE9777
+408,Rouge ,#C73932
+408,Coral Pink ,#F07E84
+408,French Rose ,#CC5A7C
+408,Fuchsia ,#DF6973
+408,Nude Pink ,#D4817C
+408,Pink Mademoiselle ,#CC5B6B
+405,Jewel ,#b8676e
+405,Nude ,#a6636a
+405,Pebble ,#c96e73
+405,Perfect Rose ,#c16574
+405,Sienna ,#d4575f
+405,Spice ,#a25b59
+403,Cinnamon ,#a25d60
+403,Cool Berry ,#863e4c
+403,Natural ,#cc7e68
+403,Nude Attitude ,#845946
+403,Perfect Nude ,#a2615b
+403,Rose Velours ,#cb7671
+402,Deep Nude (LPR02) Sheer Deep Nude ,#C08D72
+402,Nude (LPR01) Sheer Nude ,#EBBAA2
+401,Bliss Berry ,#95374f
+401,Cruise Coffee ,#c04941
+401,Getaway Berry ,#7a1533
+401,Hollywood Beige ,#f79e83
+400,All About Pink ,#B7656D
+400,Always Red ,#6D071D
+400,Au Naturale ,#A05F51
+400,Beyond Pink ,#AE7374
+400,Lasting Plum ,#891635
+400,Nudes For Life ,#7B4C43
+400,Timeless Coral ,#AE7269
+400,Truly Burgundy ,#7C183E
+399,Nude ,#804e37
+399,Java ,#854e39
+399,Glam Red ,#9c1114
+399,Berry ,#862546
+399,Strike A Rose ,#bb0c4d
+399,Vintage ,#953447
+398,Nude ,#A15638
+398,Plum ,#7B4344
+398,Raisin ,#854337
+398,Toast ,#B3705A
+397,Brown ,#6d3735
+397,Plum ,#803339
+397,Red Wine ,#862c3b
+397,Nude ,#884f3f
+397,Rose ,#945a62
+397,Mauve ,#ae4a52
+397,Pink ,#ce6e7e
+396,Bloom ,#931659
+396,Cabaret ,#762528
+396,Currant ,#6E3246
+396,Dolly Pink  ,#E46EBE
+396,Fuchsia  ,#B32464
+396,Natural ,#955C51
+396,Nude Beige  ,#8D644B
+396,Nude Pink  ,#BA6E68
+396,Pale Pink  ,#BB878D
+396,Peekaboo Netural ,#A85A49
+396,Pinky  ,#B12652
+396,Plum ,#6B2635
+396,Prune ,#742C49
+396,Rose  ,#D35A63
+394,Fuschia ,#FF3399
+394,Soft Pink ,#FFB2E6
+394,Plum ,#71161E
+394,Nude ,#883027
+394,Wine ,#931919
+394,Sienna ,#C03C2D
+394,Pink ,#EC444A
+393,All Natural  ,#F2ACA2
+393,Bordeaux ,#932C49
+393,Fuchsia  ,#BE386D
+393,Nude  ,#BD7B85
+393,Pretty Pink  ,#EC81A9
+393,Spice ,#C56D61
+393,True Red  ,#A2051A
+392,No.3 Glamorous Look ,#93474f
+391,Ivory ,#E1AC8C
+391,Buff Beige ,#C99B77
+391,Classic Ivory ,#D5AC8C
+391,Medium Beige ,#BA8A62
+391,Natural Beige ,#C49068
+391,Nude Beige ,#C6956D
+390,Ivory ,#f9e3d5
+390,Vanilla ,#faefdc
+390,Shell ,#f8e5d1
+390,Nude ,#f0d7c4
+390,Golden Beige ,#eacfbb
+390,Natural Beige ,#f2cdaf
+390,Medium Beige ,#f3c8aa
+390,Rich Ginger ,#e2a98e
+390,Caramel ,#ca9774
+389,Light to Medium ,#eabe9b
+389,Medium to Dark ,#daa778
+388,Light ,#fbd0bd
+388,Light / Medium ,#f4c1a4
+383,Nude ,#f5dbc8
+383,Buff ,#f2dfc9
+383,Warm Golden ,#ebcaaf
+383,True Beige ,#eaccb3
+383,Medium Beige ,#e9cdb2
+381,Ivory Beige ,#FBCCA0
+381,Tender Peach ,#F3C391
+381,Natural Beige ,#E5B383
+381,Honey Beige ,#E2AB70
+381,Medium Beige ,#E0AD7C
+381,Warm Beige ,#D79A78
+380,Porcelain (110) ,#FFE4C6
+380,Ivory (115) ,#FFE5C1
+380,Classic Ivory (120) ,#FFD9B9
+380,Natural Beige (220) ,#FACFA8
+380,Toffee (330) ,#D39B70
+380,Coconut (355) ,#CA8B67
+379,Classic Ivory ,#f3d7b3
+379,Light Beige ,#dfc5a8
+379,Nude ,#edd3ac
+379,Porcelain Ivory ,#f5dfc3
+379,Pure Beige ,#d9bcaf
+379,Sandy Beige ,#d8bda8
+378,Sand ,#ECB78F
+376,Amber Honey ,#FBC657
+376,Artic Alabaster ,#F4E2C2
+376,Atlantic Bisque ,#E7C078
+376,Beige In Banff ,#F2B276
+376,Cappuccino ,#DBA621
+376,Caramel ,#E3AE2C
+376,Cocoa ,#A85226
+376,Ebony ,#924C17
+376,Flaxen Field ,#F5D090
+376,Hazlenut ,#DA8F23
+376,Ivory Chinook ,#E2BF80
+376,Maple Sugar ,#C4923E
+376,Mountain Sunset ,#F0D468
+376,Niagara Fawn ,#CFAE61
+376,Nothern Light ,#F6E6B2
+376,Pacific Tan ,#FDCB70
+376,Prairie Rose ,#FBDCB7
+376,Soft Wheat ,#ECC665
+376,Sunkissed Canadian ,#F9D084
+376,Sweet Chocolate ,#A05F21
+374,Light  ,#F1CEAF
+374,Light/Medium ,#E1AF7E
+374,Medium  ,#C18D5C
+373,Fair (MSF01) Fair Complexion with Beige Undertone ,#F7B990
+373,Golden Beige (MSF06) Medium Complexion with Golden Undertone ,#EFAE76
+373,Medium Beige (MSF05) Medium Complexion with Beige Pink Undertone ,#E0A772
+373,Porcelain (MSF02) Light Complexion with Pink Undertone ,#E8C196
+372,Ivory ,#E9CEB1
+372,Natural  ,#E8C29E
+372,Soft Beige  ,#E3BA94
+371,Buff ,#E7C1AD
+371,Medium Beige ,#CDA08E
+371,Sand ,#C58160
+371,Spiced Almond ,#AC6F48
+368,Translucent (7586C) ,#ffffee
+368,Creamy Natural (7587C) ,#ecc9a3
+367,Porcelain (Ultra Fair) ,#ecd1bb
+367,Light ,#E3B89B
+366,Classic Ivory ,#FFD59E
+365,Translucent Light (7314C) ,#f3e2dc
+365,Creamy Natural (7315C) ,#fce3d6
+365,Natural Beige (7316C) ,#f5d6c1
+364,Amber Honey (Deep - Yellow Tone) ,#906832
+364,Beige in Banff (Medium - Cool Tones) ,#C48B5E
+364,Caramel  ,#8F5E31
+364,Cinnamon ,#5D2E17
+364,Cocoa ,#322415
+364,Hazelnut ,#583B1C
+364,Ivory Chinook (Fair - Warm Tones) ,#FBD8A8
+364,Pacific Tan (Medium - Neutral Tones) ,#936F44
+364,Prairie Rose (Fair - Cool Tones) ,#F7AC8C
+362,Creamy Natrual (820),#E6C29B
+362,Buff Beige (825),#E6C29B
+362,Medium Beige (842),#E4C5A2
+362,Classic Ivory (810),#E3C8A3
+356,Olive 2 - for olive skin with green undertones ,#C28C5E
+356,Warm 1 - for light to medium skin with golden undertones ,#D7C1B3
+354,Caramel ,#D39D7B
+354,Classic Ivory ,#F5CAB9
+354,Coconut ,#B37560
+354,Creamy Natural  ,#F3BEAC
+354,Honey Beige  ,#E4A890
+354,Ivory ,#F6D2BC
+354,Natural Beige ,#E2B598
+354,Nude  ,#F1BEAB
+354,Porcelain Ivory ,#F8E0D4
+354,Pure Beige ,#EEBAA4
+354,Sandy Beige  ,#EFC2A1
+354,Warm Porcelain ,#FAE2D6
+353,Coconut  ,#9A6438
+353,Ivory ,#DCBCA3
+353,Porcelain ,#ECD3B2
+353,Rich Tan  ,#C99F6D
+353,Sun Beige  ,#CA9B5F
+352,Ivory ,#EAD3B3
+352,Natural  ,#E8BD90
+352,Nude  ,#D2AD84
+352,Tan  ,#CF9A79
+352,Tawny ,#C38E6A
+350,Golden ,#E2A587
+350,Ice ,#F9E6E0
+350,Rose ,#DBA777
+349,105,#F5C8A6
+349,115,#E6B98F
+349,210,#EEC392
+349,320,#9A7751
+349,215,#F5C497
+349,110,#F8D5A7
+349,220,#F4C891
+347,F01 - light  ,#edbc92
+347,FO2 - medium ,#dc8c68
+347,FO3 - dark ,#ba6839
+345,Light Ivory ,#F9D4B6
+345,Classic Ivory ,#FCD1B9
+345,Nude Beige  ,#E4B99C
+345,Creamy Natural ,#EAC2A8
+345,Natural Buff ,#E1B090
+345,Natural Beige ,#D09F80
+345,Buff Beige ,#D3A389
+345,Sun Beige ,#D2A279
+343,F-70 ,#CC9157
+343,F-10 ,#EAD4AB
+343,F-20 ,#F1C69C
+343,F-30 ,#AF7A52
+343,F-40 ,#B48C5B
+343,F-45 ,#C8A480
+343,F-50 ,#DBA157
+343,F-60 ,#BC7E4D
+343,F-80 ,#AE704B
+343,F-90 ,#834127
+343,F-100 ,#492117
+340,Light ,#f2d7c2
+339,Sun Beige (85) ,#DDA17B
+337,Ivory ,#F9C8AD
+337,Vanilla ,#f7e8cc
+337,Shell ,#fee0c1
+337,Nude ,#e8c3a5
+337,Natural Beige ,#ebb486
+337,Medium Beige ,#ecaa7d
+337,Cool Beige ,#DFA585
+337,Golden Beige ,#dfb698
+337,Rich Ginger ,#d5845d
+337,Caramel ,#af622e
+337,Cappuccino ,#A0633E
+337,Mocha ,#94583F
+336,Warm Beige ,#E5BEA5
+335,Buff Beige  ,#D09A7A
+335,Classic Buff ,#DDB494
+335,Classic Ivory  ,#E1BD9E
+335,Creamy Natural  ,#EEB895
+335,Light Ivory  ,#F0C8A4
+335,Nude Beige ,#ECB991
+335,Perfect Beige  ,#E09E69
+335,Suntan ,#C5936D
+334,01 - Very fair with yellow undertone ,#E9BFA6
+334,025 - Medium/Fair with neutral undertone ,#CEA98E
+334,03 - Medium/Fair with golden undertone ,#D19478
+334,04 - Medium/Dark with yellow undertone ,#A26C52
+334,045 - Medium/Dark with goldenundertone ,#C06F54
+334,05 - Dark with neutral undertone ,#975A3E
+333,Light (6223C) ,#F6C9A0
+333,Medium (6224C) ,#E4A788
+332,Medium Beige ,#e8c1aa
+332,Natural Ivory ,#f2d9c1
+332,Soft Tan ,#ac7a65
+332,Sun Beige ,#b98c78
+332,True Beige ,#dcab98
+331,Light ,#DFBA9C
+331,Light Medium ,#E5B598
+331,Medium ,#CF9776
+330,Classic Ivory ,#DFBDA2
+330,Honey Beige ,#C38961
+330,Light Ivory ,#E3C7AA
+330,Soft Ivory ,#E5C5A3
+329,Light ,#E3B591
+329,Light Medium ,#E3B08F
+329,Medium ,#D89A75
+328,Ivory ,#EBC2A6
+328,Naked ,#EBBE9F
+328,Beige ,#E3B18E
+326,Porcelain/ Light Ivory ,#f6d6bc
+326,Nude Beige ,#f0d1b2
+326,Natural Beige ,#cfa37d
+326,Soft Ivory/ Classic Ivory ,#d4ad89
+326,Natural Buff ,#e5bd99
+325,Classic Ivory ,#efcba7
+325,Shell Beige ,#e5ad8c
+325,Natural Beige ,#e7b381
+325,Golden Beige  ,#eeb57e
+325,Natural Buff  ,#e2ab82
+325,Sun Beige  ,#daa273
+325,Fresh Beige  ,#d29e6e
+325,Caramel Beige  ,#ac7f55
+325,Soft Sable ,#ba713e
+324,Buff ,#F9C79F
+324,Sand Beige ,#F2BC94
+324,Natural Beige ,#E9B39A
+324,True Beige ,#D6A285
+323,01 Macadamia ,#eac9a6
+323,02 Almond ,#dab394
+323,03 Chestnut ,#d1ae9b
+323,04 Hazelnut ,#deb386
+323,05 Nutmeg ,#ca9576
+322,Porecelain ,#F1C6A3
+322,Sand  ,#E7B88E
+321,Classic Ivory (Light 2) ,#FFD59E
+321,Natural Beige (Medium 2.5) ,#CB9E6C
+321,Natural Ivory (Light 3) ,#FFD9A6
+321,Porcelain Ivory (Light 1) ,#FBD8AA
+321,Pure Beige (Medium 2) ,#CE9E88
+320,Porcelain ,#fadbc7
+320,Natural Ivory ,#f1c7b1
+320,Ivory ,#e8b89b
+320,Classic Ivory ,#e6ba9f
+320,Nude Beige ,#e5b495
+320,Buff Beige ,#e2ae8e
+320,Natural Beige ,#dead87
+320,Pure Beige ,#dfa585
+320,Sun Beige ,#d9a37f
+320,Toffee ,#bc855f
+320,Coconut ,#b37750
+319,Ivory ,#FACAAA
+319,Buff ,#F9C79F
+319,True Beige ,#D6A285
+318,C1 Alabaster  ,#FEDABC
+318,C6 Soft Sable  ,#A96E40
+318,C7 Nut Brown ,#A27651
+318,N3 Natural Buff  ,#E4BA8B
+318,N5 True Beige  ,#C89F7B
+318,W1 Porcelain  ,#FFE8CC
+318,W2 Light Ivory  ,#FEDFBF
+318,W3 Nude Beige  ,#E5BF9E
+318,W5 Sand Beige  ,#DAB68D
+318,W8 Creme Cafe ,#B07E59
+317,Ivory (115) ,#F7C2A5
+317,Classic Ivory (120) ,#EFC1A0
+317,Nude Beige (125) ,#E6B18F
+317,Natural Beige (220) ,#CE996F
+316,Arctic Alabaster ,#fde8ba
+316,Beige in Banff ,#f9b982
+316,Prairie Rose ,#f6c9a0
+316,Atlantic Bisque ,#fcd48f
+316,Sunkissed Canadian ,#fabd68
+316,Pacific Tan ,#ecaf54
+316,Soft Wheat ,#f2bd6f
+316,Amber Honey ,#e0a32d
+316,Flaxen Field ,#f0d781
+316,Niagara Fawn ,#dca240
+316,Cappuccino ,#ef9a30
+316,Swiss Chocolate ,#bc6f36
+316,Ebony ,#96442e
+315,Porecelain ,#EFC698
+315,Nude ,#EBB579
+315,Beige ,#D99A67
+312,color 1,#A28D95
+312,color 2,#96789F
+312,color 3,#3B333D
+310,Delicate Rose 08 ,#F8DEEB
+310,Golden Earth 02 ,#F8C4AA
+310,Golden Sand 01 ,#F7DBB6
+310,Ivory 09 ,#F9E6D7
+310,Lilac 07 ,#B8A3C2
+310,Peach Blossom 03 ,#FBCAAA
+310,Shady Green 06 ,#BBAF9F
+310,Smoky Blue 05 ,#A1B4C5
+310,Taupe  04 ,#AB9695
+308,color 1,#C3B098
+308,color 2,#908F7D
+308,color 3,#534C42
+307,Audacious Asphalt ,#515552
+307,Barely Beige ,#D8BFAC
+307,Bronze Truffle ,#B89A89
+307,Charcoal Chrome ,#706A70
+307,Creamy Chocolate ,#5C3B27
+307,Gold Rush ,#DDBA89
+307,Grey Crystal ,#8E8C86
+307,Lavish Lavender ,#7D6F7D
+307,Lilac Lust ,#957B83
+307,Pink Parfait ,#E5AEB9
+302, Nude for green eyes   ,#A68B7D
+302,Amethyst for brown eyes   ,#997E8D
+302,Khaki for hazel eyes   ,#83795B
+299,color 1,#696B73
+299,color 2,#CFC8CB
+299,color 3,#918081
+297,Bad Seed (HS06) Red with Gold Glitter ,#F97169
+297,Damage Control (HS14) Pearly Taupe ,#A6887E
+297,Epic (HS10) Iridescent Violet  ,#845685
+297,Fetish (HS71) Pearly Violet  ,#5E3C4D
+297,Happy Hour (HS27) Matte Medium Brown  ,#8A6741
+297,Heat (HS70) Pearly Copper  ,#AA5048
+297,Lace (HS36) Matte Nude  ,#EBC09E
+297,LOL (HS75) Matte Deep Orange  ,#E47F47
+297,Naked Truth (HS37) Matte Beige  ,#D8B69B
+297,Pink Lady (HS04) Iridescent Dark Pink  ,#F17B95
+297,Pixie (HS86) Pearly Champagne ,#D9C2B4
+297,S.O.S (HS43) Matte Cool Light Brown  ,#B99D87
+297,Sex Kitten (HS73) Peachy Pink Shimmer  ,#F4B6A7
+297,STFU (HS60) Matte Yellow  ,#F7D43A
+297,Ultraviolet (HS12) Matte True Violet  ,#6A4481
+297,Whipped Cream (HS35) Matte White  ,#FEFDF9
+297,Wild Orchid (HS05) Iridescent Fuchsia  ,#E65371
+294,color 1,#A3866F
+294,color 2,#886649
+294,color 3,#805451
+291,Chocolate Suede (95) ,#8A665B
+291,Creamy Beige (80) ,#BD9786
+291,Deep Forest (85) ,#98907A
+291,Dramatic Black (100) ,#484A4E
+291,Vintage Plum (90) ,#B196A6
+288,color 1,#DAC4B4
+288,color 2,#AD8466
+288,color 3,#776862
+288,color 4,#383C58
+287,color 1,#DBAA90
+284,color 1,#D9CFC2
+284,color 2,#E0CBB0
+284,color 3,#BC9A86
+284,color 4,#A08368
+284,color 5,#917362
+284,color 6,#806A60
+283,color 1,#BF9D87
+283,color 2,#BE866B
+283,color 3,#BB8D59
+283,color 4,#664E51
+281,Black Tie (N) ,#373030
+281,Champagne (N) ,#D7AE7A
+281,Close to Cocoa (W) ,#865945
+281,Copper (W) ,#702A1A
+281,Cornflower (N) ,#6D8B93
+281,Deep Plum (N) ,#4E3E3E
+281,Grenada Green (N) ,#377A3C
+281,Lavender Grey (C) ,#A5A1A2
+281,Marsala ,#C24152
+281,Moonstone (C) ,#656D78
+281,Ocean Mist (C) ,#274A65
+281,Peach Freeze (N) ,#EBC8B4
+281,Purple Pride (C) ,#69577F
+280,250B Sugar ,#E6E5E1
+280,251B Brulee ,#D9C4AC
+279,Bad to the Bronze ,#ab897d
+279,Tenacious Teal ,#1d8493
+279,Too Cool ,#d3cfcc
+279,Tough as Taupe ,#81726d
+278,color 1,#7E554A
+278,color 2,#BC8A88
+278,color 3,#D1B6A9
+276,Moreton Bay (Deep Matte Plum) ,#542D7E
+276,Aegean (Turquoise Shimmer) ,#159191
+276,Oz (Warm Golden Yellow Shimmer) ,#E3AF50
+276,St. Tropez (Natural Beige Shimmer) ,#BC977C
+275,Blackberry (Demi-Matte) ,#533C5D
+275,Breeze (Demi-Matte) ,#8CA7B5
+275,Burlap (Matte)  ,#CC9B7B
+275,Cameo (Demi-Matte Light Pink White) ,#ecc2c6
+275,Crocus (Demi-Matte Lilac Purple ,#9786b0
+275,Dove	(Matte Medium Grey) ,#ac9689
+275,Ecru	(Matte Cream) ,#fcdda6
+275,Espresso (Demi-Matte) ,#A06C69
+275,Freesia (Demi-Matte Medium Pink) ,#e38597
+275,Grape (Demi-Matte) ,#A6777A
+275,Luna (Demi-Matte) ,#FBCFB2
+275,Meadow (Demi-Matte) ,#8A9C86
+275,Mirage (Demi-Matte) ,#CEB2A0
+275,Nectar (Demi-Matte) ,#EFB49E
+275,Onyx (Demi-Matte Black) ,#2f2a27
+275,Pewter (Demi-Matte) ,#9D837E
+275,Reef (Demi-Matte Turquoise) ,#6f9087
+275,Sahara (Demi-Matte) ,#C89987
+275,Sterling (Demi-Matte) ,#BAB4B6
+275,Whisper (Demi-Matte) ,#F9DDCB
+273,Inked in Pink (55) ,#fdd3d2
+273,Silver Strike (60) ,#c5c7c8
+273,Barely Branded (70) ,#f2caad
+266,Gold (900) ,#AB9A63
+266,Black (001) ,#5D5855
+266,Whire (002) ,#F9F2EA
+266,Blue (100) ,#5C6085
+266,Brown (500) ,#896652
+260,Purple Smoke ,#623272
+260,Taupe Smoke ,#a57756
+257,Peacock ,#66603c
+257,Bronze Age ,#572e12
+256,Ballerina ,#daaaa0
+256,Taupe du Jour ,#9a6c5f
+256,Vanilla Ice ,#d6c4ac
+256,Wisteria ,#ad95a5
+255,Loch Ness (Navy) ,#4E5768
+255,Pebble Beach (Brown) ,#312414
+255,Pfeiffer Beach (Egg Plant) ,#53484C
+255,Secret Beach (Nude) ,#BEAC9E
+255,Lake Geneva ,#5B7E84
+255,Lake Como ,#3F4B97
+253,Rich Chocolate ,#146849
+252,Azure - Navy Blue ,#48445C
+249,Go Black ,#151219
+249,Cappuccino ,#563734
+249,Graphite ,#54473f
+249,Midnight ,#001d63
+249,Ultraviolet ,#352a6e
+249,Forest ,#2c4236
+246,Metal Daze ,#807e7f
+244,Midnight Black ,#0e0e0e
+244,Taupe ,#2d2824
+244,Expresso ,#37302a
+244,Indigo ,#3f4752
+244,Deep Charcoal ,#363636
+244,Mulberry ,#23132d
+244,Purple Rain ,#8653dc
+244,Electric Blue ,#6a73c2
+244,Effervescent ,#719442
+244,Caribbean ,#43b1a6
+244,Emerald ,#34815d
+244,Blue Lagoon ,#64b3eb
+244,Metal Green ,#163516
+244,Bronze ,#3e3731
+242,Black ,#000000
+242,Charcoal ,#3C393A
+242,Cobalt Blue ,#2A61AC
+242,Highlighter ,#D99A85
+242,Plum ,#242A5F
+242,Pure Purple ,#7F4195
+242,True Teal ,#2F939E
+240,Carbon Black ,#000009
+236,01 Matte Beige & HighGlow ,#F1D5A6
+236,03 Vanilla & Natural Taupe ,#ECBE9C
+235,Black ,#000009
+235,Black Brown ,#4E3801
+235,Carbon Black ,#474747
+234,No. 10 Petrol ,#386e6e
+234,No.4 Night Blue ,#5f769c
+234,No.7 Anthracite ,#5a5b60
+233,Black (05) ,#252A30
+233,Dark Blue (01) ,#072A4A
+233,Soft Brown (04) ,#34383B
+233,Soft Grey (02) ,#5F6A6E
+231,Brown Topaz for Blue Eyes ,#79361d
+231,Purple Amethyst Brown Eyes ,#403D69
+231,Raisin Quartz for Green Eyes ,#5E4643
+230,Onyx ,#736364
+230,Pewter ,#797B7D
+229,Black  ,#221E1F
+229,Brown ,#412828
+228,Immaculate Snow ,#FFFFFF
+228,Midnight Black ,#1B1B1B
+227,Espresso ,#322423
+225,Beauty Blue ,#2e4064
+225,Chocolate Chip ,#56403a
+225,Edgy Emerald ,#008687
+225,Marvelous Maroon ,#854f58
+225,Sparkle Grey ,#837163
+225,Turquoise Flash ,#00849d
+225,Ultra Black ,#000000
+225,Vibrant Violet ,#574c7c
+211,Airliner Blue ,#202446
+211,Jetliner Black ,#272830
+209,Black ,#000000
+209,Brown ,#4E3D36
+207,Krytonite ,#C1CD85
+206,Black  ,#1C1B19
+206,Dark Brown  ,#31241B
+203,Black ,#000000
+203,Brown ,#513E38
+200,Black  ,#1B1815
+200,Dark Brown  ,#5B4539
+198,Blackest Black ,#36312d
+198,Dark Brown ,#403227
+198,Navy ,#27334d
+198,Purple ,#423445
+194,Black ,#1C1B1A
+194,Dark Brown ,#7C4C30
+193,Black Out ,#000006
+193,Green Spark ,#2d6961
+193,Mahogany Flame ,#63453b
+191,Black ,#000000
+191,Brown ,#74482f
+190,Black Gold Foil ,#756446
+190,Brown Foil ,#633832
+190,Navy Foil ,#2b3b5f
+190,Purple Foil ,#442a59
+188,Midnight - Deep Navy ,#141936
+188,Tahitian - Pearl Pearlized Green-Grey with Gold Dust  ,#564728
+185,Black ,#210007
+185,Brown ,#55020F
+178,Black Pearl for Hazel Eyes ,#000000
+178,Purple Amethyst for Brown Eyes ,#6C446C
+177,Blackest Black ,#000000
+177,Brown Black ,#4E2F2F
+175,Blackest Black ,#030005
+175,Black Brown ,#46352D
+174,Black Mica ,#000000
+173,Black (7367C) ,#332A30
+173,Deep Brown (7366C) ,#40272B
+173,Ultra Black (7365C) ,#0B0C08
+172,Black ,#06090A
+171,Black ,#000000
+171,Coffee ,#5B392D
+170,Blackest Black 950 ,#000000
+170,Brown 952 ,#60423B
+170,Charcoal 954 ,#4A484B
+168,Lace Camisole ,#DAC3B1
+167,Shiny Orange Glitter (604) ,#ED8553
+167,Metallic Silver Glitter (004) ,#C7C7C7
+167,Metallic Gold Glitter (802) ,#E1C99D
+167,Shiny Pink Glitter (308) ,#FD76BA
+167,Shell Pink Shimmer (302) ,#CEBCD2
+167,Celadon Grey Shimmer (008) ,#828F98
+167,Mango Spice Shimmer (305) ,#F69082
+167,Gold Beige Shimmer (700) ,#D9BAA7
+167,Deco Blue  Shimmer (101) ,#85C3AE
+167,Pink Flamingo Shimmer (304) ,#F3AC9E
+167,Apricot Matte (601) ,#FEA57B
+167,Rose Red Matte (306) ,#F09891
+167,Sugared Lemon Matte (801) ,#E6C745
+167,Silver White Matte (003) ,#DCE1E7
+167,Ink Blue Matte (103) ,#0380B6
+167,Vivid Pink Non Pearl (311) ,#F55B67
+167,Anna Red Non Pearl (400) ,#B3060C
+167,Royal Purple Non Pearl (202) ,#622A81
+167,Biscuit Non Pearl (701) ,#DBAA82
+167,Rose Grey Non Pearl (007) ,#887C7C
+167,Sweet Pink Non Pearl (303) ,#EFAAA3
+167,Neon Pink Non Pearl (310) ,#F35973
+167,Orchid Non Pearl (201) ,#B185B8
+167,Off White Non Pearl (001) ,#F1F1E7
+167,Stark Black Non Pearl (009) ,#060606
+167,Empire Green Non Pearl (903) ,#004318
+167,Lemon Yellow Non Pearl (800) ,#ECD888
+167,Valencia Non Pearl (603) ,#F25834
+167,Tiger Lily Non Pearl (602) ,#F58786
+165,Blush Bouquet ,#E4A993
+165,I Do ,#DDA4B3
+165,On One Knee ,#967971
+161,Under My Sunbrella ,#D5A026
+161,Summer Love ,#7B113A
+161,Mermaid Dreams ,#104F8D
+161,Endless Keys ,#CA6527
+161,Bop Till You Drop ,#EB4843
+161,Catch A Flick ,#93C0A9
+161,Go For The Pinks ,#DE8FA4
+161,Got It Made in the Shade ,#D4D5B6
+161,Pop The Clutch ,#DCA29E
+161,Blame It On Fat Tuesday ,#3DAC81
+161,Jester Ate the King Cake ,#ECE95E
+161,Party In the Masquerade ,#EE3794
+161,Throw Me Something Purple Please ,#584D97
+157,A Royal Affair  ,#3E0D70
+157,Bermuda Baby  ,#0B8EA7
+157,Cold As Ice ,#96A8B4
+157,Cosmic Dust (Top Coat)  ,#A57B88
+157,Fiesty Fishnet ,#521419
+157,Fired Up Fuchsia  ,#F12BB8
+157,Flamingo Flair  ,#F37B6B
+157,Foxy Lady  ,#F16293
+157,Georgia Peach ,#E3B2A4
+157,Gold Leaf  ,#967D50
+157,Gone Sailing  ,#058B72
+157,Haute Pink  ,#FE3A68
+157,He's With Me! ,#730118
+157,Lilacking Control  ,#837E9A
+157,Loopy Lime ,#02E72D
+157,Mint Julep  ,#93B592
+157,Mother of Pearl (Top Coat)  ,#B1ADA9
+157,Oil Slick  ,#131315
+157,Pearlie Pink  ,#BB687A
+157,Perky Pink  ,#EF4EA4
+157,Plum Sorbet ,#AC0173
+157,Put A Ring On It  ,#E2B7BF
+157,Razzle Dazzle  ,#7450A7
+157,Ruby's Cubes (Top Coat)  ,#8BA85C
+157,Salsa Dance ,#C70F14
+157,Shocked ,#81437B
+157,"Star Light, Star Bright  ",#295D92
+157,Sugar Cube  ,#F5F5F6
+157,Tickled Pink  ,#F2769B
+157,Titanium  ,#989EA5
+157,Yowza Yellow ,#ECFA05
+156,Deep Creek ,#251414
+156,Canadian Wildberries ,#521B3E
+156,Double Double ,#A99483
+156,Lunching In Yorkville ,#C4658F
+156,True North ,#8C0002
+151,Butterflies (40673) ,#e63350
+151,Lola (40660) ,#e21d4b
+151,Oh Cabana Boy (40466) ,#da3778
+151,Terracota (40071) ,#e11936
+149,Acceptance Speech  ,#410211
+149,Backlit  ,#DF036D
+149,Blacklist  ,#020202
+149,Box Office Smash  ,#AD0248
+149,Cameo ,#80ADB3
+149,Casablanca ,#51010E
+149,Casting Couch  ,#F78963
+149,Cinematic  ,#152B77
+149,Cliffhanger  ,#0061BF
+149,End Scene  ,#A00260
+149,Green Screen  ,#007E85
+149,Headliner  ,#FF2784
+149,Iconic  ,#5D0016
+149,Improv  ,#C60C21
+149,Intermission  ,#AD4564
+149,Leading Lady  ,#713A48
+149,Melodrama  ,#071485
+149,Nominee ,#9F1626
+149,Opening Night  ,#640101
+149,Out-Take  ,#EC4697
+149,Overexposed ,#F7F6F6
+149,Preview  ,#EB1B03
+149,Silver Screen  ,#423D38
+149,Special Effects ,#C39561
+149,Spoiler Alert  ,#F51D04
+149,Star Treatment  ,#9A0C2F
+149,The Industry  ,#AC1B82
+149,Tinseltown  ,#B0A07F
+149,Triple Threat  ,#ED4696
+148,Prince Charming (40715) ,#55413a
+148,Hot Chocolate (40719) ,#401e14
+148,Goth (40637) ,#171916
+148,Monroe's Red (40052) ,#db0930
+148,Gorgeous (40131) ,#6c1657
+148,Purple Crush (40464) ,#681364
+148,Forever Crimson (40041) ,#631232
+148,Ruby (40363) ,#591129
+148,Bus Stop Crimson (40087) ,#581328
+148,Vixen (40653) ,#241518
+147,Be More Pacific  ,#017F8D
+147,Black Creme ,#272727
+145,Amethyst Aura ,#394674
+142,Hidden Gems 141 ,#2d4b4d
+142,I Like it Chunky 144 ,#a96e6a
+142,Pop the Bubbles 142 ,#86cecd
+142,Sexy in Sequins 137 ,#3a2657
+142,The Statement Piece 138 ,#d4bc98
+139, Fuchsia (009) ,#e13947
+139,Jamaican Out (174) ,#ba3252
+138,On a Silver Platter ,#827D7A
+138,Lots of Lux ,#005A98
+138,Ignite the Night ,#76868C
+137,Cosmic Flakies ,#efe8db
+137,Golden Confetti ,#7e876b
+137,Golden Glaze ,#e1c490
+137,Holographic Pearls ,#a7aba4
+137,Matte Pearl Glaze ,#f0c9de
+137,Nude Graffiti ,#dec3bc
+137,Pink Glaze ,#d9c2d2
+136,No.7 Metallic Lavender ,#8b6e6b
+134,Blake's Pure Red ,#721f29
+134,Doutzen's Nude ,#AB7680
+134,Eva's Nude ,#E1B89C
+134,Julianne's Nude ,#AF6E67
+134,Liya's Nude ,#72545D
+133,Drops of Jade  (55) ,#037679
+131,Comfy in Cashmere ,#a57f7b
+131,Wrap Me Up ,#f3e5de
+131,Coat Couture ,#938a98
+131,Spun in Luxe ,#2f4a61
+130,Black Magic ,#262425
+130,Celestial Fix (Moon & Stars Glitter) ,#E7E8EA
+130,Sterling (Metcallic) ,#C5C5C7
+129,Ace ,#832A66
+129,Afters ,#45060F
+129,Brill! ,#FEC2BA
+129,British Khaki ,#736641
+129,Broody  ,#B31733
+129,Candy Floss ,#D7E0E8
+129,Chat Up  ,#005B83
+129,Coming Up Roses ,#F57984
+129,Dapper ,#B0A482
+129,Dearie Me! ,#A7485E
+129,Fancy  ,#BA7AA2
+129,Flusher Blusher  ,#FF5575
+129,Her Majesty's Red  ,#DB0100
+129,Jolly Good ,#FF6356
+129,Loverly  ,#FFACB6
+129,Mum's the Word  ,#D09785
+129,Over the Moon  ,#9B9180
+129,Pink Knickers  ,#FFDCD2
+129,Rather Red ,#470900
+129,Shop Girl  ,#FCD1A9
+129,Smashing! ,#F72008
+129,Ta-Ta! ,#CEC8BD
+129,Tea Time ,#AD7A69
+129,Twist & Twirl ,#FFE5EA
+127,No Place Like Chrome ,#6a6f72
+127,Good as Gold ,#a18c70
+127,Penny Talk ,#9e6b56
+126,Baroque Beauty	- Medium Taupe ,#aa897e
+126,Call Me Baby	 - Coral ,#e89488
+126,Cherry Blossom	 - Light Bubble Gum Pink ,#eed4d2
+126,Deep Wine	 - Rich Deep Red Burgundy ,#590203
+126,Eggplant	 - Dark Purple Black ,#4b1d33
+126,Jazz Hands	 - Medium Shimmering Caramel ,#d1b494
+126,Medieval - Deep Grey Brown with Slight Green Undertone ,#7b6a52
+126,Melon Mania	 - Bright Orange Coral ,#f38d6a
+126,Mink	 - Medium Grey ,#8b7267
+126,Nebula - Mixed Pink Glitter ,#BD3871
+126,Saturn	 - Large Gold Glitter and Small Rose Glitter ,#dbc59b
+126,Sheer Love	 - Sheer Nude ,#ebd9cd
+126,Twilight Romance	 - Medium Dusty Rose ,#d8afb7
+126,Velvet Rose	 - Medium Deep Reddish Rose ,#983539
+126,Make it Magenta ,#E44579
+126,Poolside Pink ,#FD5758
+125,Bali Mist (Purple Pearl) ,#C281B6
+125,Black on Black (Black Cream) ,#070706
+125,Boogie Nights (Orange Cream) ,#FC5A21
+125,Cinderella (Blue Shimmer) ,#9AD0C8
+125,Cloud 9 (Orange Pearl) ,#FE920A
+125,Cream Pink  (Pink Cream) ,#EE1F70
+125,Daredevil (Pink Cream) ,#DA1A79
+125,Easy Going (Nude Cream) ,#F8E2CC
+125,Endless Blue (Blue Cream) ,#25348D
+125,Folly (Red Cream) ,#C30D37
+125,Frenzy (Purple Glitter) ,#5B4668
+125,Glass Pink (Pink Shimmer) ,#EEB3A5
+125,Hazard (Orange Cream) ,#F4602B
+125,Hottie (Blue Glitter) ,#6A65BA
+125,Let Me Go (Purple Matte) ,#B69BA0
+125,Let's Talk (Purple Pearl) ,#46197C
+125,Love Nails (Blue Pearl) ,#0BADC1
+125,Midnight Blue (Blue Cream) ,#1A276B
+125,Mint Apple (Green Cream) ,#77A981
+125,Out Of This World (Gray Shimmer) ,#B2ACA5
+125,Pink Forever (Pink Cream) ,#EB7685
+125,Pinky Glitter (Pink Glitter) ,#F792A5
+125,Rich in Heart (Red Pearl) ,#671F20
+125,Rise and Shine (Green Matte) ,#188260
+125,Ruby Ruby (Red Cream) ,#800412
+125,Savage (Blue Matte) ,#016F6E
+125,Snow Me White (White Cream) ,#F3F2F0
+125,Social Ladder (Pink Shimmer) ,#E6B896
+125,Soul Mate (Nude Cream) ,#D37959
+125,Sugar Sugar (Red Shimmer) ,#780613
+125,Timbleberry (Red Cream) ,#FD4431
+125,Tokyo Pearl (White Pearl) ,#EBE8F6
+125,Under 18 (Red Pearl) ,#BD3127
+125,Vacation Time (Nude Cream) ,#A56340
+125,You Just Wait (Pink Pearl) ,#E98C70
+124,Blushing Crystal - Pale pink (sheer finish) ,#E3BFC6
+124,Pink Crush - Sheer pink (glitter finish) ,#EED8E3
+124,Skipping Stone - Light pink (metallic finish) ,#F09AA9
+123,Fury  ,#CC2828
+123,Mutant  ,#033C8D
+123,Nemesis ,#44092B
+123,Red Revenge ,#9A043B
+123,Speed of Light  ,#C0B7AF
+122,Adventurous ,#F15D5A
+122,Bewitching  ,#720a2d
+122,Bubbly ,#F7ABB8
+122,Chameleon ,#BC7F40
+122,Cherries In The Snow ,#C80047
+122,Creme Brulee ,#E1AD94
+122,Daring Graffiti (with Glitter) ,#96181B
+122,Desirable ,#AE6475
+122,Divine ,#5E0012
+122,Dreamer ,#61a9d3
+122,Elegant ,#b29a92
+122,Fearless ,#ed1c24
+122,Hypnotic ,#A03296
+122,Iced Mauve ,#B35448
+122,Iconic ,#2C2E2D
+122,Impulsive ,#4a3574
+122,Irresistible ,#7D8BC8
+122,Optimistic ,#E52F58
+122,Passionate ,#520111
+122,Plum Seduction ,#C6168D
+122,Pure Pearl ,#F9F9F9
+122,Raven Red ,#A5082E
+122,Revlon Red ,#BE0018
+122,Romantique ,#C18076
+122,Sheer Petal ,#FDE4E7
+122,Stunner (with Glitter) ,#B4A48D
+122,Valentine ,#B40B4E
+122,Vivacious ,#EA5994
+122,Vixen ,#66073B
+121,A List (434) ,#be254e
+121,Absolutely Shore ,#C0C8B3
+121,After School Boy Blazer ,#2D3450
+121,Angora Cardi (700) ,#894662
+121,Aruba Blue (280) ,#20417d
+121,Bahama Mama (400) ,#56152f
+121,Ballet Slippers (162) ,#fbf1ef
+121,Beach Bum Blu - Sea Side Blue Pearl (776) ,#43787E
+121,Berry Naughty ,#552C32
+121,Bikini So Tenny (800) ,#b2d8f2
+121,Blanc (008) ,#f1f1ec
+121,Bordeaux (424) ,#5d2d31
+121,Butler Please (819) ,#1d5ca0
+121,Buy Me Cameo (286) ,#b77c66
+121,Carousel Coral ,#CD565B
+121,Chinchilly (696) ,#908080
+121,Cocktails & Coconuts ,#E0BEA6
+121,Cute as a Button (686) ,#e41641
+121,Double Breasted Jacket ,#EE0A5A
+121,Eternal Optimist (676) ,#d2878c
+121,Fashion Playground ,#CDEAD8
+121,Fifth Avenue (444) ,#ee1930
+121,Fiji (348) ,#f9ced7
+121,Find Me An Oasis ,#DEE8EE
+121,Go Overboard (782) ,#004153
+121,Going Incognito ,#225443
+121,Haute In The Heat ,#F9006B
+121,Hi Maintenance ,#D9B3C0
+121,In Stitches (727) ,#81373e
+121,In The Cab-ana ,#61C3D5
+121,Lady Like ,#d5b0b7
+121,Lapiz of Luxury (717) ,#658cbd
+121,Licorice (720) ,#130a09
+121,Lilacism (705) ,#cab1ce
+121,Mademoiselle (384) ,#fff4ee
+121,Madison Ave-hue ,#F46DB9
+121,Marshmallow (024) ,#e9e8e7
+121,Master Plan (779) ,#9d8f8e
+121,Merino Cool (730) ,#776670
+121,Midnight Cami (697) ,#001445
+121,Minimalistic ,#D6C7CD
+121,Mint Candy Apple ,#bde0c5
+121,Mochacino (781) ,#af9a95
+121,Muchi Muchi (152) ,#e9adc1
+121,No More Film (792) ,#32195a
+121,Over the Edge (712) ,#484445
+121,Playdate (783) ,#967bb9
+121,Plumberry (292) ,#a50037
+121,Pretty Edgy ,#2C6D45
+121,Really Red ,#951517
+121,Sand Tropez (745) ,#c8b6a2
+121,Smokin' Hot (739) ,#4f3d49
+121,Stylenomics (806) ,#02221d
+121,Sugar Daddy (473) ,#fde7ea
+121,Sunday Funday ,#FF726F
+121,Tart Deco (709) ,#f2706b
+121,Topless & Barefoot ,#D1C6C5
+121,Trophy Wife (776) ,#0e4a45
+121,Tuck It In My Tux ,#EDE1D6
+121,Turquoise & Caicos (720) ,#74cbc2
+121,Vanity Fairest (120) ,#dfbdbd
+121,Watermelon (127) ,#dc104f
+121,Wicked (249) ,#44001b
+116,"Angel Kisses (Soft, Light Pink) ",#FDA4A6
+116,Berry Go Round (Raspberry Inspired Fuschia) ,#EB00A1
+116,Brand SpankN Blue (Royal Blue Glitter) ,#2762B2
+116,Bubble Trouble ,#8CB4C4
+116,Fairy Fabulous (Soft Purple) ,#BC6497
+116,"Forever Fancy (Shimmer, Bright Pink ",#EB5C78
+116,"Girls Rule! (Bright, Shimmery Purple) ",#C84F85
+116,Glamour Girl (Purple Shimmer with Silver Glitter) ,#B0246B
+116,GlitterBug (Silver Glitter) ,#889D9E
+116,Jazz It Up (Bright Pink Shimmer) ,#F78DCF
+116,LOL (Neon Magenta With Shimmer) ,#FF199F
+116,"Mer-maid in the Shade (Creme, Ocean Blue) ",#20A4CB
+116,"Mint to Be (Creme, Mint Green) ",#D1DFCA
+116,Muddles the Pig ,#EECCCD
+116,"Peace of Cake (Creme, Peachy Coral) ",#FF8C6F
+116,"Periwinkle Little Star (Creme, Pastel Orchid) ",#BCA8C4
+116,"PINKie Promise (Creme, Neon Pink) ",#FD92BE
+116,Radioactive (Glows in the Dark)  ,#EDE6DC
+116,"Sea-quin (Creme, Bright Turquoise) ",#53C5D0
+116,Sweetpea (Sheer Pink) ,#EACBC9
+115,Baby Slipper ,#FF9680
+115,Princess Dress ,#C47690
+115,Rock Star ,#6A84BD
+115,Twinkled Pink ,#EC606B
+115,Twinkled Purple ,#CF72A1
+115,Apple Blossom ,#b95b77
+115,Delicious Peach ,#bb5439
+115,Fairy Glitter ,#ca6780
+115,Mermaid Blue ,#1a4971
+115,Princess Purple ,#733166
+115,Starlight Silver ,#4f4849
+115,Strawberry Delight ,#a20f0f
+115,Sparkling Snow ,#C8D8F2
+115,Ballerina Beauty ,#c3adaf
+115,Eye Candy ,#cd857b
+115,Golden Sunlight ,#b75c3f
+115,Forever Fuchsia ,#aa5477
+114,Plum Fury,#51122B
+114,Red Siren,#A1211C
+114,Phantom Pink,#C5777E
+107,Loved Up - sassy berry-red cream ,#CF2D4F
+107,Old Blighty - brilliant brick red cream ,#B53034
+107,Ruby Murray - delicious deep berry cream ,#AE2343
+106,"Game, Set & Matte ",#FC6E7F
+106,Lacque-y Charm ,#C14E5C
+106,Lacque-y You  ,#B0233E
+106,Lacquerized ,#B41428
+106,Mad for Matte ,#C81E2F
+106,Matte for Me ,#FC5B9D
+106,Matte-r of Fact ,#D03370
+106,She's So Matte ,#C15555
+105,Verve Violet,#ECA4BE
+105,Sultry Sienna,#BF837C
+102,Plum Berry,#864058
+102,Nude,#996066
+102,Wine to Five,#9C5961
+102,Wild Berry,#8B3158
+102,Cinnamon Stick,#744144
+102,Brazen Raisin,#783E49
+101,Adorn - Rich Plum ,#54281F
+101,Blush - Earthy Purple ,#793041
+101,Flicker - Berry ,#892E33
+101,Glisten - Caramel Shimmer ,#B1585C
+101,Smolder - Cherry Red ,#981E29
+98,Amour ,#b22a4a
+98,Cleopatra ,#903459
+98,Couture ,#a3656a
+98,Delight ,#cb5a6e
+98,Enchantment ,#bd7775
+98,Euphoria ,#a84c61
+98,Exuberance ,#a1534f
+98,Feline ,#824e73
+98,French Rose ,#C97DA4
+98,Fuchsia Flare ,#7F355D
+98,Jezebel ,#974f5a
+98,Mauve Avant-Garde ,#9f596b
+98,Nude Pink ,#C18181
+98,Paris Rose ,#a8444e
+98,Passion ,#a83b52
+98,Pink Mademoiselle ,#FC6A86
+98,Revolution ,#a65463
+98,Romanesque ,#b06c69
+98,Rouge En Folie ,#C91A19
+98,Sentimental ,#da8f83
+98,Vivid Coral ,#C75878
+97,Nude Thrill ,#AC7773
+97,Nude Flush ,#BD7A80
+97,Pink Charge ,#D65F84
+97,Electric Pink ,#D73D8C
+97,Fuchsia Ecstasy ,#B12156
+97,Orange Shot ,#BC2830
+97,Rebel Red ,#B7233B
+97,Berry Boost ,#8C1F48
+97,Vivid Violet ,#542A71
+97,Possessed Plum ,#300B28
+96,HD Carenelian ,#a41c42
+96,HD Fire Opal ,#d8242f
+96,HD Garnet ,#cc3b75
+96,HD Petalite ,#f18085
+96,HD Pink Diamond ,#c8a0bc
+96,HD Pink Ruby ,#d9198b
+96,HD Pink Sapphire ,#f07b98
+96,HD Rose Quartz ,#b55d6d
+96,HD Smoky Quartz ,#894643
+96,HD Smoky Topaz ,#ce8886
+96,HD Strawberry Topaz ,#e02246
+96,HD Sunstone ,#ef5e5f
+96,HD Tourmaline ,#eb4296
+95,Chaos (JLP724) Strawberry Pink (Cream) ,#C1486C
+95,Fuschia ,#C27273
+95,Hera (JLP722) Iridescent Soft Fuchsia (Pearl) ,#C9528C
+95,Honey Nectar (JLP720) Soft Brown  ,#BB5F60
+95,Hot Red (JLP704) Bright Blue-Red (Cream) ,#AA202E
+95,Iced Coffee (JLP711) Deep Beige (Cream)  ,#975D4F
+95,Pecan ,#A1605E
+94,Champagne ,#F7E4C6
+94,Key West ,#F8C9BF
+94,Maui ,#EF8087
+94,Santorini ,#FBBBD3
+94,St. Tropez ,#FEC7CC
+93,Coy ,#BF7061
+93,Demure ,#E58674
+93,Enticing ,#8E4852
+93,Provocative ,#A30017
+92,Bermuda (Nude Pink) ,#EBACA3
+92,Bombay (Shimmery Rose) ,#E07875
+92,Bordeaux (Deep Wine) ,#6F1E2C
+92,Dubai (Burnt Nude) ,#CB705D
+92,Kyoto (Baby Pink) ,#E379A1
+92,Las Vegas (Pale Beige) ,#E7A680
+92,Napa (Rich Berry) ,#A32950
+92,Palm Beach (Pink Coral) ,#DA506A
+92,Paris (Deep Red) ,#BC2A2D
+92,Punta Cana (Bright Fuscia) ,#DF5A99
+92,Santa Fe (Deep Apricot) ,#E1A2A3
+92,Sedona (Bright Coral) ,#DB3B3D
+91,Blake's Red  ,#AB0C19
+91,Eva's Red ,#8E1305
+91,Freida's Red ,#C5004B
+91,Julianne's Red ,#D82A37
+91,Liya's Red  ,#C90E32
+91,Zoe's Red  ,#782B2F
+90,Baby Pink ,#DAA8C5
+90,Castle ,#AB6BA0
+90,Chaos ,#970015
+90,Chic (LSS563A) Blue-Toned Bubblegum Pink (Pearl) ,#FF898F
+90,Chloe (LSS521) Iridescent Fuchsia (Pearl) ,#CF337A
+90,Femme (LSS643) Bright Pink-Red (Cream) ,#FA394C
+90,Fig (LSS640) Dark Neutral Pink (Cream) ,#E46A79
+90,Fire (LSS599) Fire-Engine Blue-Toned Red (Cream) ,#DC002C
+90,Flower (LSS619) Blue-Toned Medium Pink (Pearl) ,#E96384
+90,Gala ,#F08C8C
+90,Haute Melon ,#FD6C65
+90,Indian Pink (LSS550) Peachy Pink with Gold Shimmer (Pearl) ,#DE6463
+90,Margarita (LSS597) Shimmery Coral (Pearl) ,#F96173
+90,Narcissus ,#FC86AF
+90,Nyx (LSS507) Tangerine (Pearl) ,#FE7C61
+90,Orange Soda (LSS588) Light Salmon Pink (Cream) ,#E69F73
+90,Peach Bellini (LSS593A) Glittery Coral (Pearl) ,#F76E64
+90,Power (LSS629) Blue-Toned Mauve (Cream) ,#CD859D
+90,Pure Nude (LSS518A) Neutral Baby Pink (Cream) ,#E6A28E
+90,Stella (LSS564A) Bright Yellow-Toned Pink (Cream) ,#F58E7C
+90,Summer Love (LSS617) Beige with Soft Pink Undertones (Cream) ,#DDA1A1
+90,Violet Ray (LSS561) Violet (Cream) ,#7A3760
+90,Vitamin (LSS626) Shimmering Peach (Pearl) ,#FA8F85
+89,Barely Bloomed ,#db967f
+89,Blushing Bud ,#d37d79
+89,Coral Burst ,#f05b4a
+89,Lilac Flush ,#cd86b0
+89,Petal Pink ,#ff8f9d
+89,Rose Rush ,#bd2629
+87,LO1 - Nude Shade ,#955b57
+87,LO2 - PinkyRed  ,#a7082e
+87,LO3 - Barbie Pink ,#bd2150
+87,LO4 - Vintage Ruby Red ,#891228
+87,LO5 - Soft Coral ,#bf3238
+85,Berry Misbehaved ,#EF6E87
+85,Cherry Cherry Bang Bang  ,#CF444B
+85,Fast & Fuchsia  ,#FF94A7
+85,I Like to Mauve It ,#E18CB0
+85,I'm Blushing! ,#F393B0
+85,My-My Magenta ,#C06E8A
+85,Partner in Crimson  ,#B42F3F
+85,Pink Insanity  ,#FF99DC
+85,"Plum, Please ",#955C69
+84,Rose Melody (101)  ,#D15D62
+83,Berry - light  ,#c66294
+83,Pink - light   ,#f3748f
+83,Nude - light   ,#eb796f
+83,Red - light   ,#f51f41
+83,Berry - light / medium   ,#d46179
+83,Pink - light / medium   ,#f05283
+83,Nude - light / medium   ,#af675e
+83,Red - light / medium ,#cb1e4b
+83,Berry - medium   ,#9a3056
+83,Pink - medium ,#dc4787
+83,Nude - medium   ,#763c36
+83,Red - medium   ,#9e1b3b
+82,Dark Pink Frost  ,#AD6678
+82,Fuchsia with Blue Pearl ,#BF1790
+82,Pink Ice ,#E96187
+81,Praline # 340 ,#DA5468
+80,Soft Coral (01) ,#E96B6F
+80,Red Quartz (13) ,#BC525C
+80,Violet Marble (15) ,#B5506E
+80,Pink Topaz (16) ,#DB3D78
+79,Addiction ,#B03062
+79,Seduction ,#D46C6A
+79,Passion ,#9E0C30
+78,Cherry Noir 217 ,#692628
+78,Continual Crimson 213 ,#aa2b37
+78,Everlasting Caramel 201 ,#d9695a
+78,Flamboyant Flamingo 113 ,#dc6d81
+78,Heaven to Henna 205 ,#b75b4e
+78,Infallible Red ,#e01d25
+78,Lilac Infinite 105 ,#b25875
+78,Neverending Nutmeg 119 ,#c5725f
+78,Passionate Petal 111 ,#dc6375
+78,Perpetual Apricot 207 ,#d33c2e
+78,Raisin Revival 215 ,#5a243b
+78,Timeless Rose 115 ,#e89da2
+78,Toujours Teaberry 109 ,#c24651
+78,Violet Parfait 107 ,#a13954
+77,Boho Chic ,#7B050A
+77,Ready 2 Wear ,#B30232
+77,Stylist ,#D04E83
+77,Backstage ,#801b3c
+77,Supermodel ,#9e5e76
+77,Runway ,#a36f68
+77,Iconic ,#b25a5d
+77,Fashionista ,#b64847
+77,Couture ,#c21643
+77,Silhouette ,#c77a9b
+77,Preview ,#cc7183
+77,Socialite ,#ce7e82
+77,Womenswear ,#d47e93
+77,Muse ,#da469a
+77,Finale ,#df274f
+77,Private Viewing ,#eabbaa
+77,Flashing Lights ,#ed8984
+77,Cruise Collection ,#f26f67
+77,High Heels ,#f382a4
+75,HD Camilla ,#b47b6d
+75,HD Dahlia ,#a7363e
+75,HD Geranium ,#ee5c5f
+75,HD Gladiolus ,#da1f3e
+75,HD Hibiscus ,#f1766c
+75,HD Hydrangea ,#e14c70
+75,HD Iris ,#95164a
+75,HD Magnolia ,#df888d
+75,HD Marigold ,#ed4838
+75,HD Peony ,#f07ea4
+75,HD Petunia ,#cb1861
+75,HD Poinsettia ,#cf254c
+75,HD Poppy ,#d8222d
+75,HD Primrose ,#a95661
+75,HD Rose ,#d97484
+75,HD Snapdragon ,#9c4b3f
+75,HD Sweet Pea ,#ef74a5
+75,HD Tulip ,#f07273
+74,Doutzen's Nude ,#DEA1A6
+74,Eva's Nude ,#B16B61
+74,Freida's Nude ,#83605E
+74,JLo's Nude ,#BD7069
+74,Julianne's Nude ,#BA6C6C
+74,Liya's Nude ,#994835
+73,Bare All ,#E3A28C
+73,Blushing Beige ,#EB907D
+73,Nude Lust ,#DD8A78
+73,Maple Kiss ,#A95D50
+73,Truffle Tease  ,#E2937F
+73,Stormy Sahara ,#D47661
+73,Untainted Spice ,#8A3938
+73,Expresso Exposed  ,#590004
+72,Vivid Rose (825) ,#f9005b
+72,Fuchsia Flash (865) ,#ff2e8c
+72,Shocking Coral (870) ,#ff4a62
+72,Electric Orange (880) ,#ff3b00
+72,Pink Pop (880) ,#ff6ab6
+72,On Fire Red (895) ,#ba0000
+71,XOX ,#EB7583
+70,Blush Basin  ,#A86160
+70,Brimming Berry  ,#831F41
+70,Fuchsia Flood ,#AE4B74
+70,Iced Iris ,#CD6A86
+70,Juniper Water  ,#7A2946
+70,Lilly Lake ,#853D53
+70,Magenta Rush  ,#8B214F
+70,Nile Nude ,#B66F61
+70,Ruby Ripple  ,#811A35
+70,Russet River ,#662A2C
+70,Scarlet Soaked ,#892026
+70,Suede Splash  ,#B06A60
+70,Sunset Cruise ,#AE4349
+70,Tulip Tide ,#B26487
+69,Craving Coral ,#ff1303
+69,Daringly Nude ,#e87e74
+69,Faint For Fuchsia ,#ff2f99
+69,Lust for Blush ,#db5c83
+69,Mesmerizing Magenta ,#ec0064
+69,Ravishing Rose (Bright Rose Pink) ,#f5367d
+69,Touch of Spice ,#b63849
+68,Blushing Berry ,#A33750
+68,British Red ,#FF244B
+68,Cinnamon Toast ,#B5353A
+68,Fairest Nude ,#B3857D
+68,Mica ,#C37685
+68,Nature's Blush ,#A44D54
+68,Plum Explosion ,#761214
+68,Ruby Flame ,#c52531
+67,Really Red ,#C21919
+67,Nude Attitude ,#F6B197
+66,Brilliant Bordeaux ,#8E0F34
+66,Premier Plum ,#A14667
+66,#1 Nude ,#BD736B
+66,Iconic Iris ,#C1738F
+66,Top Tomato ,#C20D20
+66,Stellar Sunrise ,#DA2D26
+66,Premium Pink ,#EF4D75
+65,Are you Red-dy ,#E70C2F
+65,Born With It ,#DF8A82
+65,Coral Crush ,#F15B50
+65,Crazy for Coffee ,#8F332C
+65,Warm Me Up ,#CA6E6B
+64,Abu Dhabi ,#9D6D61
+64,Addis Ababa ,#E44B82
+64,Budapest ,#933A40
+64,Buenos Aires  ,#F19988
+64,Cairo  ,#DA956F
+64,Cannes  ,#924A41
+64,Copenhagen  ,#5F192B
+64,Havana ,#612E8D
+64,Ibiza ,#C9404D
+64,Instabul  ,#CD888C
+64,London ,#AE6F66
+64,Morocco ,#F32E17
+64,Moscow ,#103167
+64,Paris ,#E62F67
+64,Prague  ,#9A2B46
+64,San Juan ,#FC5236
+64,Seoul ,#9F3A76
+64,Sydney  ,#F6A9BE
+64,Transylvania  ,#481E32
+64,Vancouver ,#79283B
+64,Zurich  ,#B75E4E
+62,Carolina Coast ,#ff88b1
+62,Napa Vineyard ,#b7021e
+62,Niagara Overlook ,#f9636d
+62,Redwood Forest ,#8c212b
+61,Berry Sorbet ,#AA2A63
+61,Cranberry ,#9B3F4A
+61,Dash of Pink ,#D4233F
+61,Natural  ,#E6A2A3
+61,Rich Red  ,#C63232
+61,Tea Rose ,#D1949C
+61,Wine ,#923144
+60,Cherry Blossom ,#DA3A44
+60,Demure ,#EF8579
+60,Siren ,#FF5B24
+60,Black Cherry ,#4f2114
+60,Berry Haute ,#946893
+60,Mauvy Night ,#B14862
+60,Wine With Everything Cream ,#B3202F
+60,Fuchsia Fusion ,#B62252
+60,Sandalwood Beige ,#BE4D2A
+60,Rose Velvet ,#C4615E
+60,Certainly Red ,#C50032
+60,Plumalicious ,#CA4B63
+60,Porcelain Pink ,#CD808F
+60,Primrose ,#DA89A0
+60,Pink In The Afternoon ,#EB8B86
+60,Love That Red ,#ED062F
+60,Fire & Ice ,#EE001C
+60,Coralberry ,#F26D6D
+60,Champagne on Ice ,#F3A98C
+60,Kiss Me Coral ,#FF4E3A
+60,Smoky Rose ,#a96354
+60,Abstract Orange ,#e2321e
+60,Luminous Pink ,#f7b8b8
+59,Matte Beauty ,#824A4D
+59,Matte Blissful  ,#d590a8
+59,Matte Confident  ,#a42036
+59,Matte Darling ,#A14D57
+59,Matte Diva  ,#e172ac
+59,Matte Fearless ,#301623
+59,Matte Flirty ,#501E31
+59,Matte Glam  ,#7C4182
+59,Matte Iconic ,#870D0D
+59,Matte Innocence  ,#e1b5a4
+59,Matte Kiss ,#981E26
+59,Matte Love ,#421E26
+59,Matte Lux ,#DF4921
+59,Matte Naked  ,#ae5e57
+58,Bronze Beauty (Shimmer) ,#9A3306
+58,Cabaret Blend  ,#5E172D
+58,Catwalk Pink  ,#F296CF
+58,Coral Addict ,#F3574B
+58,Bahama Beige ,#A87363
+58,Best Red (Matte) ,#B6091D
+58,Black Cherry (Cream) ,#6E4148
+58,Blushing Beauty ,#9E283E
+58,Brandy Berry ,#301623
+58,Double Espresso ,#5C3D31
+58,Dulce Caramelo (Pearl) ,#AC5446
+58,Empress ,#C92F0B
+58,Fruit Punch (Cream) ,#D96081
+58,Naturally Chic (Cream) ,#DA7A6C
+58,Nude Creme (Cream) ,#B6605F
+58,Orange-Gina (Pearl) ,#D55B3C
+58,Pink Frost (Metallic) ,#EB9DAD
+58,Plumrose (Cream) ,#963546
+58,Power Pink  ,#E01783
+58,Pretty Natural  ,#D78396
+58,Rebel Rouge ,#A71800
+58,Red Label (Cream) ,#AB0B11
+58,Rose Femme ,#9D6670
+58,Rose Hip (Cream) ,#FE3D93
+58,Ruby Valentine (Vinyl) ,#A5051D
+58,Sangria (Matte) ,#8B2058
+58,Sweet Nectar (Cream) ,#F77234
+58,Teddy Bare (Cream) ,#B26457
+58,Tuscan Toast ,#56181B
+58,Uptown Mauve (Cream) ,#A2356C
+58,Velvet Merlot ,#5A0011
+58,Violet Volt ,#7C109A
+57,Elusive ,#E66675
+57,Shewy ,#F2579B
+57,Standout ,#99302A
+57,Striking ,#E53134
+57,Sultry ,#A93041
+57,Unapologet ,#FF4E62
+56,Party in the Buff ,#FCAE98
+56,Wine Tour ,#7D2D3A
+56,Red Carpet ,#D40D14
+56,Ravishing Rose ,#C55456
+56,Pink Minx ,#F57574
+56,Cheeky ,#C26659
+55,Autumn ,#A16157
+55,Bordeaux Cherry ,#6D333A
+55,Caramel ,#B47965
+55,Carnation (Rose) ,#df6163
+55,Chocolate Kiss ,#663125
+55,Grapefruit (Nude) ,#d09172
+55,Hibiscus ,#9F455A
+55,Morden's Blush ,#94514C
+55,Petunia ,#B14F5B
+55,Razzberry (Plum) ,#a02d4b
+55,Ruby ,#971D28
+55,Sienna (Burnt Bronze Red) ,#c63e26
+55,Strawberry Cream  ,#D94072
+55,Tiger Lily (Bright Coral) ,#de4b41
+54,Graphite (Black) ,#000000
+54,Rock (Brown) ,#452319
+45,Midnight for hazel eyes   ,#18191D
+45,Mocha for green eyes   ,#413736
+45,Plum for brown eyes   ,#3D303E
+45,Sapphire for blue eyes   ,#3B4356
+42,Blackest Black ,#000000
+41,Blackest Black ,#000000
+41,Black ,#231F20
+41,Black Brown ,#4D2C00
+39,Black ,#1B1B1B
+39,Ultra Black ,#000000
+38,Black ,#000000
+38,Dark Brown ,#403426
+32,Very Black ,#000000
+30,Blackest Black ,#000000
+30,Black ,#262633
+30,Black Brown ,#413025
+28,Ultra Black Organics ,#000000
+28,Black Organics ,#282828
+27,Black ,#1B2D2D
+27,Blue ,#26364C
+27,Brown ,#202217
+25,Blackest Black ,#000000
+24,Black ,#262633
+24,Black Brown ,#413025
+23,Blackest Black ,#000000
+23,Brownish Black ,#120C0A
+23,Very Black ,#0E0F11
+20,Brownish Black ,#120C0A
+20,Very Black ,#0E0F11
+19,Blackest Black ,#231F20
+18,Blackest Black ,#000000
+15,Ultra Black Organics (1062C) ,#000000
+15,Black Organics (1063C) ,#282828
+14,Classic Black ,#0D090A
+14,Glam Black ,#000000
+13,Black ,#262626
+13,Carbon Black ,#000000
+12,Blackest Black ,#000000
+11,Blackest Black ,#000000
+11,Very Black ,#202020
+10,Blackest Black ,#030001
+10,Black ,#231F20
+10,Black Brown ,#4D2C00
+10,Blackest Black ,#000000
+9,Blackest Black ,#000000
+9,Brownish Black ,#2d1e17
+8,Very Black ,#0E0F11
+7,Very Black ,#0E0F11
+4,Ultra Black (7883C) ,#000000
+4,Black (7884C) ,#2d2d2d
+3,Ultra Black Organics (7561C) ,#000000
+3,Black Organics (7562C) ,#282828
+2,Black ,#231F20
+2,Black Brown ,#4D2C00
+2,Carbon Black ,#030000
+1,Black ,#000000
+1,Brown ,#3E2829
