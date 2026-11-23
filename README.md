@@ -102,7 +102,7 @@ Open Beauty Facts ──┘
 ## Installation & Execution
 
 1. **Clone the repository:**
-   `git clone https://github.com/nepal-aly/beauty-products-pipeline.git`
+   `git clone https://github.com/Nepal-Ali/beauty-products-pipeline.git`
 
 2. **Navigate to the directory:**
    `cd beauty-products-pipeline`
