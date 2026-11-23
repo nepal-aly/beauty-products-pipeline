@@ -2,6 +2,8 @@
 
 An end-to-end ETL pipeline in Python that extracts makeup and perfume data from two public APIs, cleans it with Pandas, loads it into a SQLite database, and exports it to Excel.
 
+![Top 10 makeup brands by number of products](images/beauty-top-brands.png)
+
 ---
 
 ## Tech Stack
